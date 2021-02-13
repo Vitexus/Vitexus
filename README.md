@@ -8,6 +8,8 @@
 
 <p><a href="https://vitexsoftware.cz">🌐 Check out my website</a></p>
 
+https://www.patreon.com/VitexSoftware
+
 
 <!--
 **Vitexus/Vitexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
