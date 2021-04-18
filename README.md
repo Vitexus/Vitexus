@@ -8,7 +8,7 @@
 
 <p><a href="https://vitexsoftware.cz">🌐 Check out my website</a></p>
 
-https://www.patreon.com/VitexSoftware
+Or support me on https://www.patreon.com/VitexSoftware
 
 
 <!--
