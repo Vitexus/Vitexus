@@ -10,7 +10,11 @@
 
 Or support me on https://www.patreon.com/VitexSoftware
 
-#New Packages
+
+### Latest Debian Packages
+<!-- DEBIAN-PACKAGES-LIST:START -->
+<!-- DEBIAN-PACKAGES-LIST:END -->
+
 
 <!--
 **Vitexus/Vitexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
