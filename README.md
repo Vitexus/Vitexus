@@ -13,6 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [debs2sql 0.3](package.php?package=debs2sql)
+- [php-ondrakoupil-csob 1.8.3](package.php?package=php-ondrakoupil-csob)
+- [php-ondrakoupil-csob-doc 1.8.3](package.php?package=php-ondrakoupil-csob-doc)
+- [php-ondrakoupil-csob-dev 1.8.3](package.php?package=php-ondrakoupil-csob-dev)
+- [abraflexi-reminder 1.4.4](package.php?package=abraflexi-reminder)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
