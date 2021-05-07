@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [zellij-dbgsym 0.7.0](https://vitexsoftware.cz/package.php?package=zellij-dbgsym)
+- [zellij 0.7.0](https://vitexsoftware.cz/package.php?package=zellij)
+- [abraflexi-mailer 0.1](https://vitexsoftware.cz/package.php?package=abraflexi-mailer)
+- [abraflexi-digest 1.25](https://vitexsoftware.cz/package.php?package=abraflexi-digest)
 - [apache2-auth-redmine 0.4](https://vitexsoftware.cz/package.php?package=apache2-auth-redmine)
-- [debs2sql 0.3](https://vitexsoftware.cz/package.php?package=debs2sql)
-- [php-ondrakoupil-csob 1.8.3](https://vitexsoftware.cz/package.php?package=php-ondrakoupil-csob)
-- [php-ondrakoupil-csob-doc 1.8.3](https://vitexsoftware.cz/package.php?package=php-ondrakoupil-csob-doc)
-- [php-ondrakoupil-csob-dev 1.8.3](https://vitexsoftware.cz/package.php?package=php-ondrakoupil-csob-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
