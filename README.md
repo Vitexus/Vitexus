@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [zellij-dbgsym 0.7.0](https://vitexsoftware.cz/package.php?package=zellij-dbgsym)
-- [zellij 0.7.0](https://vitexsoftware.cz/package.php?package=zellij)
-- [abraflexi-mailer 0.1](https://vitexsoftware.cz/package.php?package=abraflexi-mailer)
-- [abraflexi-digest 1.25](https://vitexsoftware.cz/package.php?package=abraflexi-digest)
-- [apache2-auth-redmine 0.4](https://vitexsoftware.cz/package.php?package=apache2-auth-redmine)
+- [u2f-hidraw-policy-dbgsym 1.0.2-1](https://vitexsoftware.cz/package.php?package=u2f-hidraw-policy-dbgsym)
+- [u2f-hidraw-policy 1.0.2-1](https://vitexsoftware.cz/package.php?package=u2f-hidraw-policy)
+- [softu2f-user-daemon 0.4.0](https://vitexsoftware.cz/package.php?package=softu2f-user-daemon)
+- [softu2f-system-daemon 0.4.0](https://vitexsoftware.cz/package.php?package=softu2f-system-daemon)
+- [softu2f 0.4.0](https://vitexsoftware.cz/package.php?package=softu2f)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
