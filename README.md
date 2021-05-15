@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-html 1.31](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-html)
+- [php-vitexsoftware-ease-core 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core)
+- [php-vitexsoftware-ease-core-doc 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core-doc)
+- [php-vitexsoftware-ease-core-dev 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core-dev)
 - [php-spojenet-abraflexi 2.8](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi)
-- [php-spojenet-abraflexi-doc 2.8](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-doc)
-- [php-spojenet-abraflexi-dev 2.8](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-dev)
-- [u2f-hidraw-policy-dbgsym 1.0.2-1](https://vitexsoftware.cz/package.php?package=u2f-hidraw-policy-dbgsym)
-- [u2f-hidraw-policy 1.0.2-1](https://vitexsoftware.cz/package.php?package=u2f-hidraw-policy)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
