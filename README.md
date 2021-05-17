@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [flexibee-client 2021.5.3](https://vitexsoftware.cz/package.php?package=flexibee-client)
+- [flexibee 2021.5.3](https://vitexsoftware.cz/package.php?package=flexibee)
+- [flexibee-server-backup 2021.5.3](https://vitexsoftware.cz/package.php?package=flexibee-server-backup)
+- [composer-global-update 1.2](https://vitexsoftware.cz/package.php?package=composer-global-update)
 - [php-vitexsoftware-ease-html 1.31](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-html)
-- [php-vitexsoftware-ease-core 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core)
-- [php-vitexsoftware-ease-core-doc 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core-doc)
-- [php-vitexsoftware-ease-core-dev 1.18](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-core-dev)
-- [php-spojenet-abraflexi 2.8](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
