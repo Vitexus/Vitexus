@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee-client 2021.5.4](https://vitexsoftware.cz/package.php?package=flexibee-client)
-- [flexibee 2021.5.4](https://vitexsoftware.cz/package.php?package=flexibee)
-- [flexibee-server-backup 2021.5.4](https://vitexsoftware.cz/package.php?package=flexibee-server-backup)
-- [php-vitexsoftware-ease-fluentpdo 1.1](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-fluentpdo)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.1](https://vitexsoftware.cz/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
+- [noson-app-dbgsym 4.4.9](https://vitexsoftware.cz/package.php?package=noson-app-dbgsym)
+- [libnlopt0-dbgsym 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0-dbgsym)
+- [noson-app 4.4.9](https://vitexsoftware.cz/package.php?package=noson-app)
+- [libnlopt0 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0)
+- [libnlopt0-dev 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
