@@ -13,11 +13,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-abraflexi 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi)
+- [php-spojenet-abraflexi-doc 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-doc)
+- [php-spojenet-abraflexi-dev 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-dev)
 - [noson-app-dbgsym 4.4.9](https://vitexsoftware.cz/package.php?package=noson-app-dbgsym)
 - [libnlopt0-dbgsym 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0-dbgsym)
-- [noson-app 4.4.9](https://vitexsoftware.cz/package.php?package=noson-app)
-- [libnlopt0 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0)
-- [libnlopt0-dev 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
