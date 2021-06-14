@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-abraflexi 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi)
-- [php-spojenet-abraflexi-doc 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-doc)
-- [php-spojenet-abraflexi-dev 2.9](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-dev)
-- [noson-app-dbgsym 4.4.9](https://vitexsoftware.cz/package.php?package=noson-app-dbgsym)
-- [libnlopt0-dbgsym 2.7.0-1](https://vitexsoftware.cz/package.php?package=libnlopt0-dbgsym)
+- [flexibee-client 2021.5.5](https://vitexsoftware.cz/package.php?package=flexibee-client)
+- [toriptables 3.0](https://vitexsoftware.cz/package.php?package=toriptables)
+- [php-spojenet-abraflexi 2.10](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi)
+- [php-spojenet-abraflexi-doc 2.10](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-doc)
+- [php-spojenet-abraflexi-dev 2.10](https://vitexsoftware.cz/package.php?package=php-spojenet-abraflexi-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
