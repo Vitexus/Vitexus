@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee-client 2021.6.0](https://vitexsoftware.cz/package.php?package=flexibee-client)
-- [flexibee 2021.6.0](https://vitexsoftware.cz/package.php?package=flexibee)
-- [flexibee-server-backup 2021.6.0](https://vitexsoftware.cz/package.php?package=flexibee-server-backup)
+- [flexibee-client 2021.6.1](https://vitexsoftware.cz/package.php?package=flexibee-client)
+- [flexibee 2021.6.1](https://vitexsoftware.cz/package.php?package=flexibee)
+- [flexibee-server-backup 2021.6.1](https://vitexsoftware.cz/package.php?package=flexibee-server-backup)
 - [composer-global-update 1.3](https://vitexsoftware.cz/package.php?package=composer-global-update)
 - [widelands-dbgsym 1.0](https://vitexsoftware.cz/package.php?package=widelands-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
