@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OpenSource FinTech software
+- 🔭 I’m currently working on OpenSource  (neot even) FinTech software
 
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitexus&show_icons=true)
+![](https://komarev.com/ghpvc/?username=Vitexus)
+![Vitexus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitexus&show_icons=true)
 
 
 <p><a href="https://vitexsoftware.cz">🌐 Check out my website</a></p>
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
