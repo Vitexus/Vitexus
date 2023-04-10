@@ -13,6 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEBIAN-PACKAGES-LIST"
-          feed_list: "https://www.vitexsoftware.cz/rss.php"
+          feed_list: "https://www.vitexsoftware.com/rss.php"
           
           
