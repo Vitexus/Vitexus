@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-ipex-b2b 1.1~bookworm~21](https://repo.vitexsoftware.com/package.php?package=php-spojenet-ipex-b2b)
-- [debs2deb 1.2~bookworm~14](https://repo.vitexsoftware.com/package.php?package=debs2deb)
-- [libjs-font-awesome 1-6~bookworm~4](https://repo.vitexsoftware.com/package.php?package=libjs-font-awesome)
-- [abraflexi-reminder-papermail 1.5~bookworm~24](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder-papermail)
-- [abraflexi-relationship 0.2.2~bookworm~40](https://repo.vitexsoftware.com/package.php?package=abraflexi-relationship)
+- [ldd2debs 0.1~bookworm~15](https://repo.vitexsoftware.com/package.php?package=ldd2debs)
+- [php-mail 1.4.1-1](https://repo.vitexsoftware.com/package.php?package=php-mail)
+- [factorio-headless 1.1.58~bookworm~13](https://repo.vitexsoftware.com/package.php?package=factorio-headless)
+- [phpunit-skelgen 2.1.1~bookworm~9](https://repo.vitexsoftware.com/package.php?package=phpunit-skelgen)
+- [phpdocumentor 3.2.1~bookworm~59](https://repo.vitexsoftware.com/package.php?package=phpdocumentor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
