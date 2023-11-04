@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee-client 2022.4.8](https://vitexsoftware.cz/package.php?package=flexibee-client)
-- [flexibee 2022.4.8](https://vitexsoftware.cz/package.php?package=flexibee)
-- [flexibee-server-backup 2021.6.1](https://vitexsoftware.cz/package.php?package=flexibee-server-backup)
-- [composer-global-update 1.3](https://vitexsoftware.cz/package.php?package=composer-global-update)
-- [widelands-dbgsym 1.0](https://vitexsoftware.cz/package.php?package=widelands-dbgsym)
+- [php-spojenet-ipex-b2b 1.1~bookworm~21](https://repo.vitexsoftware.com/package.php?package=php-spojenet-ipex-b2b)
+- [debs2deb 1.2~bookworm~14](https://repo.vitexsoftware.com/package.php?package=debs2deb)
+- [libjs-font-awesome 1-6~bookworm~4](https://repo.vitexsoftware.com/package.php?package=libjs-font-awesome)
+- [abraflexi-reminder-papermail 1.5~bookworm~24](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder-papermail)
+- [abraflexi-relationship 0.2.2~bookworm~40](https://repo.vitexsoftware.com/package.php?package=abraflexi-relationship)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
