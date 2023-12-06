@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Vitexus)
 ![Vitexus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitexus&show_icons=true)
-
+[![wakatime](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7.svg)](https://wakatime.com/@5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7)
 
 <p><a href="https://vitexsoftware.cz">🌐 Check out my website</a></p>
 
