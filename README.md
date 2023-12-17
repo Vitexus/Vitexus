@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [idle-python3.9 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=idle-python3.9)
+- [libpython3.9-testsuite 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=libpython3.9-testsuite)
+- [composer-debian 1.4~bookworm~7](https://repo.vitexsoftware.com/package.php?package=composer-debian)
+- [igdebi 0.2~bookworm~1](https://repo.vitexsoftware.com/package.php?package=igdebi)
 - [factorio-demo 1.1.57~bullseye~9](https://repo.vitexsoftware.com/package.php?package=factorio-demo)
-- [ldd2debs 0.1~bookworm~15](https://repo.vitexsoftware.com/package.php?package=ldd2debs)
-- [php-mail 1.4.1-1](https://repo.vitexsoftware.com/package.php?package=php-mail)
-- [factorio-headless 1.1.58~bookworm~13](https://repo.vitexsoftware.com/package.php?package=factorio-headless)
-- [phpunit-skelgen 2.1.1~bookworm~9](https://repo.vitexsoftware.com/package.php?package=phpunit-skelgen)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
