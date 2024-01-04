@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3.9-distutils 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=python3.9-distutils)
 - [idle-python3.9 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=idle-python3.9)
 - [libpython3.9-testsuite 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=libpython3.9-testsuite)
 - [composer-debian 1.4~bookworm~7](https://repo.vitexsoftware.com/package.php?package=composer-debian)
 - [igdebi 0.2~bookworm~1](https://repo.vitexsoftware.com/package.php?package=igdebi)
-- [factorio-demo 1.1.57~bullseye~9](https://repo.vitexsoftware.com/package.php?package=factorio-demo)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
