@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3.9-distutils 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=python3.9-distutils)
-- [idle-python3.9 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=idle-python3.9)
-- [libpython3.9-testsuite 3.9.13-1~bookworm~3](https://repo.vitexsoftware.com/package.php?package=libpython3.9-testsuite)
+- [thermoservice 0.1~bookworm~5](https://repo.vitexsoftware.com/package.php?package=thermoservice)
+- [certbot-haproxy 0.1~bookworm~13](https://repo.vitexsoftware.com/package.php?package=certbot-haproxy)
+- [php-cakephp-phinx 0.12.10~jammy~5](https://repo.vitexsoftware.com/package.php?package=php-cakephp-phinx)
 - [composer-debian 1.4~bookworm~7](https://repo.vitexsoftware.com/package.php?package=composer-debian)
 - [igdebi 0.2~bookworm~1](https://repo.vitexsoftware.com/package.php?package=igdebi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
