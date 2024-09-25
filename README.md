@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-abraflexi 1.15.0.459~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
-- [multiflexi-api 1.15.0.459~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-raiffeisenbank 1.15.0.459~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-redmine2abraflexi 1.1.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-redmine2abraflexi)
-- [multiflexi-zabbix 1.15.0.459~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [abraflexi-enhancer 0.1.1.13~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-enhancer)
+- [multiflexi-sms-input 0.1.2.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
+- [nvidia-legacy-390xx-driver-libs 390.157-7](https://repo.vitexsoftware.com/package.php?package=nvidia-legacy-390xx-driver-libs)
+- [nvidia-legacy-390xx-driver-libs-nonglvnd 390.157-7](https://repo.vitexsoftware.com/package.php?package=nvidia-legacy-390xx-driver-libs-nonglvnd)
+- [nvidia-legacy-390xx-egl-icd 390.157-7](https://repo.vitexsoftware.com/package.php?package=nvidia-legacy-390xx-egl-icd)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
