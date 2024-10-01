@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server-backup 2024.6.2.72~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
+- [abraflexi-server 2024.6.2.72~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2024.6.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [phar-composer 1.1.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=phar-composer)
-- [abraflexi-server-backup 2024.6.1.71~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
-- [abraflexi-server 2024.6.1.71~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2024.6.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [file2sharepoint 0.1.0~bullseye~3](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
