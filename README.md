@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-abraflexi 1.15.0.462~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.15.0.462~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
+- [multiflexi-raiffeisenbank 1.15.0.462~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-zabbix 1.15.0.462~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [abraflexi-server-backup 2024.6.2.72~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
-- [abraflexi-server 2024.6.2.72~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2024.6.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [phar-composer 1.1.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=phar-composer)
-- [file2sharepoint 0.1.0~bullseye~3](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
