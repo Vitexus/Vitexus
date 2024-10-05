@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-abraflexi 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
+- [multiflexi-raiffeisenbank 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-zabbix 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [php-vitexsoftware-ease-fluentpdo 1.2.1~bookworm~69](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.2.1~bookworm~69](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
-- [php-vitexsoftware-ease-html 1.40.0.80~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
-- [php-vitexsoftware-ease-html-dev 1.40.0.80~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
-- [php-vitexsoftware-ease-html-doc 1.40.0.80~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
