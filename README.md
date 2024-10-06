@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-bootstrap4-widgets 1.4.0~bookworm~24](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
+- [php-vitexsoftware-ease-bootstrap4-widgets 1.4.0~bookworm~25](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
 - [multiflexi-abraflexi 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 - [multiflexi-api 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
 - [multiflexi-raiffeisenbank 1.15.0.471~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
