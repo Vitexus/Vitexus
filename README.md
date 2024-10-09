@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-fluentpdo 1.2.1~bookworm~70](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.2.1~bookworm~70](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
+- [php-spojenet-pohoda-sql 0.2.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-pohoda-sql)
+- [php-vitexsoftware-ease-fluentpdo 1.2.1.71~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
+- [php-vitexsoftware-ease-fluentpdo-doc 1.2.1.71~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
 - [multiflexi-abraflexi 1.15.0.478~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 - [multiflexi-api 1.15.0.478~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-raiffeisenbank 1.15.0.478~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
