@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
 - [php-vitexsoftware-ease-bootstrap5 0.1.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5)
 - [php-vitexsoftware-ease-bootstrap5-doc 0.1.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-doc)
-- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.0~bookworm~4](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
 - [php-spojenet-pohoda-sql 0.2.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-pohoda-sql)
 - [php-vitexsoftware-ease-fluentpdo 1.2.1.71~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
 <!-- DEBIAN-PACKAGES-LIST:END -->
