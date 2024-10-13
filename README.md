@@ -14,9 +14,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 <!-- DEBIAN-PACKAGES-LIST:START -->
 - [abraflexi-digest 1.31.0.108~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 - [multiflexi-abraflexi-digest 1.31.0.108~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-digest)
-- [php-vitexsoftware-ease-html 1.40.0.85~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
-- [php-vitexsoftware-ease-html-dev 1.40.0.85~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
-- [php-vitexsoftware-ease-html-doc 1.40.0.85~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
+- [php-vitexsoftware-ease-html 1.40.0.86~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
+- [php-vitexsoftware-ease-html-dev 1.40.0.86~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
+- [php-vitexsoftware-ease-html-doc 1.40.0.86~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
