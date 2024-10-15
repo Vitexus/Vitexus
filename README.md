@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [fiobank-statement-tools 0.4.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
+- [multiflexi-fiobank-statement-tools 0.4.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-fiobank-statement-tools)
+- [php-mhujer-fio-api 5.0.1.23~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
 - [php-vitexsoftware-ease-bootstrap5-widgets-abraflexi 1.2.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets-abraflexi)
 - [abraflexi-digest 1.31.0.110~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
-- [multiflexi-abraflexi-digest 1.31.0.110~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-digest)
-- [multiflexi-abraflexi 1.15.0.486~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
-- [multiflexi-api 1.15.0.486~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
