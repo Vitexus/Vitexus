@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-abraflexi 1.15.0.489~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
-- [multiflexi-api 1.15.0.489~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-raiffeisenbank 1.15.0.489~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-zabbix 1.15.0.489~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
-- [fiobank-statement-tools 0.4.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
+- [fiobank-statement-tools 0.4.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
+- [multiflexi-fiobank-statement-tools 0.4.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-fiobank-statement-tools)
+- [multiflexi-abraflexi 1.15.0.490~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.15.0.490~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
+- [multiflexi-raiffeisenbank 1.15.0.490~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
