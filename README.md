@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-bootstrap5 0.1.0.42~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5)
-- [php-vitexsoftware-ease-bootstrap5-doc 0.1.0.42~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-doc)
+- [php-vitexsoftware-ease-bootstrap5 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5)
+- [php-vitexsoftware-ease-bootstrap5-doc 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-doc)
 - [fiobank-statement-tools 0.4.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
 - [multiflexi-fiobank-statement-tools 0.4.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-fiobank-statement-tools)
 - [multiflexi-abraflexi 1.15.0.490~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
