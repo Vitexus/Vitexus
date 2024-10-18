@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [zabbix-apache-conf 1:7.0.4-1+debian12](https://repo.vitexsoftware.com/package.php?package=zabbix-apache-conf)
 - [multiflexi-abraflexi 1.15.0.493~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 - [multiflexi-api 1.15.0.493~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
 - [multiflexi-raiffeisenbank 1.15.0.493~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
 - [multiflexi-zabbix 1.15.0.493~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
-- [php-vitexsoftware-ease-bootstrap5 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
