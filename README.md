@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OpenSource  (neot even) FinTech software
+- 🔭 I’m currently working on OpenSource  (not even) FinTech software
 
 ![](https://komarev.com/ghpvc/?username=Vitexus)
 ![Vitexus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitexus&show_icons=true)
