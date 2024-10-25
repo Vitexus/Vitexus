@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-pohoda-client-checker 0.1.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
-- [pohoda-client-checker 0.1.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
+- [flexibee 2024.6.7](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [multiflexi-pohoda-client-checker 0.2.0.29~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
+- [pohoda-client-checker 0.2.0.29~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [file2sharepoint 0.1.0.4~bullseye](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
 - [abraflexi-pricefixer 2.11.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
-- [abraflexi-email-importer 1.0.1.42~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
