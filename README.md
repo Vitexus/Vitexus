@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-realpad-takeout 0.2.0.23~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
 - [firefox-devedition 90.0b12+.5~bookworm](https://repo.vitexsoftware.com/package.php?package=firefox-devedition)
 - [multiflexi-pohoda-client-checker 0.2.0.30~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [pohoda-client-checker 0.2.0.30~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [multiflexi-pohoda-raiffeisenbank 0.3.1.31~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-raiffeisenbank)
-- [pohoda-raiffeisenbank 0.3.1.31~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
