@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-html 1.40.1.100~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
-- [php-vitexsoftware-ease-html-dev 1.40.1.100~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
-- [php-vitexsoftware-ease-html-doc 1.40.1.100~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
+- [php-vitexsoftware-ease-html 1.40.1.101~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
+- [php-vitexsoftware-ease-html-dev 1.40.1.101~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
+- [php-vitexsoftware-ease-html-doc 1.40.1.101~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
 - [multiflexi-pohoda-client-checker 0.2.0.32~focal](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [php-tools 0.9.13~bookworm](https://repo.vitexsoftware.com/package.php?package=php-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
