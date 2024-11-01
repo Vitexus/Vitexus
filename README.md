@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-mailer 1.3.3.86~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [multiflexi-abraflexi-mailer 1.3.3.86~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
+- [abraflexi-mailer 1.3.3.87~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
+- [multiflexi-abraflexi-mailer 1.3.3.87~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
 - [abraflexi-raiffeisenbank 1.3.1.57~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 - [multiflexi-abraflexi-raiffeisenbank 1.3.1.57~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
 - [multiflexi-abraflexi 1.15.0.514~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
