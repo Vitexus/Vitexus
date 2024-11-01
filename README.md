@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-raiffeisenbank 1.3.2.60~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [abraflexi-raiffeisenbank 1.3.2.60~noble](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 - [multiflexi-abraflexi 1.15.0.516~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 - [multiflexi-api 1.15.0.516~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-abraflexi-raiffeisenbank 1.3.2.60~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
+- [multiflexi-abraflexi-raiffeisenbank 1.3.2.60~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
 - [multiflexi-raiffeisenbank 1.15.0.516~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
