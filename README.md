@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-abraflexi 1.16.0.522~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
-- [multiflexi-api 1.16.0.522~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-raiffeisenbank 1.16.0.522~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-zabbix 1.16.0.522~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [multiflexi-raiffeisenbank 1.16.0.523~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-zabbix 1.16.0.523~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [multiflexi-abraflexi 1.16.0.523~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.16.0.523~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
 - [multiflexi-realpad2mailkit 0.1.3.36~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-realpad2mailkit)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
