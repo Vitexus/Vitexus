@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-realpad2mailkit 0.1.3.41~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-realpad2mailkit)
-- [realpad2mailkit 0.1.3.41~bookworm](https://repo.vitexsoftware.com/package.php?package=realpad2mailkit)
+- [multiflexi-realpad2mailkit 0.1.3.42~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-realpad2mailkit)
+- [realpad2mailkit 0.1.3.42~bookworm](https://repo.vitexsoftware.com/package.php?package=realpad2mailkit)
 - [php-spojenet-pohoda-sql 0.2.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-pohoda-sql)
 - [multiflexi-abraflexi 1.16.0.528~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 - [multiflexi-api 1.16.0.528~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
