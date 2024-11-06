@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-abraflexi 1.18.0.534~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
-- [multiflexi-api 1.18.0.534~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
-- [multiflexi-raiffeisenbank 1.18.0.534~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-zabbix 1.18.0.534~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [multiflexi-abraflexi 1.18.0.538~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.18.0.538~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
+- [multiflexi-raiffeisenbank 1.18.0.538~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-zabbix 1.18.0.538~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [seamonkey 2.53.19+.13~bookworm](https://repo.vitexsoftware.com/package.php?package=seamonkey)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
