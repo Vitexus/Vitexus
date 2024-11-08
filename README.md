@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-pohoda-connector 0.4.1.32~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
+- [php-vitexsoftware-pohoda-connector-doc 0.4.1.32~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
 - [multiflexi-pohoda-client-checker 0.2.0.37~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [pohoda-client-checker 0.2.0.37~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
-- [php-vitexsoftware-pohoda-connector 0.4.1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
-- [php-vitexsoftware-pohoda-connector-doc 0.4.1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
 - [abraflexi-kimai-importer 1.2.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-kimai-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
