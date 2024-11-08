@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-pohoda-client-checker 0.2.0.37~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
+- [pohoda-client-checker 0.2.0.37~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
+- [php-vitexsoftware-pohoda-connector 0.4.1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
+- [php-vitexsoftware-pohoda-connector-doc 0.4.1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
 - [abraflexi-kimai-importer 1.2.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-kimai-importer)
-- [multiflexi-abraflexi-kimai-importer 1.2.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-kimai-importer)
-- [php-vitexsoftware-pohoda-connector 0.4.1.24~focal](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
-- [php-vitexsoftware-pohoda-connector-doc 0.4.1.24~focal](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
-- [multiflexi-raiffeisenbank-statement-tools 1.2.1.27~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
