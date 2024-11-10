@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-abraflexi 1.18.0.548~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-api 1.18.0.548~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-api)
+- [multiflexi-raiffeisenbank 1.18.0.548~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-zabbix 1.18.0.548~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [php-vitexsoftware-pohoda-connector 0.4.2.35~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
-- [php-vitexsoftware-pohoda-connector-doc 0.4.2.35~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
-- [multiflexi-pohoda-client-checker 0.2.0.38~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
-- [pohoda-client-checker 0.2.0.38~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
-- [abraflexi-kimai-importer 1.2.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-kimai-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
