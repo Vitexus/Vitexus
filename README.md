@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-docker 1.19.0.582~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [php-vitexsoftware-pohoda-connector 0.4.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
 - [php-vitexsoftware-pohoda-connector-doc 0.4.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
-- [multiflexi-docker 1.19.0.580~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [multiflexi-raiffeisenbank-statement-tools 1.2.2.29~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 - [raiffeisenbank-statement-tools 1.2.2.29~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
