@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [phpunit-skelgen 2.1.1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=phpunit-skelgen)
 - [multiflexi-docker 1.19.0.584~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [multiflexi-pohoda-client-checker 0.2.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [pohoda-client-checker 0.2.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [php-vitexsoftware-pohoda-connector 0.4.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
-- [php-vitexsoftware-pohoda-connector-doc 0.4.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
