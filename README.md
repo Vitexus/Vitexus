@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-redmine2abraflexi 1.1.1.16~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-redmine2abraflexi)
-- [redmine2abraflexi 1.1.1.16~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
-- [abraflexi-raiffeisenbank 1.3.4.66~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
-- [multiflexi-abraflexi-raiffeisenbank 1.3.4.66~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
-- [abraflexi-matcher 1.0.1.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
+- [multiflexi-docker 1.19.0.594~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [abraflexi-matcher 1.0.2.52~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
+- [cron-abraflexi-matcher 1.0.2.52~bookworm](https://repo.vitexsoftware.com/package.php?package=cron-abraflexi-matcher)
+- [multiflexi-abraflexi-matcher 1.0.2.52~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-matcher)
+- [multiflexi-realpad2mailkit 1.0.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-realpad2mailkit)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
