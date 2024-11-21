@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-docker 1.19.0.601~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [multiflexi-docker 1.19.0.602~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [multiflexi-pohoda-client-checker 0.2.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [pohoda-client-checker 0.2.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [php-spojenet-abraflexi-dev 3.3.0.235~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
