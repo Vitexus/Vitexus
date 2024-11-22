@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-docker 1.19.0.611~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [multiflexi-docker 1.19.0.612~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [abraflexi-server-backup 2024.6.8.76~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [abraflexi-server 2024.6.8.76~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2024.6.8](https://repo.vitexsoftware.com/package.php?package=flexibee)
