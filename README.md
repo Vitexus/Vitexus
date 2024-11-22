@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-pohoda-sql 0.2.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-pohoda-sql)
 - [multiflexi-docker 1.19.0.607~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [abraflexi-matcher 1.0.2.53~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
 - [cron-abraflexi-matcher 1.0.2.53~bookworm](https://repo.vitexsoftware.com/package.php?package=cron-abraflexi-matcher)
 - [multiflexi-abraflexi-matcher 1.0.2.53~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-matcher)
-- [php-vitexsoftware-pohoda-connector 0.4.2.48~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
