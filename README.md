@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-docker 1.19.0.619~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [multiflexi-docker 1.19.0.620~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [vaultwarden 1.32.5-0~bookworm](https://repo.vitexsoftware.com/package.php?package=vaultwarden)
 - [vaultwarden-web-vault 2024.6.2-0~bookworm](https://repo.vitexsoftware.com/package.php?package=vaultwarden-web-vault)
 - [multiflexi-raiffeisenbank-statement-tools 1.3.0.30~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
