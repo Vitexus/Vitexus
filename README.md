@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-fluentpdo-doc 1.4.0.75~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
+- [php-vitexsoftware-ease-fluentpdo 1.4.0.75~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
 - [php-vitexsoftware-pohoda-connector 0.4.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
 - [php-vitexsoftware-pohoda-connector-doc 0.4.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.4.0.74~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
-- [php-vitexsoftware-ease-fluentpdo 1.4.0.74~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
 - [multiflexi-docker 1.19.0.620~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
