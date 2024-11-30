@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-mtr 0.1.0.2~bullseye](https://repo.vitexsoftware.com/package.php?package=multiflexi-mtr)
 - [debs2sql 1.0.0.47~bookworm](https://repo.vitexsoftware.com/package.php?package=debs2sql)
 - [multiflexi-docker 1.20.0.627~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [abraflexi-pricefixer 2.11.1.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
 - [multiflexi-abraflexi-pricefixer 2.11.1.16~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-pricefixer)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.4.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
