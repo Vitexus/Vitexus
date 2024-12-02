@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-pohoda-connector 0.5.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector)
+- [php-vitexsoftware-pohoda-connector-doc 0.5.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohoda-connector-doc)
 - [multiflexi-docker 1.21.0.639~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [redmine2abraflexi 1.1.1.17~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
 - [multiflexi-redmine2abraflexi 1.1.1.17~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-redmine2abraflexi)
-- [raiffeisenbank-statement-tools 1.3.1.35~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
-- [multiflexi-mtr 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-mtr)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
