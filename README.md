@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [raiffeisenbank-statement-tools 1.3.1.37~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
+- [multiflexi-raiffeisenbank-statement-tools 1.3.1.37~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 - [multiflexi-docker 1.21.1.655~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
-- [raiffeisenbank-statement-tools 1.3.1.36~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
-- [multiflexi-raiffeisenbank-statement-tools 1.3.1.36~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 - [abraflexi-server 2024.7.1.78~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2024.7.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
