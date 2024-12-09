@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [pohoda-client-checker 0.2.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
+- [multiflexi-pohoda-client-checker 0.2.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [raiffeisenbank-statement-tools 1.3.1.37~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
 - [multiflexi-raiffeisenbank-statement-tools 1.3.1.37~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 - [multiflexi-docker 1.21.1.655~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
-- [abraflexi-server 2024.7.1.78~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2024.7.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
