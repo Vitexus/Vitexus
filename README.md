@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [pohoda-client-checker 0.2.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
+- [multiflexi-pohoda-client-checker 0.2.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
 - [multiflexi-docker 1.22.0.668~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [php-vitexsoftware-rbczpremiumapi 1.2.3.67~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi)
 - [php-vitexsoftware-rbczpremiumapi-dev 1.2.3.67~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi-dev)
-- [php-vitexsoftware-rbczpremiumapi-doc 1.2.3.67~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi-doc)
-- [pohoda-client-checker 0.2.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
