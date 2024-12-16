@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2024.7.2.79~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2024.7.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server-backup 2024.7.2.79~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [pohoda-client-checker 0.2.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [multiflexi-pohoda-client-checker 0.2.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-client-checker)
-- [multiflexi-docker 1.22.0.670~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
-- [php-vitexsoftware-rbczpremiumapi 1.2.3.67~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi)
-- [php-vitexsoftware-rbczpremiumapi-dev 1.2.3.67~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
