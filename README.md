@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [raiffeisenbank-statement-tools 1.3.1.41~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
-- [multiflexi-raiffeisenbank-statement-tools 1.3.1.41~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
-- [abraflexi-raiffeisenbank 1.3.5.67~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
-- [multiflexi-abraflexi-raiffeisenbank 1.3.5.67~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
-- [multiflexi-docker 1.22.0.673~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [step-cli 0.28.2-1](https://repo.vitexsoftware.com/package.php?package=step-cli)
+- [semaphore 2.10.43](https://repo.vitexsoftware.com/package.php?package=semaphore)
+- [koodo-reader 1.7.2](https://repo.vitexsoftware.com/package.php?package=koodo-reader)
+- [heroic 2.15.2](https://repo.vitexsoftware.com/package.php?package=heroic)
+- [draw.io 25.0.2](https://repo.vitexsoftware.com/package.php?package=draw.io)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
