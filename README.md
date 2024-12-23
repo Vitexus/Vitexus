@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-bootstrap 1.1.1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 - [php-spojenet-abraflexi 3.3.1.245~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
 - [php-vitexsoftware-ease-fluentpdo 1.4.0.78~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
 - [php-spojenet-abraflexi-dev 3.3.1.245~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
 - [php-spojenet-abraflexi-doc 3.3.1.245~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-doc)
-- [php-vitexsoftware-ease-fluentpdo-doc 1.4.0.78~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
