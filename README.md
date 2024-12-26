@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-mailer 1.3.3.92~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
+- [multiflexi-abraflexi-mailer 1.3.3.92~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
 - [multiflexi-docker 1.23.0.687~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
-- [abraflexi-mailer 1.3.3.91~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [multiflexi-abraflexi-mailer 1.3.3.91~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
 - [pohoda-client-checker 0.2.0.48~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
 - [php-vitexsoftware-ease-bootstrap 1.1.1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 <!-- DEBIAN-PACKAGES-LIST:END -->
