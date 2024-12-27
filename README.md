@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-mailer 1.3.4.96~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [multiflexi-abraflexi-mailer 1.3.4.96~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
-- [multiflexi-docker 1.23.0.689~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
-- [pohoda-client-checker 0.2.0.48~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-client-checker)
-- [php-vitexsoftware-ease-bootstrap 1.1.1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
+- [abraflexi-mailer 1.3.4.98~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
+- [abraflexi-server 2024.7.5.82~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2024.7.5](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [multiflexi-abraflexi-mailer 1.3.4.98~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
+- [abraflexi-server-backup 2024.7.5.82~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
