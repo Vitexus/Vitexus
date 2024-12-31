@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2025.1.0.83~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.1.0](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server-backup 2025.1.0.83~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [php-vitexsoftware-multiflexi-server 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server)
 - [php-vitexsoftware-multiflexi-server-dev 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server-dev)
-- [abraflexi-mailer 1.3.4.98~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [abraflexi-server 2024.7.5.82~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2024.7.5](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
