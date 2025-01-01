@@ -15,7 +15,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 - [abraflexi-server 2025.1.1.84~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.1.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [abraflexi-server-backup 2025.1.1.84~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
-- [multiflexi-docker 1.23.0.695~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
+- [multiflexi-docker 1.23.0.694~focal](https://repo.vitexsoftware.com/package.php?package=multiflexi-docker)
 - [php-vitexsoftware-multiflexi-server 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
