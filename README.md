@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-ipex 0.1.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [multiflexi-abraflexi-ipex 0.1.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
+- [abraflexi-ipex 0.1.0.5~focal](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [multiflexi-abraflexi-ipex 0.1.0.5~focal](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
 - [php-vitexsoftware-ease-bootstrap 1.1.1.14~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 - [php-vitexsoftware-ease-bootstrap5 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5)
 - [php-vitexsoftware-ease-bootstrap5-doc 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-doc)
