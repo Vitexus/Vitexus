@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2025.2.1.87~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.2.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [abraflexi-server-backup 2025.2.1.87~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
+- [abraflexi-server 2025.2.3.88~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.2.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server-backup 2025.2.3.88~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [discomp2abraflexi 0.3.1.39~bullseye](https://repo.vitexsoftware.com/package.php?package=discomp2abraflexi)
 - [multiflexi-discomp2abraflexi 0.3.1.39~bullseye](https://repo.vitexsoftware.com/package.php?package=multiflexi-discomp2abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
