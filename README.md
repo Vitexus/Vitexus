@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [cnb-tools 0.1.0.4~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools)
-- [cnb-tools-sqlite 0.1.0.4~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools-sqlite)
-- [cnb-tools-mysql 0.1.0.4~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools-mysql)
+- [cnb-tools 0.1.0.6~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools)
+- [cnb-tools-sqlite 0.1.0.6~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools-sqlite)
+- [cnb-tools-mysql 0.1.0.6~bullseye](https://repo.vitexsoftware.com/package.php?package=cnb-tools-mysql)
 - [abraflexi-server 2025.2.3.88~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.2.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
