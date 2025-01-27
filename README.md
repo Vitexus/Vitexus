@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [cnb-cache 0.1.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
-- [cnb-cache-mysql 0.1.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
-- [cnb-cache-sqlite 0.1.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
+- [cnb-cache 0.1.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
+- [cnb-cache-mysql 0.1.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
+- [cnb-cache-sqlite 0.1.0.40~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
 - [pohoda-raiffeisenbank 1.2.1.84~focal](https://repo.vitexsoftware.com/package.php?package=pohoda-raiffeisenbank)
 - [multiflexi-pohoda-raiffeisenbank 1.2.1.84~focal](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
