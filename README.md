@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2025.3.3.90~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.3.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [abraflexi-server-backup 2025.3.3.90~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
+- [abraflexi-server 2025.3.4.91~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.3.4](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server-backup 2025.3.4.91~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [cnb-cache 0.1.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
 - [cnb-cache-mysql 0.1.0.41~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
