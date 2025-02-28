@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2025.3.7.94~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.3.7](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [abraflexi-server-backup 2025.3.7.94~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
+- [abraflexi-server 2025.3.8.95~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.3.8](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server-backup 2025.3.8.95~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [php-spojenet-csas-accountsapi 0.5.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-csas-accountsapi)
 - [php-spojenet-csas-accountsapi-dev 0.5.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-csas-accountsapi-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
