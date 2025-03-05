@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-authorize 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
-- [multiflexi-csas-authorize 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
+- [csas-authorize 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [multiflexi-csas-authorize 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
 - [abraflexi-server-backup 1.0.1.7~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 - [abraflexi-server 2025.3.8.95~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.3.8](https://repo.vitexsoftware.com/package.php?package=flexibee)
