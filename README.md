@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2025.3.9.96~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.3.9](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [csas-authorize 0.1.0.34~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
 - [csas-authorize-mysql 0.1.0.34~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 - [csas-authorize-sqlite 0.1.0.34~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
-- [multiflexi-csas-authorize 0.1.0.34~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
-- [abraflexi-server-backup 1.0.1.7~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
