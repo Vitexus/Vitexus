@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-authorize 0.1.1.35~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
-- [csas-authorize-mysql 0.1.1.35~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
-- [csas-authorize-sqlite 0.1.1.35~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
-- [multiflexi-csas-authorize 0.1.1.35~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
+- [csas-authorize 0.1.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.1.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.1.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-csas-authorize 0.1.2.36~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
 - [abraflexi-server 2025.3.9.96~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
