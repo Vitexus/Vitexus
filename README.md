@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-statement-tools 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [multiflexi-csas-statement-tools 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
+- [csas-statement-tools 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
+- [multiflexi-csas-statement-tools 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 - [csas-authorize 0.2.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
 - [csas-authorize-mysql 0.2.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 - [csas-authorize-sqlite 0.2.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
