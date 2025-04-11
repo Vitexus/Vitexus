@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-kb-accountsapi 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-kb-accountsapi)
+- [php-spojenet-kb-accountsapi 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-kb-accountsapi)
 - [php-abraflexi-datatables 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-abraflexi-datatables)
 - [abraflexi-server 2025.4.0.97~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.4.0](https://repo.vitexsoftware.com/package.php?package=flexibee)
