@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-pohodaser 0.1.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohodaser)
+- [php-vitexsoftware-pohodaser 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohodaser)
 - [abraflexi-server 2025.4.1.98~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.4.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [php-vitexsoftware-ease-bootstrap5-widgets 1.4.1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
