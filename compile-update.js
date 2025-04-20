@@ -50,7 +50,7 @@ const { execSync } = require('child_process');
       if (commits.length > 0) {
         updateText += `Repository: ${repo.name}\n`;
         commits.forEach(commit => {
-          updateText += `- ${commit.message} Link\n`;
+          updateText += `- ${commit.message}\n`;
         });
         updateText += '\n';
       }
