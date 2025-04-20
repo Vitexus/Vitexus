@@ -1,3 +1,6 @@
+const fs = require('fs');
+const { execSync } = require('child_process');
+
 (async () => {
   const { Octokit } = await import("@octokit/rest");
   const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
@@ -34,8 +37,12 @@
 
   async function compileUpdate(orgs) {
     const repos = await getAllRepos(orgs);
-    console.log('Checking the following repositories:');
-    repos.forEach(repo => console.log(`- ${repo.name}`));
+
+    // Calculate date range in SQL format
+    const endDate = new Date();
+    const startDate = new Date();
+    startDate.setDate(endDate.getDate() - 7);
+    const dateRange = `Date Range: ${startDate.toISOString().split('T')[0]} to ${endDate.toISOString().split('T')[0]}\n\n`;
 
     let updateText = 'Weekly GitHub Commits:\n\n';
     for (const repo of repos) {
@@ -48,8 +55,18 @@
         updateText += '\n';
       }
     }
-    console.log(updateText);
-    // You can add code here to send the update to Teams or save it to a file
+
+    // Combine date range and update text
+    const finalText = dateRange + updateText;
+    console.log(finalText);
+
+    // Write the final text to weekly.md
+    fs.writeFileSync('weekly.md', finalText);
+
+    // Commit the file to the repository
+    execSync('git add weekly.md');
+    execSync('git commit -m "Weekly update"');
+    execSync('git push');
   }
 
   const organizations = ['Spoje-NET', 'VitexSoftware']; // Replace with your organizations
