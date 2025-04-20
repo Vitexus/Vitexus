@@ -34,6 +34,9 @@
 
   async function compileUpdate(orgs) {
     const repos = await getAllRepos(orgs);
+    console.log('Checking the following repositories:');
+    repos.forEach(repo => console.log(`- ${repo.name}`));
+
     let updateText = 'Weekly GitHub Commits:\n\n';
     for (const repo of repos) {
       const commits = await getCommits(repo);
@@ -49,6 +52,6 @@
     // You can add code here to send the update to Teams or save it to a file
   }
 
-  const organizations = ['org1', 'org2']; // Replace with your organizations
+  const organizations = ['Spoje-NET', 'VitexSoftware']; // Replace with your organizations
   compileUpdate(organizations);
 })();
