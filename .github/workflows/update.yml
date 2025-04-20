@@ -1,0 +1,20 @@
+name: Weekly Update
+on:
+  schedule:
+    - cron: '0 16 * * 5' # Runs every Friday at 18:00 CET (16:00 UTC)
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install @octokit/rest
+      - name: Fetch commits and compile update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB }}
+        run: node compile-update.js
