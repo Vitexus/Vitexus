@@ -12,15 +12,24 @@
   }
 
   async function getCommits(repo) {
-    const { data } = await octokit.repos.listCommits({
-      owner: repo.owner.login,
-      repo: repo.name,
-      since: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString(), // Last week
-    });
-    return data.map(commit => ({
-      message: commit.commit.message,
-      url: commit.html_url,
-    }));
+    try {
+      const { data } = await octokit.repos.listCommits({
+        owner: repo.owner.login,
+        repo: repo.name,
+        since: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString(), // Last week
+      });
+      return data.map(commit => ({
+        message: commit.commit.message,
+        url: commit.html_url,
+      }));
+    } catch (error) {
+      if (error.status === 409) {
+        console.log(`Repository ${repo.name} is empty.`);
+        return [];
+      } else {
+        throw error;
+      }
+    }
   }
 
   async function compileUpdate(orgs) {
@@ -28,11 +37,13 @@
     let updateText = 'Weekly GitHub Commits:\n\n';
     for (const repo of repos) {
       const commits = await getCommits(repo);
-      updateText += `Repository: ${repo.name}\n`;
-      commits.forEach(commit => {
-        updateText += `- ${commit.message} Link\n`;
-      });
-      updateText += '\n';
+      if (commits.length > 0) {
+        updateText += `Repository: ${repo.name}\n`;
+        commits.forEach(commit => {
+          updateText += `- ${commit.message} Link\n`;
+        });
+        updateText += '\n';
+      }
     }
     console.log(updateText);
     // You can add code here to send the update to Teams or save it to a file
