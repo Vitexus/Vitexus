@@ -1,5 +1,6 @@
 name: Weekly Update
 on:
+  workflow_dispatch: # Add this to enable manual triggering
   schedule:
     - cron: '0 16 * * 5' # Runs every Friday at 18:00 CET (16:00 UTC)
 jobs:
