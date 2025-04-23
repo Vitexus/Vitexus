@@ -16,7 +16,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 - [php-vitexsoftware-pohodaser 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohodaser)
 - [abraflexi-server 2025.4.1.98~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.4.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
+- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.1.9~bullseye](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
