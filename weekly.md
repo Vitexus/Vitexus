@@ -1,9 +1,9 @@
-Date Range: 2025-04-13 to 2025-04-20
+Date Range: 2025-04-18 to 2025-04-25
 
 Weekly GitHub Commits:
 
 Repository: php-abraflexi
-- AbraFlexi release v2025.4.1
+- AbraFlexi release v2025.4.2
 
 Repository: .github
 - Enhanced Pohoda product list
@@ -16,4 +16,16 @@ Repository: PHP-Realpad-Takeout
 
 Repository: pohoda-raiffeisenbank
 - Better Commandline args parsing
+
+Repository: Flexplorer
+- debian dependency fix
+- added missing path to /usr/share/php/EaseHtmlWidgets/
+- missing dependency to php-vitexsoftware-ease-html-widgets added
+- do not use fuelux anymore
+- v1.5.1 release
+- deb deps fix
+- composer.lock update
+- deb deps update
+- deb deps update
+- changes api viewer update
 
