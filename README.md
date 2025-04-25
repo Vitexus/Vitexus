@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2025.4.2.99~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.4.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [php-spojenet-realpad-takeout 1.0.1.26~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
 - [php-vitexsoftware-pohodaser 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-pohodaser)
-- [abraflexi-server 2025.4.1.98~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.4.1](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [php-vitexsoftware-ease-bootstrap5-widgets 1.4.1.9~bullseye](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
