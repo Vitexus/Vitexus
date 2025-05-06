@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2025.4.2.100~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [abraflexi-cashier 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
 - [multiflexi-abraflexi-cashier 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-cashier)
 - [debs2sql 1.1.0.48~focal](https://repo.vitexsoftware.com/package.php?package=debs2sql)
-- [abraflexi-server 2025.4.2.99~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2025.4.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
