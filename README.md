@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-realpad-takeout 1.0.1.27~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
 - [abraflexi-server 2025.4.2.128~jammy](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [php-vitexsoftware-ease-bootstrap 1.1.1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 - [abraflexi-cashier 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
 - [multiflexi-abraflexi-cashier 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-cashier)
-- [debs2sql 1.1.0.48~focal](https://repo.vitexsoftware.com/package.php?package=debs2sql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
