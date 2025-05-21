@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcfly-dbgsym 0.9.3~bookworm~61](https://repo.vitexsoftware.com/package.php?package=mcfly-dbgsym)
 - [pohoda-realpad 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
 - [multiflexi-pohoda-realpad 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
 - [php-spojenet-realpad-takeout 1.0.1.27~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
 - [abraflexi-server 2025.4.2.128~jammy](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [php-vitexsoftware-ease-bootstrap 1.1.1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
