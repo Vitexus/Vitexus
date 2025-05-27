@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [bw-cli 2025.4.0](https://repo.vitexsoftware.com/package.php?package=bw-cli)
-- [mcfly-dbgsym 0.9.3~bookworm~61](https://repo.vitexsoftware.com/package.php?package=mcfly-dbgsym)
-- [pohoda-realpad 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
-- [multiflexi-pohoda-realpad 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
-- [php-spojenet-realpad-takeout 1.0.1.27~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
+- [csas-statement-tools 0.1.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
+- [csas-authorize 0.2.0.48~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [multiflexi-csas-statement-tools 0.1.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
+- [csas-authorize-mysql 0.2.0.48~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.0.48~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
