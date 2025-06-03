@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-realpad 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
-- [multiflexi-pohoda-realpad 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
+- [pohoda-realpad 0.1.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
+- [multiflexi-pohoda-realpad 0.1.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
 - [csas-authorize 0.2.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
 - [csas-authorize-mysql 0.2.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 - [csas-authorize-sqlite 0.2.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
