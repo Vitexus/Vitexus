@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-enhancer 0.2.0.17~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-enhancer)
+- [abraflexi-enhancer 0.2.0.16~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-enhancer)
 - [pohoda-realpad 0.1.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
 - [multiflexi-pohoda-realpad 0.1.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
 - [csas-authorize 0.2.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
