@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [flexibee-client 2025.5.0](https://repo.vitexsoftware.com/package.php?package=flexibee-client)
 - [pohoda-realpad 0.1.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
 - [multiflexi-pohoda-realpad 0.1.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
 - [csas-statement-tools 0.1.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
 - [multiflexi-csas-statement-tools 0.1.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
-- [abraflexi-enhancer 0.2.0.16~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-enhancer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
