@@ -1,11 +1,18 @@
-Date Range: 2025-06-06 to 2025-06-13
+Date Range: 2025-06-13 to 2025-06-20
 
 Weekly GitHub Commits:
 
-Repository: pohoda-raiffeisenbank
-- Update dependencies and enhance date/time handling
+Repository: spojeitisac
+- Current State
 
-Upgrades required and development dependencies to newer versions for improved compatibility and stability. Enhances date/time handling by adding precision to intervals and aligning formatting. Refactors statement processing logic for better clarity and reliability. Replaces deprecated namespace references with updated ones for consistency.
+Repository: discomp2abraflexi
+- Updates dependencies and improves API client functionality
 
-Improves localization support in status messages and adjusts output file handling for better configurability. Refines logging of banner details and processing scope for debugging purposes.
+Upgrades multiple dependencies in composer.json to newer versions for better compatibility and features.
+
+Refines API client error handling by using HTTP response codes and enhances image retrieval logic with a dedicated cURL handle, improving flexibility and reliability.
+
+Optimizes Importer class by clearing object references and invoking garbage collection to free up resources.
+
+Fixes a typo in a function parameter docblock and adds a new test to validate repeated image downloads.
 
