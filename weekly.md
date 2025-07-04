@@ -1,63 +1,37 @@
-Date Range: 2025-06-20 to 2025-06-27
+Date Range: 2025-06-27 to 2025-07-04
 
 Weekly GitHub Commits:
 
 Repository: php-abraflexi
-- Bump version to 3.6.0 and add overpayment handling
-- Update for AbraFlexi 2025.5.2
-- Adds support for overpayment document type in payment pairing
+- AbraFlexi release v2025.6.0
+- Code reformat
+- Code helper class introduced
+- Add new evidence classes for AbraFlexi
 
-Extends the `sparujPlatbu` method to include an optional `overpayTo` parameter, allowing specification of the document type for overpayment during payment pairing.
+- Created classes for various evidence types including StavCeniku, StavObchodnihoDokladu, StavSkladuKDatu, StavSmlouvy, StavUctu, StavZakazky, Stredisko, StromKoren, Subjekt, SumaceSestavy, Text, TypAktivity, TypAtributu, TypBanka, TypDokladu, TypFakturyPrijate, TypFakturyVydane, TypInternihoDokladu, TypLeasingu, TypMajetku, TypNabidkyPrijate, TypNabidkyVydane, TypNakladu, TypObjednavkyPrijate, TypObjednavkyVydane, TypOrganizace, TypPohledavky, TypPokladniPohyb, TypPoptavkyPrijate, TypPoptavkyVydane, TypProdejky, TypSkladovyPohyb, TypSmlouvy, TypStavuCeniku, TypUzivatelskeVazby, TypVzajemnychZapoctu, TypZakazky, TypZavazku, Ucet, UcetniDenik, UcetniOdpis, UcetniOsnova, UlozenePriznaniDph, UlozenePriznaniKonVykDph, Umisteni, UmisteniUctu, UmisteniVeSkladu, UmisteniVeSkladuMistnost, UmisteniVeSkladuPolice, UmisteniVeSkladuRegal, Uzivatel, UzivatelskaVazba, UzivatelskyDotaz, UzivatelskyDotazParametr, UzivatelskyDotazVlastnost, Vazba, VazebniDoklad, VykazHospodareni, VysledovkaPoUctech, VzajemnyZapocet, Xslt, Zakazka, ZalohaKOdpoctu, Zapujcka, ZavazekPolozka.
 
-Improves flexibility in handling overpayments via REST API integration.
-- Updates handling of relation values and column info
+- Updated force_update_all.sh to include generate_actions_json.php.
+- Added generate_evidence_classes.php script for generating evidence classes based on JSON configuration.
+- Fix date formatting in evidence queries to use Date::$format
+- Refactors `RO` class and removes unused code
 
-Improves relation value handling by ensuring compatibility with array inputs and adjusts column info retrieval to parse JSON files instead of PHP scripts.
+Simplifies the `RO` class by removing redundant use statements
+and unused methods. Updates references to static `Functions`
+methods for clarity and consistency. Cleans up unnecessary
+whitespace and comments in both `RO` and `RW` classes. Removes
+an incomplete and unused test case from `ROTest`.
+- Updates dependencies and refactors URL handling
 
-Updates changelog to version 3.5.4, adding a note on better relations values.
+#61 Upgrades PHP requirement to ^8.1 and updates multiple package dependencies for improved compatibility and functionality.
 
-Enhances data consistency and usability across the application.
-- release v3.5.1 Refactor code style and improve consistency across multiple files
+Refactors URL encoding logic by introducing the `Functions` class to streamline operations and enhance code maintainability.
+- Deprecates unused methods and refactors date formatting
 
-Repository: spojeitisac
-- current state
-- Add NetBox and Spoje Linux role configurations
+Replaces deprecated `Functions::$DateFormat` and `Functions::$DateTimeFormat` with the new `Date::$format` for improved consistency and maintainability.
 
-- Create importer environment configuration for NetBox.
-- Add LDAP configuration template for NetBox.
-- Implement Nginx configuration template for NetBox.
-- Define variables for NetBox plugins and Python dependencies.
-- Set up default users for Spoje Linux role.
-- Add authorized SSH keys for various users in Spoje Linux role.
-- Implement handlers and tasks for Spoje Linux role, including user creation and firewall configuration.
-- Create custom Ansible modules for parsing hosts and subnets.
-- Implement tasks for importing hosts and subnets into NetBox.
-- Add Zabbix client configuration and installation tasks.
+Removes numerous deprecated methods across multiple classes to reduce code clutter and improve readability.
 
-Repository: pohoda-raiffeisenbank
-- Improves transaction handling and SharePoint integration
-
-Updates dependencies for stability and compatibility. Refactors transaction ID handling to ensure uniqueness and reliability, improving processing logic. Enhances error handling and online status checks for better fault tolerance. Adds integration for SharePoint links to Pohoda, ensuring proper attachment of statements. Fixes typos in message handling and improves code clarity.
-
-Relates to improved transaction tracking and document linking workflows.
-- Merge branch 'main' of github.com:Spoje-NET/pohoda-raiffeisenbank
-- Merge pull request #2 from Spoje-NET/lawondyss
-
-Changed Pohoda column for transaction ID
-- Merge branch 'main' into lawondyss
-
-Repository: abraflexi-config
-- refactor: remove unused Company class import in abraflexi-checker.php
-- refactor: streamline namespace usage and improve code readability in abraflexi-checker.php
-- Refactor AbraFlexi connection checker to support dynamic environment file and output options
-
-- Updated initialization to accept environment file and output destination via command line options.
-- Enhanced reporting by including timestamp and success status in the output.
-- Added debug logging for connection tests based on application debug configuration.
-- Improved error handling and reporting for saving results to the specified output destination.
-- refactor: update jq command syntax and improve package dependencies
-- rules fix
-- coding standart psr12
-- build update
-- deps update
+Updates versioning and internal comments to reflect the latest changes. Adjusts shell scripts for proper handling of version strings.
+- #61 Dropped support for php older than 8.1
+- Overpayments handling works now
 
