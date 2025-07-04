@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=sms-input)
+- [multiflexi-sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
 - [csas-statement-tools 0.1.1.10~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
 - [multiflexi-csas-statement-tools 0.1.1.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 - [flexibee 2025.6.0](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [pohoda-realpad 0.1.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
-- [multiflexi-pohoda-realpad 0.1.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
