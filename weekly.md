@@ -1,37 +1,33 @@
-Date Range: 2025-06-27 to 2025-07-04
+Date Range: 2025-07-04 to 2025-07-11
 
 Weekly GitHub Commits:
 
-Repository: php-abraflexi
-- AbraFlexi release v2025.6.0
-- Code reformat
-- Code helper class introduced
-- Add new evidence classes for AbraFlexi
+Repository: system
+- Refactor: Update CompanyLogo usage in PotvrzeniOdeslaniUhrady and PotvrzeniPrijetiFaktury classes
+- Fix namespace import for AbraFlexi in ParovacFaktur class
+- Refactors CompanyLogo namespace usage
 
-- Created classes for various evidence types including StavCeniku, StavObchodnihoDokladu, StavSkladuKDatu, StavSmlouvy, StavUctu, StavZakazky, Stredisko, StromKoren, Subjekt, SumaceSestavy, Text, TypAktivity, TypAtributu, TypBanka, TypDokladu, TypFakturyPrijate, TypFakturyVydane, TypInternihoDokladu, TypLeasingu, TypMajetku, TypNabidkyPrijate, TypNabidkyVydane, TypNakladu, TypObjednavkyPrijate, TypObjednavkyVydane, TypOrganizace, TypPohledavky, TypPokladniPohyb, TypPoptavkyPrijate, TypPoptavkyVydane, TypProdejky, TypSkladovyPohyb, TypSmlouvy, TypStavuCeniku, TypUzivatelskeVazby, TypVzajemnychZapoctu, TypZakazky, TypZavazku, Ucet, UcetniDenik, UcetniOdpis, UcetniOsnova, UlozenePriznaniDph, UlozenePriznaniKonVykDph, Umisteni, UmisteniUctu, UmisteniVeSkladu, UmisteniVeSkladuMistnost, UmisteniVeSkladuPolice, UmisteniVeSkladuRegal, Uzivatel, UzivatelskaVazba, UzivatelskyDotaz, UzivatelskyDotazParametr, UzivatelskyDotazVlastnost, Vazba, VazebniDoklad, VykazHospodareni, VysledovkaPoUctech, VzajemnyZapocet, Xslt, Zakazka, ZalohaKOdpoctu, Zapujcka, ZavazekPolozka.
+Updates references to the `CompanyLogo` class to use its local namespace instead of the fully qualified global namespace. Adds missing import for `CompanyLogo` in one file to ensure proper usage. Improves code readability and consistency.
+- Refactor AbraFlexi code handling
 
-- Updated force_update_all.sh to include generate_actions_json.php.
-- Added generate_evidence_classes.php script for generating evidence classes based on JSON configuration.
-- Fix date formatting in evidence queries to use Date::$format
-- Refactors `RO` class and removes unused code
+- Updated instances of \AbraFlexi\RO::code() to \AbraFlexi\Functions::code() for consistency across multiple files.
+- Replaced \AbraFlexi\RO::uncode() with \AbraFlexi\Functions::uncode() in various locations to ensure uniformity in decoding logic.
+- Adjusted test cases in OrderPluginDomainTest and ParovacFakturTest to reflect the new function usage.
+- Ensured all related files in the system and tests are updated accordingly to maintain functionality and compatibility.
 
-Simplifies the `RO` class by removing redundant use statements
-and unused methods. Updates references to static `Functions`
-methods for clarity and consistency. Cleans up unnecessary
-whitespace and comments in both `RO` and `RW` classes. Removes
-an incomplete and unused test case from `ROTest`.
-- Updates dependencies and refactors URL handling
+Repository: discomp2abraflexi
+- Fix filename in installation script for example environment file
+- Refactors code to improve readability and functionality
 
-#61 Upgrades PHP requirement to ^8.1 and updates multiple package dependencies for improved compatibility and functionality.
+Renames `.env.example` to `example.env` for clarity.
 
-Refactors URL encoding logic by introducing the `Functions` class to streamline operations and enhance code maintainability.
-- Deprecates unused methods and refactors date formatting
+Refactors `ApiClient` and `Importer` classes to:
+- Add missing type hints and improve code readability.
+- Replace `AbraFlexi\RO` and `AbraFlexi\Functions` calls with consistent usage of `Functions` methods.
+- Adjust logic for better error handling and data processing.
 
-Replaces deprecated `Functions::$DateFormat` and `Functions::$DateTimeFormat` with the new `Date::$format` for improved consistency and maintainability.
+Updates unit tests to:
+- Improve iteration syntax and assertion messages for better debugging.
 
-Removes numerous deprecated methods across multiple classes to reduce code clutter and improve readability.
-
-Updates versioning and internal comments to reflect the latest changes. Adjusts shell scripts for proper handling of version strings.
-- #61 Dropped support for php older than 8.1
-- Overpayments handling works now
+Enhances maintainability by standardizing method calls and adding comments.
 
