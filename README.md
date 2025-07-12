@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-statement-tools 0.1.1.13~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [multiflexi-csas-statement-tools 0.1.1.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
+- [csas-statement-tools 0.1.1.14~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
+- [multiflexi-csas-statement-tools 0.1.1.14~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 - [sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=sms-input)
 - [multiflexi-sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
 - [flexibee 2025.6.0](https://repo.vitexsoftware.com/package.php?package=flexibee)
