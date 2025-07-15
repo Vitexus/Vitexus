@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-statement-tools 0.1.1.14~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [multiflexi-csas-statement-tools 0.1.1.14~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
-- [sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=sms-input)
-- [multiflexi-sms-input 0.1.3.16~bullseye](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
-- [flexibee 2025.6.0](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server 2025.6.2.131~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.6.2](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [csas-authorize 0.2.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.2.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
