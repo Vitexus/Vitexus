@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2025.6.3.132~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.6.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [abraflexi-server 2025.6.4.133~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2025.6.4](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [multiflexi-database 0.1.0.33~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database)
 - [multiflexi-cli 0.1.0.5~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 - [php-vitexsoftware-multiflexi-core 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
