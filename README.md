@@ -13,8 +13,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
 - [multiflexi-cli 0.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [multiflexi-migrations 1.29.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
 - [multiflexi-common 1.28.0.932~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [multiflexi-migrations 1.29.0.38~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
 - [csas-statement-tools 0.1.1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
 - [multiflexi-csas-statement-tools 0.1.1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
