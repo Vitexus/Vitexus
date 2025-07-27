@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-executor 0.1.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
-- [multiflexi-executor-docker 0.1.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
+- [multiflexi-executor 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [multiflexi-executor-docker 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
 - [multiflexi-cli 1.0.0.21~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 - [multiflexi-migrations 1.29.0.39~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
 - [multiflexi-common 1.28.0.932~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
