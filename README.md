@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [csas-authorize 0.2.0.53~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.2.0.53~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.0.53~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-csas-authorize 0.2.0.53~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
 - [php-vitexsoftware-multiflexi-core 0.1.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 0.1.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [multiflexi-cli 1.0.0.33~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [multiflexi-migrations 1.29.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
-- [multiflexi-executor 0.1.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
