@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-scheduler 0.1.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
+- [multiflexi-scheduler 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
 - [multiflexi-common 1.28.0.939~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
 - [multiflexi-migrations 1.30.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
 - [abraflexi-server 2025.6.5.134~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
