@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [csas-authorize 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-csas-authorize 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
 - [multiflexi-scheduler 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
-- [multiflexi-common 1.28.0.939~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [multiflexi-migrations 1.30.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
-- [abraflexi-server 2025.6.5.134~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2025.6.5](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
