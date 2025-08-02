@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-executor 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [multiflexi-executor-docker 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
 - [php-vitexsoftware-multiflexi-core 0.2.0.24~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [php-vitexsoftware-multiflexi-core-dev 0.2.0.24~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [multiflexi-common 1.28.0.940~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [csas-authorize 0.2.1.57~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
-- [csas-authorize-mysql 0.2.1.57~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
