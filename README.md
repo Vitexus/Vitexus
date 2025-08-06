@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.0.1.32~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.0.1.32~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [php-vitexsoftware-multiflexi-core 2.0.1.34~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-multiflexi-core-dev 2.0.1.34~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [abraflexi-server 2025.7.0.136~bullseye](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [multiflexi-scheduler 2.0.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
 - [multiflexi-migrations 2.1.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
