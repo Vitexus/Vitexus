@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-bootstrap4-widgets 1.7.0.29~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
-- [multiflexi-cli 2.0.0.49~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [php-vitexsoftware-ease-html-widgets 1.1.1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
-- [multiflexi-common 1.28.0.949~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [multiflexi-probe 1.28.0.949~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-probe)
+- [file2sharepoint 0.1.0.5~bullseye](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
+- [php-vitexsoftware-multiflexi-core 2.1.0.42~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-ease-html-widgets 1.1.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
+- [php-vitexsoftware-ease-bootstrap4-widgets 1.7.0.34~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
+- [multiflexi-common 1.28.0.961~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
