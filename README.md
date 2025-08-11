@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-cli 2.0.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [php-vitexsoftware-multiflexi-core 2.1.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [multiflexi-cli 2.0.0.52~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [php-vitexsoftware-multiflexi-core 2.1.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [csas-statement-tools 0.1.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [php-vitexsoftware-multiflexi-core-dev 2.1.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [php-vitexsoftware-multiflexi-core-dev 2.1.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [multiflexi-csas-statement-tools 0.1.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
