@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-cli 2.0.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [php-vitexsoftware-multiflexi-core 2.1.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [csas-statement-tools 0.1.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [php-vitexsoftware-multiflexi-core 2.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-cli 2.0.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [php-vitexsoftware-multiflexi-core-dev 2.1.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [multiflexi-csas-statement-tools 0.1.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
-- [multiflexi-scheduler 2.0.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
