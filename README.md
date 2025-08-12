@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [file2sharepoint 0.1.0.6~bullseye](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
-- [multiflexi-cli 2.0.0.52~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [php-vitexsoftware-multiflexi-core 2.1.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [csas-statement-tools 0.1.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [php-vitexsoftware-multiflexi-core-dev 2.1.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [file2sharepoint 0.1.0.7~bullseye](https://repo.vitexsoftware.com/package.php?package=file2sharepoint)
+- [csas-authorize 0.2.1.59~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.2.1.59~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.1.59~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-csas-authorize 0.2.1.59~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
