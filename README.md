@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [cnb-cache 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
 - [smssend 0.2.3~bookworm~12](https://repo.vitexsoftware.com/package.php?package=smssend)
 - [pohoda-realpad 0.1.0.18~bookworm](https://repo.vitexsoftware.com/package.php?package=pohoda-realpad)
-- [smssend-apache 0.2.3~bookworm~12](https://repo.vitexsoftware.com/package.php?package=smssend-apache)
-- [multiflexi-pohoda-realpad 0.1.0.18~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-realpad)
-- [multiflexi-executor 0.1.0.14~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [cnb-cache-mysql 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
+- [cnb-cache-sqlite 0.1.0.43~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
