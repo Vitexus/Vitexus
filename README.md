@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-realpad-takeout 1.0.1.38~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-realpad-takeout)
-- [cnb-cache 0.1.0.45~noble](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
-- [smssend 0.2.3~bookworm~14](https://repo.vitexsoftware.com/package.php?package=smssend)
-- [cnb-cache-mysql 0.1.0.45~noble](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
-- [cnb-cache-sqlite 0.1.0.45~noble](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
+- [csas-authorize 0.2.1.67~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.2.1.67~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.2.1.67~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-csas-authorize 0.2.1.67~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-authorize)
+- [cnb-cache 0.1.0.51~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
