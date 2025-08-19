@@ -28,13 +28,15 @@ jobs:
       
       - name: Configure GitHub CLI
         run: |
-          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+          # GitHub CLI will automatically use GH_TOKEN environment variable
           gh auth status
         env:
-          GITHUB_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
+          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
       
       - name: Get all repositories from organizations
         id: get_repos
+        env:
+          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
         run: |
           echo "Getting repositories from all organizations..."
           
@@ -55,6 +57,8 @@ jobs:
           echo "Found $(echo "$ALL_REPOS" | wc -l) repositories across all organizations"
       
       - name: Find and merge Dependabot PR
+        env:
+          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
         run: |
           echo "Starting Dependabot PR search and merge process..."
           
