@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-bootstrap4-widgets 1.7.0.35~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
 - [smssend 0.2.3~bookworm~15](https://repo.vitexsoftware.com/package.php?package=smssend)
 - [multiflexi-executor 0.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
 - [smssend-apache 0.2.3~bookworm~15](https://repo.vitexsoftware.com/package.php?package=smssend-apache)
 - [multiflexi-scheduler 2.1.0.14~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
-- [multiflexi-executor-docker 0.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
