@@ -28,16 +28,22 @@ jobs:
       
       - name: Configure GitHub CLI
         run: |
-          # GitHub CLI will automatically use GH_TOKEN environment variable
+          # Clear any conflicting environment variables and set up authentication
+          unset GITHUB_TOKEN
+          export GH_TOKEN="$DEPENDABOT_TOKEN"
           gh auth status
         env:
-          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
+          DEPENDABOT_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
       
       - name: Get all repositories from organizations
         id: get_repos
         env:
-          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
+          DEPENDABOT_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
         run: |
+          # Set up authentication
+          unset GITHUB_TOKEN
+          export GH_TOKEN="$DEPENDABOT_TOKEN"
+          
           echo "Getting repositories from all organizations..."
           
           # Get repositories from VitexSoftware
@@ -58,8 +64,12 @@ jobs:
       
       - name: Find and merge Dependabot PR
         env:
-          GH_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
+          DEPENDABOT_TOKEN: ${{ secrets.DEPENDABOT_MERGER_TOKEN }}
         run: |
+          # Set up authentication
+          unset GITHUB_TOKEN
+          export GH_TOKEN="$DEPENDABOT_TOKEN"
+          
           echo "Starting Dependabot PR search and merge process..."
           
           # Shuffle repositories to distribute load fairly
