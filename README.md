@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-multiflexi-core 2.1.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-multiflexi-core-dev 2.1.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [php-vitexsoftware-ease-html-widgets 1.1.1.21~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
 - [php-vitexsoftware-ease-html-widgets-doc 1.1.1.21~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets-doc)
 - [php-vitexsoftware-ease-bootstrap4-widgets 1.7.0.36~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-widgets)
-- [smssend 0.2.3~bookworm~15](https://repo.vitexsoftware.com/package.php?package=smssend)
-- [multiflexi-executor 0.1.0.15~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
