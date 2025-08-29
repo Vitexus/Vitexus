@@ -36,4 +36,14 @@ Here are some ideas to get you started:
 -->
 
 
-<!--START_SECTION:waka--> … <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+Other                 41 hrs 7 mins   ████████████████████░░░░░   80.54 %
+Bash                  3 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+YAML                  3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+HTML                  38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Markdown              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+```
+
+<!--END_SECTION:waka-->
