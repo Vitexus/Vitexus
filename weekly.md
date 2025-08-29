@@ -1,154 +1,162 @@
-Date Range: 2025-08-15 to 2025-08-22
+Date Range: 2025-08-22 to 2025-08-29
 
 Weekly GitHub Commits:
 
-Repository: php-subreg
-- composer: update friendsofphp/php-cs-fixer requirement (#9)
+Repository: ipex-b2b
+- dev pipeline update
+- ci: sync debian/Jenkinsfile.release from reference
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.68.0...v3.86.0)
+Repository: php-subreg
+- composer: update ergebnis/php-cs-fixer-config requirement (#10)
+
+Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
+- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
+- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.52.0...6.53.0)
 
 ---
 updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.86.0
+- dependency-name: ergebnis/php-cs-fixer-config
+  dependency-version: 6.53.0
   dependency-type: direct:development
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
 Repository: php-abraflexi
-- Merge pull request #71 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.86
+- devel build pipeline update
+- ci: sync debian/Jenkinsfile.release from reference
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.85 to ^3.86
-- Merge pull request #72 from Spoje-NET/dependabot/github_actions/actions/checkout-5
+Repository: apache2-auth-redmine
+- dev pipeline update
 
-Bump actions/checkout from 4 to 5
-- Bump actions/checkout from 4 to 5
+Repository: php-hspdev-huaweiapi
+- ci: sync debian/Jenkinsfile.release from reference
+- dev pipeline update
 
-Bumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v4...v5)
+Repository: PHP-Realpad-Takeout
+- ci: sync debian/Jenkinsfile.release from reference
 
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-version: '5'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
+Repository: realpad2mailkit
+- Build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.85.0...v3.86.0)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.86.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- ext-id handling fix
-- Refines handling of 'relation' column for nested arrays
-
-Updates logic to process 'relation' columns with nested arrays by
-introducing single-object mapping based on key fields. Improves
-data handling consistency and ensures accurate reference and
-display values for relation objects.
-- Update static definitions for version  and release new version
-- feat: add daily GitHub Action for AbraFlexi version check and static update
-- Makefile update
-- feat: add online version script and update Makefile for tagging after static update
-
-refactor: update type hints in RO class for better clarity
-
-test: reformat evidenceToClassName test method in FunctionsTest
-
-Repository: PohodaSQL
+Repository: pohoda-client-checker
 - composer: update ergebnis/php-cs-fixer-config requirement (#7)
 
 Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
 - [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
 - [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.51.0...6.52.0)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.52.0...6.53.0)
 
 ---
 updated-dependencies:
 - dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.52.0
+  dependency-version: 6.53.0
   dependency-type: direct:development
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update friendsofphp/php-cs-fixer requirement (#8)
+- build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.85.0...v3.86.0)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.86.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: pohoda-client-checker
-- composer: update ergebnis/php-cs-fixer-config requirement (#6)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.34.0...6.52.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.52.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Repository: pohoda-raiffeisenbank
+- build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
 Repository: discomp2abraflexi
-- Add schema validation instructions and normalize JSON arrays
+- build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
-Introduces a Copilot instructions file specifying that all JSON files
-in the `multiflexi/*.app.json` directory must conform to a defined
-schema for consistency.
+Repository: v.s.cz
+- Fix Bootstrap 5 navbar responsivity issues
 
-Updates a specific JSON file to replace string values with arrays
-for the `topics` and `requirements` fields, ensuring proper data
-structure alignment with the schema.
+- Update MainMenu CSS classes to pure Bootstrap 5 syntax
+  Remove mixed Bootstrap 4 classes (navbar-inverse, bg-inverse, navbar-toggleable-sm)
+  Use proper Bootstrap 5 classes: navbar navbar-dark bg-secondary
+- Improve VSInit autoload fallback mechanism for development
+  Add multiple autoload paths and fallback autoloader
+  Enables better development environment support
+
+This change works with the updated php-ease-twbootstrap5 library
+to fix mobile hamburger menu functionality.
+
+Fixes: Hamburger menu not working on mobile devices
+- Document package database synchronization in WARP.md
+
+- Add Package Database Integration section explaining debs2sql automation
+- Document connection to VSAnsible multiflexi-repo-republish.yml playbook
+- Explain database structure and error handling for missing packages
+- Provide manual update procedure for troubleshooting
+- Complete documentation of the repository-website integration workflow
+- Add error handling for packages not found in database
+
+- Handle case when packageInfo() returns null (package not in database)
+- Display user-friendly message when package is not indexed
+- Provide link to browse repository directly
+- Prevent fatal errors when accessing non-indexed packages
+- Fixes broken package.php pages for packages not in local database
+- Fix package name extraction for RSS feed links
+
+- Extract package name from existing <link> element instead of parsing title
+- Properly handle URL parameters to get clean package name without version
+- Fallback to regex parsing if link element is not available
+- Fixes broken links like package.php?package=php-vitexsoftware-multiflexi-core%202.1.0.52~bookworm
+- Now correctly links to package.php?package=php-vitexsoftware-multiflexi-core
+- Add WARP.md documentation and package links in Latest Packages RSS feed
+
+- Add comprehensive WARP.md with project architecture, commands, and deployment info
+- Modify RSS feed JavaScript to make package titles clickable
+- Package titles now link to package.php?package=PACKAGENAME for detailed info
+- Improve developer experience with structured documentation
+
+Repository: netbeans-php-tools
+- Remove unsupported debian:bullseye from build distributions
+
+- Remove debian:bullseye from Jenkins build matrix
+- Debian 11 Bullseye is now end-of-life and unsupported
+- Focus on supported distributions: bookworm, trixie, forky
+- Part of infrastructure cleanup for current Debian releases
+- Update Jenkinsfile to latest template with debian:forky support
+
+- Update to latest Jenkinsfile template from BuildImages/Test/
+- Includes debian:forky distribution for building packages
+- Improved artifact handling and test procedures
+- Part of infrastructure update for new Debian release
+- Add debian:forky to Jenkins build distributions
+
+- Add debian:forky target to Jenkins pipeline distributions array
+- Enables building Debian packages for Forky (testing) distribution
+- Part of infrastructure update to support new Debian release
 
 Repository: Flexplorer
-- Bump ergebnis/php-cs-fixer-config from 6.50.0 to 6.52.0 (#9)
+- Remove unsupported debian:bullseye from build distributions
 
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.50.0 to 6.52.0.
+- Remove debian:bullseye from Jenkins build matrix
+- Debian 11 Bullseye is now end-of-life and unsupported
+- Focus on supported distributions: bookworm, trixie, forky
+- Part of infrastructure cleanup for current Debian releases
+- Update Jenkinsfile to latest template with debian:forky support
+
+- Update to latest Jenkinsfile template from BuildImages/Test/
+- Includes debian:forky distribution for building packages
+- Improved artifact handling and test procedures
+- Part of infrastructure update for new Debian release
+- Bump ergebnis/php-cs-fixer-config from 6.52.0 to 6.53.0 (#10)
+
+Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.52.0 to 6.53.0.
 - [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
 - [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.50.0...6.52.0)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.52.0...6.53.0)
 
 ---
 updated-dependencies:
 - dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.52.0
+  dependency-version: 6.53.0
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -156,22 +164,108 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
-Repository: Redmine2AbraFlexi
-- Standardizes formatting and enhances configuration clarity
+Repository: php-ease-twbootstrap-widgets
+- Remove unsupported debian:bullseye from build distributions
 
-Improves readability in the README by aligning list formatting
-and converting URLs to markdown links. Updates JSON artifacts
-to include detailed metadata for better usability. Adds required
-field validation for environment variables. Removes unused
-import and introduces a new configuration file.
+- Remove debian:bullseye from Jenkins build matrix
+- Debian 11 Bullseye is now end-of-life and unsupported
+- Focus on supported distributions: bookworm, trixie, forky
+- Part of infrastructure cleanup for current Debian releases
+- Update Jenkinsfile to latest template with debian:forky support
+
+- Update to latest Jenkinsfile template from BuildImages/Test/
+- Includes debian:forky distribution for building packages
+- Improved artifact handling and test procedures
+- Part of infrastructure update for new Debian release
+- Add debian:forky to Jenkins build distributions
+
+- Add debian:forky target to Jenkins pipeline distributions array
+- Enables building Debian packages for Forky (testing) distribution
+- Part of infrastructure update to support new Debian release
+
+Repository: Redmine2AbraFlexi
+- Remove unsupported debian:bullseye from build distributions
+
+- Remove debian:bullseye from Jenkins build matrix
+- Debian 11 Bullseye is now end-of-life and unsupported
+- Focus on supported distributions: bookworm, trixie, forky
+- Part of infrastructure cleanup for current Debian releases
+- Update Jenkinsfile to latest template with debian:forky support
+
+- Update to latest Jenkinsfile template from BuildImages/Test/
+- Includes debian:forky distribution for building packages
+- Improved artifact handling and test procedures
+- Part of infrastructure update for new Debian release
+- Add debian:forky to Jenkins build distributions
+
+- Add debian:forky target to Jenkins pipeline distributions array
+- Enables building Debian packages for Forky (testing) distribution
+- Part of infrastructure update to support new Debian release
+- Build deps update
+- ci: sync debian/Jenkinsfile.release from reference
 
 Repository: abraflexi-config
-- Updates JSON structure for consistency and versioning
+- Remove unsupported debian:bullseye from build distributions
 
-Reformats "requirements" and "topics" fields to arrays for better
-data handling and consistency. Adds "multiflexi" version field
-to specify the app's version. Removes an empty "multiflexi" key
-and adjusts formatting for clarity.
+- Remove debian:bullseye from Jenkins build matrix
+- Debian 11 Bullseye is now end-of-life and unsupported
+- Focus on supported distributions: bookworm, trixie, forky
+- Part of infrastructure cleanup for current Debian releases
+- Update Jenkinsfile to latest template with debian:forky support
 
-These changes enhance structure, readability, and maintainability.
+- Update to latest Jenkinsfile template from BuildImages/Test/
+- Includes debian:forky distribution for building packages
+- Improved artifact handling and test procedures
+- Part of infrastructure update for new Debian release
+- composer: bump ergebnis/php-cs-fixer-config from 6.51.0 to 6.53.0 (#7)
+
+Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.51.0 to 6.53.0.
+- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
+- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.51.0...6.53.0)
+
+---
+updated-dependencies:
+- dependency-name: ergebnis/php-cs-fixer-config
+  dependency-version: 6.53.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- composer: bump spojenet/flexibee from 3.6.0 to 2025.7.0 (#8)
+
+Bumps [spojenet/flexibee](https://github.com/Spoje-NET/php-abraflexi) from 3.6.0 to 2025.7.0.
+- [Release notes](https://github.com/Spoje-NET/php-abraflexi/releases)
+- [Commits](https://github.com/Spoje-NET/php-abraflexi/compare/3.6.0...2025.7.0)
+
+---
+updated-dependencies:
+- dependency-name: spojenet/flexibee
+  dependency-version: 2025.7.0
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- composer: bump phpunit/phpunit from 12.3.2 to 12.3.6 (#9)
+
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.3.2 to 12.3.6.
+- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.3.6/ChangeLog-12.3.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.3.2...12.3.6)
+
+---
+updated-dependencies:
+- dependency-name: phpunit/phpunit
+  dependency-version: 12.3.6
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- ci: sync debian/Jenkinsfile.release from reference
 
