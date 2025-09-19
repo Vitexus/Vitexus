@@ -1,505 +1,138 @@
-Date Range: 2025-09-05 to 2025-09-12
+Date Range: 2025-09-12 to 2025-09-19
 
 Weekly GitHub Commits:
 
 Repository: ipex-b2b
-- Merge pull request #15 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
+- Merge pull request #5 from Spoje-NET/dependabot/github_actions/actions/cache-4
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- Merge pull request #14 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.87
-
-composer: update friendsofphp/php-cs-fixer requirement from ^3.86 to ^3.87
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: php-subreg
-- composer: update friendsofphp/php-cs-fixer requirement (#12)
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/composer-normalize requirement (#11)
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.47.0...2.48.2)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement (#13)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Bump actions/cache from 3 to 4
 
 Repository: php-abraflexi
-- Merge pull request #75 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
+- Update tagging format and refine README content
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- Merge pull request #76 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.87
+Changes the version tagging format in the Makefile to include the "abraflexi-" prefix for better clarity and consistency.
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.86 to ^3.87
-- composer: update friendsofphp/php-cs-fixer requirement
+Refines the README by updating phrasing to improve accuracy, removing redundant acknowledgments and outdated references, and enhancing readability by trimming unnecessary content.
+- Implements ArrayAccess for Relation class
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
+Adds support for ArrayAccess to the Relation class, enabling
+array-like interactions with internal data. This includes the
+implementation of methods for checking, retrieving, setting,
+and unsetting elements in the data array. Enhances flexibility
+and usability of the Relation class.
+- Add VAT rate retrieval logic and enhance test coverage
 
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
+Introduces a method to fetch the current active VAT rate based on date
+and activity status, improving the functionality of VAT rate management.
 
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement
+Enhances test coverage by adding unit tests for the new method and
+updating existing tests to ensure robustness. Refines handling of
+relation data for better consistency.
 
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
+Allows configuration to support unsupported PHP versions for
+php-cs-fixer, improving compatibility in development environments.
 
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
+Repository: php-hspdev-huaweiapi
+- Add guidelines and configuration for PHP development
 
-Signed-off-by: dependabot[bot] <support@github.com>
+Introduces a new instructions file for workspace-specific guidelines, ensuring code quality and maintainability by outlining best practices for PHP development, including language version, coding standards, and documentation formats.
 
-Repository: PohodaSQL
-- composer: update ergebnis/composer-normalize requirement (#10)
+Updates the Dependabot configuration for weekly package updates, enhancing dependency management.
 
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.47.0...2.48.2)
+Modifies the PHP CS Fixer configuration to allow unsupported PHP versions and updates library requirements in composer.json to support PHP 8.1 and newer.
 
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
-  dependency-type: direct:development
-...
+Improves the Jenkinsfile for better readability and efficiency in building and testing Docker images across multiple distributions.
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update friendsofphp/php-cs-fixer requirement (#9)
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement (#11)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: PHP-Realpad-Takeout
-- Merge pull request #11 from Spoje-NET/dependabot/composer/phpoffice/phpspreadsheet-tw-5.1
-
-composer: update phpoffice/phpspreadsheet requirement from ^5.0 to ^5.1
-- Merge pull request #13 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- Merge pull request #14 from Spoje-NET/dependabot/composer/ergebnis/composer-normalize-tw-2.48
-
-composer: update ergebnis/composer-normalize requirement from ^2.43 to ^2.48
-- composer: update ergebnis/composer-normalize requirement
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.43.0...2.48.2)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update phpoffice/phpspreadsheet requirement from ^5.0 to ^5.1
-
-Updates the requirements on [phpoffice/phpspreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) to permit the latest version.
-- [Release notes](https://github.com/PHPOffice/PhpSpreadsheet/releases)
-- [Changelog](https://github.com/PHPOffice/PhpSpreadsheet/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHPOffice/PhpSpreadsheet/compare/5.0.0...5.1.0)
-
----
-updated-dependencies:
-- dependency-name: phpoffice/phpspreadsheet
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: pohoda-client-checker
-- composer: update ergebnis/php-cs-fixer-config requirement (#9)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update friendsofphp/php-cs-fixer requirement (#10)
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: pohoda-raiffeisenbank
-- Merge pull request #14 from Spoje-NET/dependabot/composer/ergebnis/composer-normalize-tw-2.48
-
-composer: update ergebnis/composer-normalize requirement from ^2.47 to ^2.48
-- composer: update ergebnis/composer-normalize requirement
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.47.0...2.48.2)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- Merge pull request #15 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: discomp2abraflexi
-- Merge pull request #11 from Spoje-NET/dependabot/composer/ergebnis/composer-normalize-tw-2.48
-
-composer: update ergebnis/composer-normalize requirement from ^2.47 to ^2.48
-- composer: update ergebnis/composer-normalize requirement
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.47.0...2.48.2)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- Merge pull request #13 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.87
-
-composer: update friendsofphp/php-cs-fixer requirement from ^3.86 to ^3.87
-- Merge pull request #12 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
+Repository: .github
+- Update README.md
 
 Repository: Flexplorer
-- Bump ergebnis/composer-normalize from 2.48.1 to 2.48.2 (#13)
+- Bump friendsofphp/php-cs-fixer from 3.87.1 to 3.87.2 (#14)
 
-Bumps [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) from 2.48.1 to 2.48.2.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.48.1...2.48.2)
+Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.87.1 to 3.87.2.
+- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
+- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.87.1...v3.87.2)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
+- dependency-name: friendsofphp/php-cs-fixer
+  dependency-version: 3.87.2
   dependency-type: direct:development
   update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- Bump ergebnis/php-cs-fixer-config from 6.53.0 to 6.54.0 (#12)
-
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.53.0 to 6.54.0.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Repository: Redmine2AbraFlexi
-- Merge pull request #14 from VitexSoftware/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.54
+- Merge pull request #15 from VitexSoftware/dependabot/github_actions/sigstore/cosign-installer-3.10.0
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.53 to ^6.54
-- Merge pull request #12 from VitexSoftware/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.87
+Bump sigstore/cosign-installer from 3.9.2 to 3.10.0
+- Bump sigstore/cosign-installer from 3.9.2 to 3.10.0
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.86 to ^3.87
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
+Bumps [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) from 3.9.2 to 3.10.0.
+- [Release notes](https://github.com/sigstore/cosign-installer/releases)
+- [Commits](https://github.com/sigstore/cosign-installer/compare/d58896d6a1865668819e1d91763c7751a165e159...d7543c93d881b35a8faa02e8e3605f69b7a1ce62)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.86.0...v3.87.1)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.87.1
-  dependency-type: direct:development
+- dependency-name: sigstore/cosign-installer
+  dependency-version: 3.10.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Repository: abraflexi-config
-- composer: bump spojenet/flexibee from 2025.7.0 to 2025.7.4 (#13)
+- composer: bump friendsofphp/php-cs-fixer from 3.87.1 to 3.87.2 (#16)
 
-Bumps [spojenet/flexibee](https://github.com/Spoje-NET/php-abraflexi) from 2025.7.0 to 2025.7.4.
-- [Release notes](https://github.com/Spoje-NET/php-abraflexi/releases)
-- [Commits](https://github.com/Spoje-NET/php-abraflexi/compare/2025.7.0...2025.7.4)
+Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.87.1 to 3.87.2.
+- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
+- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.87.1...v3.87.2)
 
 ---
 updated-dependencies:
-- dependency-name: spojenet/flexibee
-  dependency-version: 2025.7.4
-  dependency-type: direct:production
+- dependency-name: friendsofphp/php-cs-fixer
+  dependency-version: 3.87.2
+  dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump phpunit/phpunit from 12.3.7 to 12.3.8 (#14)
+- composer: bump phpunit/phpunit from 12.3.8 to 12.3.11 (#17)
 
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.3.7 to 12.3.8.
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.3.8 to 12.3.11.
 - [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.3.8/ChangeLog-12.3.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.3.7...12.3.8)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.3.11/ChangeLog-12.3.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.3.8...12.3.11)
 
 ---
 updated-dependencies:
 - dependency-name: phpunit/phpunit
-  dependency-version: 12.3.8
+  dependency-version: 12.3.11
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump ergebnis/composer-normalize from 2.48.1 to 2.48.2 (#12)
+- composer: bump phpstan/phpstan from 2.1.22 to 2.1.25 (#18)
 
-Bumps [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) from 2.48.1 to 2.48.2.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.48.1...2.48.2)
+Bumps [phpstan/phpstan](https://github.com/phpstan/phpstan) from 2.1.22 to 2.1.25.
+- [Release notes](https://github.com/phpstan/phpstan/releases)
+- [Changelog](https://github.com/phpstan/phpstan/blob/2.1.x/CHANGELOG.md)
+- [Commits](https://github.com/phpstan/phpstan/compare/2.1.22...2.1.25)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.48.2
+- dependency-name: phpstan/phpstan
+  dependency-version: 2.1.25
   dependency-type: direct:development
   update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump ergebnis/php-cs-fixer-config from 6.53.0 to 6.54.0 (#15)
-
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.53.0 to 6.54.0.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.53.0...6.54.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.54.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
