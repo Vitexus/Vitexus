@@ -1,68 +1,91 @@
-Date Range: 2025-10-10 to 2025-10-17
+Date Range: 2025-10-17 to 2025-10-24
 
 Weekly GitHub Commits:
 
-Repository: discomp2abraflexi
-- Enhances documentation and improves XML parsing robustness
+Repository: php-abraflexi
+- Fix getColumnsFromAbraFlexi to handle string conditions
 
-Updates Copilot instructions with detailed development guidelines,
-coding standards, and testing requirements. Adds WARP.md to provide
-a comprehensive project overview, development workflow, and key
-concepts.
+Convert string conditions to array with 'filter' key to prevent
 
-Improves XML parsing in ApiClient by ensuring proper handling of
-empty or malformed responses using stricter decoding settings.
+TypeError when accessing array offset on string type.
 
-These changes enhance developer onboarding, maintainability, and
-error handling for better code quality and reliability.
-- Merge branch 'main' of github.com:Spoje-NET/discomp2abraflexi
+This fixes issues when conditions are passed as string instead of array.
+- Jenkinsfile update
+- Build also for debian 12 bookworm
+- Fixes incorrect handling of 'kod' key in array checks
+
+Ensures proper validation for the presence of the 'kod' key in arrays
+when determining values, defaulting to 'id' if 'kod' is absent.
+
+This improves robustness by explicitly checking for the existence of
+the 'kod' key using `array_key_exists`, avoiding potential undefined
+index errors.
+- Current State
 
 Repository: Flexplorer
-- Bump vitexsoftware/ease-bootstrap5-widgets from 1.4.1 to 1.4.2 (#16)
+- Fresh multiarch Docker image published
 
-Bumps [vitexsoftware/ease-bootstrap5-widgets](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets) from 1.4.1 to 1.4.2.
-- [Release notes](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/releases)
-- [Commits](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/compare/1.4.1...1.4.2)
+- Updated Containerfile-based build
 
----
-updated-dependencies:
-- dependency-name: vitexsoftware/ease-bootstrap5-widgets
-  dependency-version: 1.4.2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
+- Published for amd64 and arm64 platforms
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Tagged as latest and 20251024
+- Add search functionality to navbar and fix companies listing
 
-Repository: abraflexi-config
-- composer: bump phpunit/phpunit from 12.4.0 to 12.4.1 (#26)
+- Add NavBarSearchBox widget to main menu with Bootstrap 5 styling
 
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.4.0 to 12.4.1.
-- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.4.1/ChangeLog-12.4.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.4.0...12.4.1)
+- Implement typeahead.js search across all evidences
 
----
-updated-dependencies:
-- dependency-name: phpunit/phpunit
-  dependency-version: 12.4.1
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
+- Fix searcher.php to return proper JSON for AJAX requests
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump phpstan/phpstan from 2.1.30 to 2.1.31 (#27)
+- Add exception handling in Searcher for robust multi-evidence search
 
----
-updated-dependencies:
-- dependency-name: phpstan/phpstan
-  dependency-version: 2.1.31
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
+- Fix CompaniesListing table structure and add Bootstrap 5 classes
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Update to php-abraflexi ^3.6 with string conditions fix
+
+Search box positioned next to app logo with proper alignment.
+- Release 1.6: Multi-arch Docker image and Kubernetes support
+
+- Updated Containerfile for Debian 13 Trixie with modern syntax
+- Multi-architecture Docker image support (amd64, arm64)
+- Added Helm chart for Kubernetes deployment
+- Updated documentation with Docker and Kubernetes instructions
+- Replaced Dockerfile with Containerfile
+- Fixed package installation issues in container build
+- Updated repository GPG key URL
+- Update warning panel styling - use dark purple-yellow to match theme
+- Fix responseToRequest - use Bootstrap 5 Tab API and correct textarea selector
+- Update Tabs component - fix for unique tab pane IDs
+- Fix footer gradient overlay - ensure content stays above gradients with z-index
+- Add gradient transitions on footer sides for smooth color blend
+- Improve footer styling - full width and better spacing
+- Improve badge contrast - use darker green for better readability
+- Remove duplicate lasturl from company.php - already added in PageTop
+- Fix logout.php to properly extract message body and type from Message objects
+- Move lasturl panel to PageTop for correct ordering after menu and notifications
+- Remove margin-top from urlPanel to fix empty space above menu
+- Fix element ordering globally: replace $oPage->container->addItem with $oPage->addItem
+
+This ensures correct rendering order across all pages:
+- PageTop (menu + status messages) first
+- Page content in the middle
+- PageBottom (footer) last
+
+Fixed in 27 files.
+- Fix permissions.php layout and add menu for non-authenticated users
+- Fix navbar overlapping: remove fixed-top and adjust z-indexes
+- Fix login page element order: header, status, image, then content
+- Fix status-messages layout: wrap in status-block and ensure smdrag is at bottom
+- Fix status-messages: move flexibeetop image after PageTop and make messages fixed at top
+- Fix status-messages positioning to appear below menu
+- Enhance login page styling: better purple filter and form styling
+- Style login page: purple Features panel and filtered flexibeetop image
+- Fix Features panel on login page - properly add feature list to panel
+- Prevent double rendering of response by checking finalized flag
+- Refactor Request tab creation for better debugging
+- Ensure default values for form parameters before creating SendForm
+- Fix lasturl overlap: remove fixed height and ensure proper z-index
+- Make #lasturl full width with word wrapping for long URLs
+- Set Request tab as active when no response is shown
 
