@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Generate Weekly Changelog
-        uses: fridzema/ai-weekly-changelog-action@0.0.12
+        uses: fridzema/ai-weekly-changelog-action@0.0.14
         with:
           # Required: Your OpenRouter API key
           openrouter_api_key: ${{ secrets.OPENROUTER_API_KEY }}
