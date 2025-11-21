@@ -1,73 +1,18 @@
-Date Range: 2025-11-07 to 2025-11-14
+Date Range: 2025-11-14 to 2025-11-21
 
 Weekly GitHub Commits:
 
-Repository: ipex-b2b
-- Merge pull request #19 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
-
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- Merge pull request #20 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
 Repository: php-subreg
-- composer: update friendsofphp/php-cs-fixer requirement (#16)
+- composer: update phpstan/phpstan-phpunit requirement from 2.0.7 to 2.0.8 (#18)
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement (#17)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
+Updates the requirements on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) to permit the latest version.
+- [Release notes](https://github.com/phpstan/phpstan-phpunit/releases)
+- [Commits](https://github.com/phpstan/phpstan-phpunit/compare/2.0.7...2.0.8)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
+- dependency-name: phpstan/phpstan-phpunit
+  dependency-version: 2.0.8
   dependency-type: direct:development
 ...
 
@@ -75,330 +20,131 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Repository: php-abraflexi
-- Merge pull request #80 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
+- Simplifies external ID retrieval logic
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- Merge pull request #81 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
+Streamlines how external IDs are extracted and returned,
+reducing complexity and improving maintainability.
+Ensures more predictable and direct access to requested external IDs.
+- Updates version, improves relation handling, adds example
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: PohodaSQL
-- composer: update ergebnis/php-cs-fixer-config requirement (#14)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update friendsofphp/php-cs-fixer requirement (#15)
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Bumps server version references across modules for consistency.
+Enhances relation value processing to better distinguish between
+associative and indexed arrays, supporting more robust data mapping.
+Adds a sample script for reading address data to demonstrate usage.
 
 Repository: PHP-Realpad-Takeout
-- Merge pull request #18 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
+- Merge pull request #17 from Spoje-NET/dependabot/composer/phpoffice/phpspreadsheet-tw-5.2
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- Merge pull request #19 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: pohoda-client-checker
-- composer: update ergebnis/php-cs-fixer-config requirement (#13)
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update friendsofphp/php-cs-fixer requirement (#14)
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+composer: update phpoffice/phpspreadsheet requirement from ^5.1 to ^5.2
 
 Repository: pohoda-raiffeisenbank
-- update for current app schema
-- Jsonlint used
-- Artifacts now defined for multiflexi
-- Merge pull request #19 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
+- Add exit code definitions to application schema
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- Merge pull request #20 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
+- Updated application JSON files with exitCodes property
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- Revamps Copilot instructions and enhances WARP documentation
+- Added exit code descriptions in English and Czech
 
-Streamlines and reorganizes the Copilot instructions to improve clarity
-and enforce best practices for PHP development, testing, and documentation.
-Introduces a structured format with sections for coding rules, testing,
-documentation, and MultiFlexi integration.
+- Updated README files with Exit Codes section
 
-Enhances WARP documentation with formatting improvements, additional
-guidance, and better readability. Clarifies configuration, commands,
-error handling, and dependencies, ensuring consistency and adherence
-to best practices.
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update friendsofphp/php-cs-fixer requirement
-
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
+- Schema version bumped to 3.1.0 where needed
 
 Repository: discomp2abraflexi
-- Merge pull request #17 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
+- Add exit code definitions to application schema
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- Merge pull request #18 from Spoje-NET/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
+- Updated application JSON files with exitCodes property
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- composer: update friendsofphp/php-cs-fixer requirement
+- Added exit code descriptions in English and Czech
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
+- Updated README files with Exit Codes section
 
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
+- Schema version bumped to 3.1.0 where needed
 
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement
+Repository: SkeliCZ
+- Merge pull request #1 from VitexSoftware/feature/add-favicons
 
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
+feat: Add default and HD retina favicons
+- Merge pull request #2 from VitexSoftware/coderabbitai/docstrings/1de7d9b
 
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
+📝 Add docstrings to `feature/add-favicons`
+- 📝 Add docstrings to `feature/add-favicons`
 
-Signed-off-by: dependabot[bot] <support@github.com>
+Docstrings generation was requested by @Vitexus.
 
-Repository: Flexplorer
-- Bump ergebnis/php-cs-fixer-config from 6.55.0 to 6.56.0 (#18)
+* https://github.com/VitexSoftware/SkeliCZ/pull/1#issuecomment-3536867478
 
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.55.0 to 6.56.0.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
+The following files were modified:
 
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
+* `web/classes/WebPage.php`
+- feat: Add default and HD retina favicons
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Adds a comprehensive set of favicons to the application, including a multi-size favicon.ico, and 16x16, 32x32, and 180x180 PNG versions.
+
+The main page class is updated to include the new favicons in the HTML head.
+- feat: Add default and HD retina favicons
+
+Adds a comprehensive set of favicons to the application, including a multi-size favicon.ico, and 16x16, 32x32, and 180x180 PNG versions.
+
+The main page class is updated to include the new favicons in the HTML head.
 
 Repository: Redmine2AbraFlexi
-- Merge pull request #21 from VitexSoftware/dependabot/composer/friendsofphp/php-cs-fixer-tw-3.89
+- Add exit code definitions to application schema
 
-composer: update friendsofphp/php-cs-fixer requirement from ^3.88 to ^3.89
-- composer: update friendsofphp/php-cs-fixer requirement
+- Updated application JSON files with exitCodes property
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.88.0...v3.89.2)
+- Added exit code descriptions in English and Czech
 
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.89.2
-  dependency-type: direct:development
-...
+- Updated README files with Exit Codes section
 
-Signed-off-by: dependabot[bot] <support@github.com>
-- Merge pull request #22 from VitexSoftware/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.56
+- Schema version bumped to 3.1.0 where needed
+- Update MultiFlexi app.json files to schema v3.0.0 with cs/en localization
 
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.55 to ^6.56
-- Merge pull request #23 from VitexSoftware/dependabot/github_actions/docker/metadata-action-5.9.0
-
-Bump docker/metadata-action from 5.8.0 to 5.9.0
-- Bump docker/metadata-action from 5.8.0 to 5.9.0
-
-Bumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.8.0 to 5.9.0.
-- [Release notes](https://github.com/docker/metadata-action/releases)
-- [Commits](https://github.com/docker/metadata-action/compare/c1e51972afc2121e065aed6d45c65596fe445f3f...318604b99e75e41977312d83839a89be02ca4893)
-
----
-updated-dependencies:
-- dependency-name: docker/metadata-action
-  dependency-version: 5.9.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
+Updated files:
+- redmine2abraflexi.multiflexi.app.json
 
 Repository: abraflexi-config
-- composer: bump ergebnis/php-cs-fixer-config from 6.55.0 to 6.56.0 (#29)
+- Add exit code definitions to application schema
 
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.55.0 to 6.56.0.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/6.56.0/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.55.0...6.56.0)
+- Updated application JSON files with exitCodes property
+
+- Added exit code descriptions in English and Czech
+
+- Updated README files with Exit Codes section
+
+- Schema version bumped to 3.1.0 where needed
+- Update MultiFlexi app.json files to schema v3.0.0 with cs/en localization
+
+Updated files:
+- checker.multiflexi.app.json
+- composer: bump phpstan/phpstan from 2.1.31 to 2.1.32 (#30)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.56.0
+- dependency-name: phpstan/phpstan
+  dependency-version: 2.1.32
   dependency-type: direct:development
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- composer: bump phpunit/phpunit from 12.4.2 to 12.4.3 (#31)
+
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.4.2 to 12.4.3.
+- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.4.3/ChangeLog-12.4.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.4.2...12.4.3)
+
+---
+updated-dependencies:
+- dependency-name: phpunit/phpunit
+  dependency-version: 12.4.3
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Repository: igdebi
+- Refactor Jenkinsfile for improved readability and consistency in stages
 
