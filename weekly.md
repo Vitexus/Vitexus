@@ -1,150 +1,142 @@
-Date Range: 2025-11-14 to 2025-11-21
+Date Range: 2025-11-21 to 2025-11-28
 
 Weekly GitHub Commits:
 
-Repository: php-subreg
-- composer: update phpstan/phpstan-phpunit requirement from 2.0.7 to 2.0.8 (#18)
+Repository: ipex-b2b
+- Merge pull request #21 from Spoje-NET/dependabot/github_actions/actions/checkout-6
 
-Updates the requirements on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) to permit the latest version.
-- [Release notes](https://github.com/phpstan/phpstan-phpunit/releases)
-- [Commits](https://github.com/phpstan/phpstan-phpunit/compare/2.0.7...2.0.8)
+Bump actions/checkout from 5 to 6
+- Bump actions/checkout from 5 to 6
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v5...v6)
 
 ---
 updated-dependencies:
-- dependency-name: phpstan/phpstan-phpunit
-  dependency-version: 2.0.8
-  dependency-type: direct:development
+- dependency-name: actions/checkout
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Repository: php-abraflexi
-- Simplifies external ID retrieval logic
+- Improves error handling and updates API URLs
 
-Streamlines how external IDs are extracted and returned,
-reducing complexity and improving maintainability.
-Ensures more predictable and direct access to requested external IDs.
-- Updates version, improves relation handling, adds example
+Enhances error reporting by decoding API URLs for clearer exception messages.
 
-Bumps server version references across modules for consistency.
-Enhances relation value processing to better distinguish between
-associative and indexed arrays, supporting more robust data mapping.
-Adds a sample script for reading address data to demonstrate usage.
+Ensures 404 ignore state is preserved when retrieving phone numbers to prevent 404 exception.
+- Better errors debug
+- Refactors relation handling with helper methods
+
+Introduces factory methods to streamline creation of relation objects
+from raw values and document arrays, improving readability and
+maintainability. Reduces code duplication and clarifies relation mapping logic.
+- Relation processing fix
+- Fixes ExtID parsing for relation records
+
+Improves handling of external IDs in relation data by correcting array access and parsing logic. Ensures reliable creation of relation objects when processing records with ExtIDs, reducing errors in ID extraction and assignment.
+- Conversion of DocumentType Array to Relation fix
+- Refactor code structure for improved readability and maintainability
+
+introduced __(un)serialize php8.5 functions
 
 Repository: PHP-Realpad-Takeout
-- Merge pull request #17 from Spoje-NET/dependabot/composer/phpoffice/phpspreadsheet-tw-5.2
+- Merge pull request #20 from Spoje-NET/dependabot/github_actions/actions/checkout-6
 
-composer: update phpoffice/phpspreadsheet requirement from ^5.1 to ^5.2
+Bump actions/checkout from 5 to 6
+- Bump actions/checkout from 5 to 6
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v5...v6)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
 
 Repository: pohoda-raiffeisenbank
-- Add exit code definitions to application schema
+- Refactor PohodaBankClient and related classes for improved readability and consistency
 
-- Updated application JSON files with exitCodes property
+- Added missing backslashes for global functions to ensure proper namespace resolution.
+- Replaced array_key_exists checks with \array_key_exists for consistency.
+- Cleaned up whitespace and formatting for better readability.
+- Enhanced error handling and logging for certificate checks and file operations.
+- Updated comments for clarity and consistency across methods.
+- Improved handling of PDF and XML statement downloads, including error messages and exit codes.
+- Adds requirements metadata to app configs
 
-- Added exit code descriptions in English and Czech
+Introduces explicit "requirements" fields to various application configuration files to clarify service dependencies and improve orchestration.
+Removes legacy .orig files for better maintainability and reduces confusion.
+- Fix merge conflicts and update Raiffeisenbank Sharepoint integration configurations
 
-- Updated README files with Exit Codes section
+- Resolved merge conflicts in multiflexi app JSON files for Raiffeisenbank statements.
+- Updated environment variables and descriptions for better clarity and consistency.
+- Ensured all necessary fields are included for the Raiffeisenbank statements import, check, and upload functionalities.
+- Improved exit codes descriptions for better error handling and user feedback.
+- Merge branch 'main' of github.com:Spoje-NET/pohoda-raiffeisenbank
+- Improves Czech localization and adds API rate limit config
 
-- Schema version bumped to 3.1.0 where needed
+Refines Czech translations and descriptions for better clarity and consistency across application manifests.
+
+Adds configuration for RB API rate limit JSON file to enable monitoring and control of API usage.
+
+Enhances user experience for Czech-speaking users and supports better API management.
+- Improves Czech localization and adds API rate limit config
+
+Updates Czech descriptions and names for clarity and consistency across app manifests.
+Adds configuration for RB API rate limit JSON file to enable better API usage tracking.
+Enhances overall user experience for Czech-speaking users.
 
 Repository: discomp2abraflexi
-- Add exit code definitions to application schema
+- Merge pull request #19 from Spoje-NET/dependabot/github_actions/actions/checkout-6
 
-- Updated application JSON files with exitCodes property
+Bump actions/checkout from 5 to 6
+- Bump actions/checkout from 5 to 6
 
-- Added exit code descriptions in English and Czech
+Bumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v5...v6)
 
-- Updated README files with Exit Codes section
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
 
-- Schema version bumped to 3.1.0 where needed
-
-Repository: SkeliCZ
-- Merge pull request #1 from VitexSoftware/feature/add-favicons
-
-feat: Add default and HD retina favicons
-- Merge pull request #2 from VitexSoftware/coderabbitai/docstrings/1de7d9b
-
-📝 Add docstrings to `feature/add-favicons`
-- 📝 Add docstrings to `feature/add-favicons`
-
-Docstrings generation was requested by @Vitexus.
-
-* https://github.com/VitexSoftware/SkeliCZ/pull/1#issuecomment-3536867478
-
-The following files were modified:
-
-* `web/classes/WebPage.php`
-- feat: Add default and HD retina favicons
-
-Adds a comprehensive set of favicons to the application, including a multi-size favicon.ico, and 16x16, 32x32, and 180x180 PNG versions.
-
-The main page class is updated to include the new favicons in the HTML head.
-- feat: Add default and HD retina favicons
-
-Adds a comprehensive set of favicons to the application, including a multi-size favicon.ico, and 16x16, 32x32, and 180x180 PNG versions.
-
-The main page class is updated to include the new favicons in the HTML head.
+Signed-off-by: dependabot[bot] <support@github.com>
 
 Repository: Redmine2AbraFlexi
-- Add exit code definitions to application schema
+- Merge pull request #24 from VitexSoftware/dependabot/github_actions/actions/checkout-6
 
-- Updated application JSON files with exitCodes property
+Bump actions/checkout from 5 to 6
+- Bump actions/checkout from 5 to 6
 
-- Added exit code descriptions in English and Czech
-
-- Updated README files with Exit Codes section
-
-- Schema version bumped to 3.1.0 where needed
-- Update MultiFlexi app.json files to schema v3.0.0 with cs/en localization
-
-Updated files:
-- redmine2abraflexi.multiflexi.app.json
-
-Repository: abraflexi-config
-- Add exit code definitions to application schema
-
-- Updated application JSON files with exitCodes property
-
-- Added exit code descriptions in English and Czech
-
-- Updated README files with Exit Codes section
-
-- Schema version bumped to 3.1.0 where needed
-- Update MultiFlexi app.json files to schema v3.0.0 with cs/en localization
-
-Updated files:
-- checker.multiflexi.app.json
-- composer: bump phpstan/phpstan from 2.1.31 to 2.1.32 (#30)
+Bumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v5...v6)
 
 ---
 updated-dependencies:
-- dependency-name: phpstan/phpstan
-  dependency-version: 2.1.32
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
+- dependency-name: actions/checkout
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump phpunit/phpunit from 12.4.2 to 12.4.3 (#31)
-
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.4.2 to 12.4.3.
-- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.4.3/ChangeLog-12.4.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.4.2...12.4.3)
-
----
-updated-dependencies:
-- dependency-name: phpunit/phpunit
-  dependency-version: 12.4.3
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: igdebi
-- Refactor Jenkinsfile for improved readability and consistency in stages
 
