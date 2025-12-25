@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 38 hrs 48 mins  ████████████████████░░░░░   79.79 %
-YAML                  5 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-PHP                   1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Markdown              1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Dart                  42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other                 39 hrs 28 mins  ████████████████████░░░░░   80.29 %
+YAML                  4 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+PHP                   1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Markdown              1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Dart                  42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
