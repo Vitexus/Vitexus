@@ -1,59 +1,47 @@
-Date Range: 2026-01-02 to 2026-01-09
+Date Range: 2026-01-09 to 2026-01-16
 
 Weekly GitHub Commits:
 
+Repository: php-abraflexi
+- unserialization cleanup
+- feat: Update AbraFlexi evidence, property, and relation definitions across static files and related PHP classes, and update the changelog.
+- Merge branch 'main' of github.com:Spoje-NET/php-abraflexi
+- Stringable objects
+
 Repository: system
-- build pipeline update
-- v1.5.17 release
-- build deps update
-- Update for current EaseBricks
-
-Repository: pohoda-client-checker
-- deb deps update
-- Refactors pipeline and improves test environment handling
-
-Streamlines Jenkins pipeline logic with clearer variable usage,
-enhances artifact management, and improves error handling for
-package installation.
-
-Updates test file headers for clarity and consistency.
-Switches command syntax for JSON imports to improve reliability.
-
-Simplifies color customization settings for a cleaner workspace
-appearance.
-- Improves Czech localization and environment descriptions
-
-Enhances Czech translations for application names, field descriptions, and environment variables.
-Updates several environment field descriptions for clarity and consistency between English and Czech.
-Facilitates better usability and localization for Czech-speaking users.
-- Resolve merge conflicts and update manifests to schema v3.2.1; pull changes
+- record selector was moved to witgets project
+- update for current php-abraflexi
 
 Repository: pohoda-raiffeisenbank
-- MultiFlexi configuration update
+- Refactor Jenkinsfile for improved readability and consistency in stage naming
+- Makes Pohoda compression optional and improves docs
 
-Repository: discomp2abraflexi
-- Improves multiflexi validation, credential import, and localization
+Changes the Pohoda compression parameter from required to optional
+in all relevant configuration files, allowing greater flexibility
+in app usage.
 
-Adds a Makefile target for validating multiflexi JSON files and updates post-install scripts to separately import application and credential type JSONs. Refines Czech localization in app config and removes a redundant credential type JSON. Also aligns code with stricter type checks and updates a dependency version for better compatibility.
+Updates documentation formatting for clarity and consistency.
 
-Repository: Icinga-Editor
-- Updates dependencies and improves Markdown rendering security
+Improves post-install script command for better compatibility.
 
-Aligns dependency versions with current standards, adds missing PHP and extension requirements, and replaces deprecated Markdown library usage with a safer, modern implementation.
-Enhances security by stripping raw HTML and disallowing unsafe links in rendered Markdown.
+Makes Pohoda compression optional and refines docs
+
+Allows more flexible application configurations by changing the Pohoda compression parameter to optional.
+Improves documentation clarity and consistency.
+Enhances post-install script for better compatibility.
 
 Repository: Flexplorer
-- Bump friendsofphp/php-cs-fixer from 3.92.3 to 3.92.4 (#26)
+- Bump friendsofphp/php-cs-fixer from 3.92.4 to 3.92.5 (#27)
 
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.3 to 3.92.4.
+Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.4 to 3.92.5.
 - [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
 - [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.3...v3.92.4)
+- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.4...v3.92.5)
 
 ---
 updated-dependencies:
 - dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.92.4
+  dependency-version: 3.92.5
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -62,34 +50,17 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Repository: abraflexi-config
-- composer: bump ergebnis/php-cs-fixer-config from 6.58.0 to 6.58.1 (#40)
+- composer: bump friendsofphp/php-cs-fixer from 3.92.4 to 3.92.5 (#42)
 
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.58.0 to 6.58.1.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.58.0...6.58.1)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.58.1
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump friendsofphp/php-cs-fixer from 3.92.3 to 3.92.4 (#41)
-
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.3 to 3.92.4.
+Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.4 to 3.92.5.
 - [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
 - [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.3...v3.92.4)
+- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.4...v3.92.5)
 
 ---
 updated-dependencies:
 - dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.92.4
+  dependency-version: 3.92.5
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
