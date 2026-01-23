@@ -1,66 +1,55 @@
-Date Range: 2026-01-09 to 2026-01-16
+Date Range: 2026-01-16 to 2026-01-23
 
 Weekly GitHub Commits:
 
-Repository: php-abraflexi
-- unserialization cleanup
-- feat: Update AbraFlexi evidence, property, and relation definitions across static files and related PHP classes, and update the changelog.
-- Merge branch 'main' of github.com:Spoje-NET/php-abraflexi
-- Stringable objects
-
 Repository: system
-- record selector was moved to witgets project
-- update for current php-abraflexi
+- ver up
+- Ordering update for current php-abraflexi
+- add id attribute to "Add to cart" button in Pricelist
 
-Repository: pohoda-raiffeisenbank
-- Refactor Jenkinsfile for improved readability and consistency in stage naming
-- Makes Pohoda compression optional and improves docs
+Repository: spojeitisac
+- Add Zabbix-dev playbook for Debian 13
 
-Changes the Pohoda compression parameter from required to optional
-in all relevant configuration files, allowing greater flexibility
-in app usage.
+- Added zabbix-dev.serverovna.brevnov.czf.yml playbook
 
-Updates documentation formatting for clarity and consistency.
+- Configured for Debian 13 (Trixie) with PHP 8.4
 
-Improves post-install script command for better compatibility.
+- Fixed compatibility issues (libpcre2-dev, removed php-imap)
 
-Makes Pohoda compression optional and refines docs
+- Configured Zabbix Agent2 to monitor itself
 
-Allows more flexible application configurations by changing the Pohoda compression parameter to optional.
-Improves documentation clarity and consistency.
-Enhances post-install script for better compatibility.
+- Added zabbix-dev target to Makefile
 
-Repository: Flexplorer
-- Bump friendsofphp/php-cs-fixer from 3.92.4 to 3.92.5 (#27)
+Co-Authored-By: Warp <agent@warp.dev>
+- Configure NetBox to log to syslog
 
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.4 to 3.92.5.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.4...v3.92.5)
+- Add netbox logger with console and syslog handlers
 
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.92.5
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
+- Add syslog handler to django.request logger for error logging
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Configure syslog handler with /dev/log address and user facility
+
+- Change syslog handler level from DEBUG to INFO for better signal/noise
+
+Co-Authored-By: Warp <agent@warp.dev>
+- Fix PostgreSQL deprecated 'db' parameter in netbox role
+
+Replace deprecated 'db' parameter with 'database' in community.postgresql.postgresql_privs task to avoid deprecation warning.
+
+Co-Authored-By: Warp <agent@warp.dev>
 
 Repository: abraflexi-config
-- composer: bump friendsofphp/php-cs-fixer from 3.92.4 to 3.92.5 (#42)
+- composer: bump phpunit/phpunit from 12.5.4 to 12.5.6 (#43)
 
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.92.4 to 3.92.5.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.92.4...v3.92.5)
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 12.5.4 to 12.5.6.
+- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/12.5.6/ChangeLog-12.5.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/12.5.4...12.5.6)
 
 ---
 updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.92.5
+- dependency-name: phpunit/phpunit
+  dependency-version: 12.5.6
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
