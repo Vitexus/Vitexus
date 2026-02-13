@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 36 hrs 58 mins  ███████████████████▓░░░░░   78.58 %
-YAML                  1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Config                1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Bash                  1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Debian Control file   1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other                 37 hrs 48 mins  ███████████████████▒░░░░░   77.49 %
+YAML                  4 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Config                1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Bash                  1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Go                    59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
