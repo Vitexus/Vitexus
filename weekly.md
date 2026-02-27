@@ -1,116 +1,50 @@
-Date Range: 2026-02-13 to 2026-02-20
+Date Range: 2026-02-20 to 2026-02-27
 
 Weekly GitHub Commits:
 
 Repository: php-abraflexi
-- Add methods to retrieve single and multiple documents as objects
-- v3.7.0 release
-- Update for AbraFlexi 2026.2.2
-- Add methods to retrieve server status and license information
+- fix: __serialize() returns proper key-value pairs for session serialization
 
-Repository: pohoda-client-checker
-- composer: update friendsofphp/php-cs-fixer requirement (#23)
+- __serialize() now returns associative array instead of flat property name list
 
-Updates the requirements on [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) to permit the latest version.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.93.0...v3.94.0)
+- __unserialize() assigns values directly with is_string guard
 
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.94.0
-  dependency-type: direct:development
-...
+- __sleep() now returns property names from __serialize()
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/composer-normalize requirement (#22)
+- Removed non-existent 'init' property from serialization list
 
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.49.0...2.50.0)
+Fixes TypeError: Ease\Molecule::setupProperty() Argument #2 must be string, int given
 
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.50.0
-  dependency-type: direct:development
-...
+Co-Authored-By: Oz <oz-agent@warp.dev>
+- phpdoc update
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement (#24)
+Repository: ansible
+- Remove broken haproxy backends
 
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.59.0...6.60.0)
+Removed backends:
 
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.60.0
-  dependency-type: direct:development
-...
+- netbox.proxy.spojenet.cz (10.11.56.151:10101) - connection refused
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- novak.proxy.spojenet.cz (10.11.25.23:50000) - no route to host
+
+This resolves Zabbix alerts for non-functional backends
+
+Co-Authored-By: Oz <oz-agent@warp.dev>
+- Remove unreachable pokusa.proxy.spojenet.cz backend
+
+Backend host 10.11.182.71 is unreachable (Destination Host Unreachable)
+
+Removed from haproxy configuration to clean up Zabbix alerts
+
+Co-Authored-By: Oz <oz-agent@warp.dev>
+
+Repository: realpad2mailkit
+- build pipelines update
+- Fix: update PHP CS Fixer rule set to Php81 and improve error handling in realpad2mailkit
 
 Repository: discomp2abraflexi
-- Merge pull request #31 from Spoje-NET/dependabot/composer/ergebnis/php-cs-fixer-config-tw-6.60
-
-composer: update ergebnis/php-cs-fixer-config requirement from ^6.58 to ^6.60
-- Merge pull request #32 from Spoje-NET/dependabot/composer/spojenet/flexibee-tw-3.7
-
-composer: update spojenet/flexibee requirement from ^3.6 to ^3.7
-- composer: update spojenet/flexibee requirement from ^3.6 to ^3.7
-
-Updates the requirements on [spojenet/flexibee](https://github.com/Spoje-NET/php-abraflexi) to permit the latest version.
-- [Release notes](https://github.com/Spoje-NET/php-abraflexi/releases)
-- [Commits](https://github.com/Spoje-NET/php-abraflexi/compare/3.6.0...v3.7.0)
-
----
-updated-dependencies:
-- dependency-name: spojenet/flexibee
-  dependency-version: 3.7.0
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- composer: update ergebnis/php-cs-fixer-config requirement
-
-Updates the requirements on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.58.0...6.60.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.60.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Repository: Flexplorer
-- Bump ergebnis/php-cs-fixer-config from 6.59.0 to 6.60.0 (#33)
-
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.59.0 to 6.60.0.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.59.0...6.60.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.60.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- do not build for forky
+- crprototype validation fix
+- Merge branch 'main' of github.com:Spoje-NET/discomp2abraflexi
+- Update package dependencies and improve installation scripts for discomp2abraflexi
 
