@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-zabbix 2.4.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [abraflexi-zabbix 1.1.1.33~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
 - [abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
-- [multiflexi-zabbix 2.4.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [cron-abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=cron-abraflexi-matcher)
 - [multiflexi-abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-matcher)
 <!-- DEBIAN-PACKAGES-LIST:END -->
