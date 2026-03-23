@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-zabbix 2.4.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [abraflexi-zabbix 1.1.1.32~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
+- [abraflexi-digest 1.33.2.202~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 - [abraflexi-email-importer 1.1.2.116~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [abraflexi-mailer 1.4.0.148~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [abraflexi-contract-invoices 1.1.2.84~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
-- [multiflexi-abraflexi-email-importer 1.1.2.116~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
-- [multiflexi-abraflexi-mailer 1.4.0.148~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
+- [multiflexi-abraflexi-digest 1.33.2.202~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
