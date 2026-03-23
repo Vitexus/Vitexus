@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-abraflexi 3.7.2.417~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
 - [seznamds 2025.5.3.934~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [php-spojenet-abraflexi-dev 3.7.2.417~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
 - [abraflexi-contract-invoices 1.1.2.84~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
 - [abraflexi-digest 1.33.2.202~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
-- [abraflexi-email-importer 1.1.2.116~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [abraflexi-mailer 1.4.0.148~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
