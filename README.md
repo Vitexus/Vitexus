@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.1.0.52~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-executor 0.1.1.21~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
-- [multiflexi-common 1.28.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [multiflexi-probe 1.28.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-probe)
-- [php-vitexsoftware-multiflexi-server 0.1.0.1~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server)
+- [abraflexi-email-importer 1.1.2.116~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
+- [abraflexi-mailer 1.4.0.148~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
+- [abraflexi-contract-invoices 1.1.2.84~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
+- [multiflexi-abraflexi-email-importer 1.1.2.116~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
+- [multiflexi-abraflexi-mailer 1.4.0.148~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
