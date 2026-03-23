@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-abraflexi 3.7.1.413~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [php-spojenet-abraflexi-dev 3.7.1.413~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
 - [multiflexi-zabbix 2.4.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [abraflexi-zabbix 1.1.1.33~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
 - [abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
-- [cron-abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=cron-abraflexi-matcher)
-- [multiflexi-abraflexi-matcher 1.2.0.177~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-matcher)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
