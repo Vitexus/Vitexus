@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-zabbix 2.4.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
+- [multiflexi-zabbix 2.4.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [php-vitexsoftware-multiflexi-core 2.8.0.234~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [php-vitexsoftware-multiflexi-core-dev 2.8.0.234~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [dungeona 0.1.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=dungeona)
