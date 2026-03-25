@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-raiffeisenbank 1.5.1.121~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [php-vitexsoftware-ease-bootstrap5-widgets-abraflexi 1.4.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets-abraflexi)
+- [multiflexi-abraflexi-raiffeisenbank 1.5.1.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
 - [raiffeisenbank-statement-tools 1.4.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
 - [multiflexi-raiffeisenbank-statement-tools 1.4.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
-- [abraflexi-tools 1.1.7.115~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
-- [multiflexi-abraflexi-tools 1.1.7.115~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
-- [thunderbird-daily 136.0a1+.922~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
