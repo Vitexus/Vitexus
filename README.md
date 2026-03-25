@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-bootstrap5-widgets-abraflexi 1.4.1.54~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets-abraflexi)
 - [abraflexi-raiffeisenbank 1.5.1.121~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
-- [php-vitexsoftware-ease-bootstrap5-widgets-abraflexi 1.4.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets-abraflexi)
 - [multiflexi-abraflexi-raiffeisenbank 1.5.1.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
 - [raiffeisenbank-statement-tools 1.4.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
 - [multiflexi-raiffeisenbank-statement-tools 1.4.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
