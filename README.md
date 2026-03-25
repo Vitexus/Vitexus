@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-tools 1.1.7.114~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
-- [multiflexi-abraflexi-tools 1.1.7.114~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
+- [abraflexi-tools 1.1.7.115~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
+- [multiflexi-abraflexi-tools 1.1.7.115~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
 - [thunderbird-daily 136.0a1+.922~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [seznamds 2025.5.3.935~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [multiflexi-zabbix 2.4.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
