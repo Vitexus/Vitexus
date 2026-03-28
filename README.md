@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 136.0a1+.925~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [seznamds 2025.5.3.938~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [thunderbird-daily 136.0a1+.924~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [multiflexi-zabbix 2.4.1.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
 - [abraflexi-raiffeisenbank 1.5.1.123~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 - [multiflexi-abraflexi-raiffeisenbank 1.5.1.123~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-raiffeisenbank)
