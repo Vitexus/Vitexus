@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.941~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [subreg2abraflexi 1.2.1.85~bookworm](https://repo.vitexsoftware.com/package.php?package=subreg2abraflexi)
+- [multiflexi-subreg 1.2.1.85~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-subreg)
+- [multiflexi-subreg2abraflexi 1.2.1.85~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-subreg2abraflexi)
 - [abraflexi-mailer 1.4.0.149~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [multiflexi-web 2.3.1.19~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
-- [php-vitexsoftware-multiflexi-core 2.8.0.243~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-scheduler 2.2.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
-- [multiflexi-abraflexi-mailer 1.4.0.149~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-mailer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
