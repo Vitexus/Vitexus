@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.8.0.238~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.8.0.238~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [thunderbird-daily 136.0a1+.927~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [python3-tapo 0.8.4-1.33~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
-- [python3-tapo-dbgsym 0.8.4-1.33~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo-dbgsym)
+- [php-vitexsoftware-multiflexi-core 2.8.0.241~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [multiflexi-scheduler 2.2.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-scheduler)
+- [multiflexi-executor 1.14.2.108~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [php-vitexsoftware-multiflexi-core-dev 2.8.0.241~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [multiflexi-executor-docker 1.14.2.108~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
