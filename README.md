@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-mail 2.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-mail)
+- [multiflexi-raiffeisenbank 2.0.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
 - [multiflexi-cli 2.5.0.188~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [php-vitexsoftware-multiflexi-core 2.9.0.246~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-web 2.3.1.22~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
-- [php-vitexsoftware-multiflexi-core-dev 2.9.0.246~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [multiflexi-abraflexi 2.0.0.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
+- [multiflexi-mail-ui 2.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-mail-ui)
+- [multiflexi-raiffeisenbank-ui 2.0.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-ui)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
