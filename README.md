@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [debs2sql 1.1.1.109~bookworm](https://repo.vitexsoftware.com/package.php?package=debs2sql)
 - [mastodon-image-poster 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=mastodon-image-poster)
 - [thunderbird-daily 136.0a1+.929~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [seznamds 2025.5.3.942~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [multiflexi-raiffeisenbank 2.0.0.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-mail 2.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-mail)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
