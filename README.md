@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-executor 1.14.2.111~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
 - [flexplorer 1.6.129~bookworm](https://repo.vitexsoftware.com/package.php?package=flexplorer)
-- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.2.32~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
-- [thunderbird-daily 136.0a1+.932~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [seznamds 2025.5.3.945~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [abraflexi-client-check 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-check)
+- [multiflexi-executor-azure 1.14.2.111~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-azure)
+- [multiflexi-executor-dev 1.14.2.111~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-dev)
+- [multiflexi-executor-docker 1.14.2.111~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
