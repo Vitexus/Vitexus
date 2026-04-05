@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.947~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [php-vitexsoftware-multiflexi-core 2.9.0.251~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [multiflexi-web 2.3.1.23~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
 - [php-vitexsoftware-multiflexi-core-dev 2.9.0.251~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [multiflexi-executor 1.14.2.112~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
-- [multiflexi-cli 2.5.0.190~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
