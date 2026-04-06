@@ -12,11 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 136.0a1+.934~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [python3-tapo 0.8.4-1.34~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
-- [python3-tapo-dbgsym 0.8.4-1.34~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo-dbgsym)
-- [seznamds 2025.5.3.947~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [php-vitexsoftware-multiflexi-core 2.9.0.251~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [multiflexi-web 2.3.1.25~noble](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
