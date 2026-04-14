@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      11 hrs 14 mins        ████████████████████████░   96.60 %
-Makefile   23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Other      10 hrs 58 mins        ████████████████████████░   95.83 %
+Makefile   23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JSON       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
