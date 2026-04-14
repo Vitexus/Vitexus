@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 136.0a1+.943~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [abraflexi-ipex 1.2.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
 - [multiflexi-abraflexi-ipex 1.2.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
 - [php-spojenet-ipex-b2b 1.2.0.71~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-ipex-b2b)
 - [seznamds 2025.5.3.956~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [abraflexi-email-importer 1.1.2.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
