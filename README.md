@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-ipex 1.2.1.75~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-ipex 1.2.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [multiflexi-abraflexi-ipex 1.2.1.76~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
 - [php-spojenet-ipex-b2b 1.2.0.71~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-ipex-b2b)
 - [seznamds 2025.5.3.956~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [multiflexi-abraflexi-ipex 1.2.1.75~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
 - [abraflexi-email-importer 1.1.2.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
