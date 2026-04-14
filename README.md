@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-cli 2.5.0.192~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [thunderbird-daily 136.0a1+.936~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [abraflexi-email-importer 1.1.2.117~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [multiflexi-abraflexi-email-importer 1.1.2.117~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
-- [abraflexi-client-check 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-check)
+- [abraflexi-email-importer 1.1.2.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
+- [multiflexi-abraflexi-email-importer 1.1.2.118~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
+- [thunderbird-daily 136.0a1+.942~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
+- [claude-code-usage-monitor 3.1.0-1.3~trixie](https://repo.vitexsoftware.com/package.php?package=claude-code-usage-monitor)
+- [seznamds 2025.5.3.955~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
