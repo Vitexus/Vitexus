@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-ipex 1.2.1.79~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [multiflexi-abraflexi-ipex 1.2.1.79~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
+- [php-spojenet-ipex-b2b 1.2.0.74~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-ipex-b2b)
+- [abraflexi-ipex 1.2.1.81~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [php-mpdf 8.3.2.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf)
+- [multiflexi-abraflexi-ipex 1.2.1.81~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
 - [abraflexi-client-check 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-check)
-- [abraflexi-pricefixer 2.11.3.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
-- [abraflexi-client-config 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-config)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
