@@ -39,9 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      10 hrs 58 mins        ████████████████████████░   95.83 %
-Makefile   23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other                 13 hrs 50 mins        █████████████████████▓░░░   87.10 %
+Markdown              43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Makefile              24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+YAML                  19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+reStructuredText      10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
