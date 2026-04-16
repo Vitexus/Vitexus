@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-mpdf 8.3.2.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf)
+- [php-paragonie-random-compat 9.99.100-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-paragonie-random-compat)
+- [php-myclabs-deepcopy 1.13.4-2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-myclabs-deepcopy)
 - [php-setasign-fpdi 2.6.6-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-setasign-fpdi)
 - [php-mpdf-psr-log-aware-trait 3.0.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf-psr-log-aware-trait)
-- [php-mpdf-psr-http-message-shim 2.0.1-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf-psr-http-message-shim)
-- [thunderbird-daily 136.0a1+.944~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [seznamds 2025.5.3.957~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
