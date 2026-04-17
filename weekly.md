@@ -1,44 +1,27 @@
-Date Range: 2026-04-03 to 2026-04-10
+Date Range: 2026-04-10 to 2026-04-17
 
 Weekly GitHub Commits:
 
-Repository: php-abraflexi
-- Merge pull request #99 from castillo-n/fix/empty-results-parse-error
+Repository: ipex-b2b
+- fix: fix nullable CurlHandle and PHP 8 is_resource() in disconnect()
 
-Fix undefined array key 0 in RW::parseError() when results is empty
+- Declare $curl as ?CurlHandle = null to allow null assignment on disconnect
+- Replace is_resource() guard with instanceof CurlHandle (PHP 8+)
+- Apply php-cs-fixer formatting to affected files
 
-Repository: Flexplorer
-- Bump vitexsoftware/ease-bootstrap5-widgets from 1.4.1 to 1.4.2 (#39)
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- docs: rewrite AGENTS.md with accurate project structure and conventions
 
-Bumps [vitexsoftware/ease-bootstrap5-widgets](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets) from 1.4.1 to 1.4.2.
-- [Release notes](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/releases)
-- [Commits](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/compare/1.4.1...1.4.2)
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- fix: correct README badges — HTTPS, MIT license, and Packagist package name
 
----
-updated-dependencies:
-- dependency-name: vitexsoftware/ease-bootstrap5-widgets
-  dependency-version: 1.4.2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- fix: migrate to static debian/autoload.php, drop composer-debian and phpab
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- Remove composer.json and update package dependencies in control file
+- Add static debian/autoload.php with PSR-4 spl_autoload_register for IPEXB2B\ namespace
+- Remove phpab build-time autoloader generation from debian/rules
+- Remove deprecated composer-global-update call from debian/postinst
+- Drop phpab from Build-Depends in debian/control
 
-- Deleted the composer.json file as it is no longer needed.
-- Updated the debian/control file to include specific PHP package dependencies.
-- Removed the use of phpcomposer in the rules file to streamline the build process.
-- Add autoload.php for Flexplorer and update installation paths
-
-- Introduced debian/conf/autoload.php to handle autoloading of Flexplorer classes and dependencies.
-- Updated debian/install to include autoload.php in the installation path.
-- Changed source format from '3.0 (git)' to '3.0 (native)' in debian/source/format.
-- Update Debian packaging for Flexplorer
-
-- Changed Build-Depends to use pkg-php-tools instead of composer-debian.
-- Updated the package dependencies to use ${phpcomposer:Debian-require}.
-- Removed composer.json installation from the package.
-- Removed composer.lock and autoload.php cleanup from postrm script.
-- Updated rules to use dh with phpcomposer and corrected paths in Init.php.
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
