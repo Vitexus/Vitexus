@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [node-pngjs 3.0.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=node-pngjs)
 - [multiflexi-tui 2.2.0.23~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-tui)
 - [multiflexi-cli 2.5.0.193~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 - [thunderbird-daily 136.0a1+.946~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [abraflexi-ipex 1.2.1.82~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [seznamds 2025.5.3.959~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
