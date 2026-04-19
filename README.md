@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.961~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [php-meditorial-mailkit-api 1.1.4-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
+- [php-vitexsoftware-multiflexi-core 2.9.0.256~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-multiflexi-core-dev 2.9.0.256~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [php-mpdf 8.3.2.4.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf)
-- [thunderbird-daily 136.0a1+.947~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [abraflexi-ipex 1.2.1.83~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [multiflexi-abraflexi-ipex 1.2.1.83~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-ipex)
-- [ansir 0.1.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=ansir)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
