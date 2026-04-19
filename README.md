@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [seznamds 2025.5.3.961~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [php-meditorial-mailkit-api 1.1.4-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
-- [php-vitexsoftware-multiflexi-core 2.9.0.256~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.9.0.256~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [php-mpdf 8.3.2.4.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-mpdf)
+- [python3-tapo 0.8.4-1.36~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
+- [php-psr-simple-cache 1.0.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-simple-cache)
+- [php-markbaker-matrix 1.0.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-matrix)
+- [php-markbaker-complex 1.0.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-complex)
+- [php-maennchen-zipstream-php 1.0.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-maennchen-zipstream-php)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
