@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web 2.3.1.27~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
-- [php-jimtools-basic-auth 3.4.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-jimtools-basic-auth)
-- [php-vitexsoftware-multiflexi-server-dev 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server-dev)
-- [php-vitexsoftware-multiflexi-server 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server)
-- [abraflexi-ipex 1.2.1.83~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-client-check 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-check)
+- [abraflexi-ipex 1.2.1.84~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-pricefixer 2.11.3.122~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
+- [abraflexi-client-config 1.7.1.119~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-client-config)
+- [abraflexi-contract-invoices 1.1.2.85~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
