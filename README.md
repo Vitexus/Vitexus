@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-jimtools-basic-auth 3.4.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-jimtools-basic-auth)
+- [php-vitexsoftware-multiflexi-server-dev 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server-dev)
+- [php-vitexsoftware-multiflexi-server 0.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-server)
 - [abraflexi-ipex 1.2.1.83~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
 - [abraflexi-email-importer 1.1.2.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [ansir 0.1.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=ansir)
-- [abraflexi-zabbix 1.1.1.34~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
-- [claude-code-usage-monitor 3.1.0-1.3~trixie](https://repo.vitexsoftware.com/package.php?package=claude-code-usage-monitor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
