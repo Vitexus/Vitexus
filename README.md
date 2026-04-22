@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-cli 2.5.1.205~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 - [abraflexi-cli 0.1.0.19~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
 - [abraflexi-email-importer 1.1.2.125~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 - [abraflexi-zabbix 1.1.1.41~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
 - [multiflexi-abraflexi-email-importer 1.1.2.125~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
-- [multiflexi-cli 2.5.1.202~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
