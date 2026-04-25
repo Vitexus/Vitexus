@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 29 hrs 24 mins        ████████████████████░░░░░   80.37 %
-PHP                   2 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Debian Control file   1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-YAML                  58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Markdown              51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Other                 32 hrs 54 mins        ████████████████████░░░░░   80.44 %
+PHP                   3 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Debian Control file   1 hr 14 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+YAML                  1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown              52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
