@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.969~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [repocompare 2025.5.3.969~forky](https://repo.vitexsoftware.com/package.php?package=repocompare)
 - [eidolon-drift 0.9.5.2~bookworm](https://repo.vitexsoftware.com/package.php?package=eidolon-drift)
 - [php-vitexsoftware-multiflexi-core 2.9.2.287~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [php-vitexsoftware-multiflexi-core-dev 2.9.2.287~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [smolfedi 1.2.4.2~bookworm](https://repo.vitexsoftware.com/package.php?package=smolfedi)
-- [thunderbird-daily 136.0a1+.957~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
