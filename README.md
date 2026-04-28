@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee 2026.3.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [multiflexi-all 0.2.0.45~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-all)
-- [multiflexi-cli 2.5.1.209~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [thunderbird-daily 136.0a1+.958~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [seznamds 2025.5.3.969~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [multiflexi-web 2.3.1.47~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
+- [multiflexi-cli 2.5.1.211~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [multiflexi-migrations 2.5.0.141~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
+- [multiflexi-mysql 2.5.0.141~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-mysql)
+- [multiflexi-pgsql 2.5.0.141~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-pgsql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
