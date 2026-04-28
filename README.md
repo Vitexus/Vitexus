@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [csas-statement-tools 0.1.3.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
+- [php-spojenet-abraflexi 3.7.2.423~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [multiflexi-csas-statement-tools 0.1.3.50~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
 - [abraflexi-reminder 1.7.3.238~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder)
 - [abraflexi-raiffeisenbank 1.5.1.124~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
-- [fiobank-statement-tools 1.0.1.89~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
-- [multiflexi-cli 2.5.1.212~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [php-cakephp-phinx 0.16.10.31~bookworm](https://repo.vitexsoftware.com/package.php?package=php-cakephp-phinx)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
