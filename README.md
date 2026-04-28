@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-multiflexi-core 2.9.2.291~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [multiflexi-raiffeisenbank 2.0.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [seznamds 2025.5.3.970~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [php-vitexsoftware-multiflexi-core-dev 2.9.2.291~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [csas-statement-tools 0.1.3.50~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-statement-tools)
-- [php-spojenet-abraflexi 3.7.2.423~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
-- [multiflexi-csas-statement-tools 0.1.3.50~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-statement-tools)
-- [abraflexi-reminder 1.7.3.238~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder)
-- [abraflexi-raiffeisenbank 1.5.1.124~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
