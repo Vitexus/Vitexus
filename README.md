@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 136.0a1+.959~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [php-psr-clock 1.0.0-1~trixie.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-clock)
-- [php-league-container 6.0.0-1~trixie.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-league-container)
-- [dungeona 0.4.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=dungeona)
-- [php-vitexsoftware-multiflexi-core 2.9.2.291~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [abraflexi-matcher 1.2.1.190~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
+- [cron-abraflexi-matcher 1.2.1.190~bookworm](https://repo.vitexsoftware.com/package.php?package=cron-abraflexi-matcher)
+- [multiflexi-abraflexi-matcher 1.2.1.190~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-matcher)
+- [abraflexi-ipex 1.2.1.103~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-pricefixer 2.11.3.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
