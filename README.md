@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.972~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [repocompare 2025.5.3.972~forky](https://repo.vitexsoftware.com/package.php?package=repocompare)
 - [thunderbird-daily 136.0a1+.960~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [seznamds 2025.5.3.971~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [repocompare 2025.5.3.971~forky](https://repo.vitexsoftware.com/package.php?package=repocompare)
 - [abraflexi-cli 0.2.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
 - [abraflexi-matcher 1.2.1.190~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-matcher)
 <!-- DEBIAN-PACKAGES-LIST:END -->
