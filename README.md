@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 136.0a1+.961~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [mastodon-mcp-server 1.0.1-1.8~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
-- [seznamds 2025.5.3.972~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [repocompare 2025.5.3.972~forky](https://repo.vitexsoftware.com/package.php?package=repocompare)
-- [abraflexi-cli 0.2.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [redmine2abraflexi 2.0.0.79~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
+- [multiflexi-redmine2abraflexi 2.0.0.79~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-redmine2abraflexi)
+- [abraflexi-ipex 1.2.1.103~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-pricefixer 2.11.3.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
+- [abraflexi-reminder-gnokii 1.7.3.238~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder-gnokii)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
