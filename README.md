@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [redmine2abraflexi 2.0.0.79~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
-- [multiflexi-redmine2abraflexi 2.0.0.79~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-redmine2abraflexi)
+- [mastodon-mcp-server 1.0.1-1.10~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
 - [abraflexi-ipex 1.2.1.103~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [abraflexi-pricefixer 2.11.3.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
 - [abraflexi-reminder-gnokii 1.7.3.238~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder-gnokii)
+- [abraflexi-cli 0.2.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [abraflexi-contract-invoices 1.1.2.92~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
