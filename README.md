@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 152.0a1+.964~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
+- [python3-py-key-value-aio 2.14.0~a0+dev-1.11~trixie.10~trixie](https://repo.vitexsoftware.com/package.php?package=python3-py-key-value-aio)
+- [python3-pydantic 2.14.0~a0+dev-1.11~trixie.10~resolute](https://repo.vitexsoftware.com/package.php?package=python3-pydantic)
 - [python3-sse-starlette 3.4.1-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-sse-starlette)
 - [seznamds 2025.5.3.974~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
-- [repocompare 2025.5.3.974~forky](https://repo.vitexsoftware.com/package.php?package=repocompare)
-- [multiflexi-abraflexi 2.0.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
