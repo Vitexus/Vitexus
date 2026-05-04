@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [fiobank-statement-tools 1.0.1.91~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
-- [multiflexi-fiobank-statement-tools 1.0.1.91~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-fiobank-statement-tools)
-- [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
-- [abraflexi-ipex 1.2.2.107~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [abraflexi-cli 0.2.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [multiflexi-executor 1.14.2.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [multiflexi-executor-azure 1.14.2.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-azure)
+- [multiflexi-executor-dev 1.14.2.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-dev)
+- [multiflexi-executor-docker 1.14.2.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
+- [multiflexi-executor-k8s 1.14.2.121~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-k8s)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
