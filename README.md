@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-client-for-ollama 0.28.0.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [thunderbird-daily 152.0a1+.965~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [python3-mcp 2.0.0~alpha1-1.10~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
-- [python3-py-key-value-aio 2.14.0~a0+dev-1.11~trixie.10~trixie](https://repo.vitexsoftware.com/package.php?package=python3-py-key-value-aio)
-- [python3-pydantic 2.14.0~a0+dev-1.11~trixie.10~resolute](https://repo.vitexsoftware.com/package.php?package=python3-pydantic)
+- [fiobank-statement-tools 1.0.1.91~bookworm](https://repo.vitexsoftware.com/package.php?package=fiobank-statement-tools)
+- [multiflexi-fiobank-statement-tools 1.0.1.91~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-fiobank-statement-tools)
+- [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-ipex 1.2.2.107~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-cli 0.2.0.20~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
