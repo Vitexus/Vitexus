@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-tools 1.1.7.116~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
-- [multiflexi-abraflexi-tools 1.1.7.116~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
-- [abraflexi-cli 0.2.0.21~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
-- [php-mhujer-fio-api 5.0.1.33~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
-- [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-report-tools 0.6.0.89~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-report-tools)
+- [thunderbird-daily 152.0a1+.969~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
+- [multiflexi-web 2.3.1.49~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-web)
+- [multiflexi-cli 2.5.2.214~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [duf 0.9.1](https://repo.vitexsoftware.com/package.php?package=duf)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
