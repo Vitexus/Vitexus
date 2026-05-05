@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-core 1.51.2.376~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-core)
+- [seznamds 2025.5.3.977~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [multiflexi-executor 1.14.2.122~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor)
+- [php-vitexsoftware-ease-core-dev 1.51.2.376~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-core-dev)
 - [multiflexi-executor-azure 1.14.2.122~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-azure)
-- [multiflexi-executor-dev 1.14.2.122~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-dev)
-- [multiflexi-executor-docker 1.14.2.122~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-docker)
-- [multiflexi-executor-k8s 1.14.2.122~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-executor-k8s)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
