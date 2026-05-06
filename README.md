@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-twbootstrap5 1.2.1.107~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5)
-- [php-vitexsoftware-ease-twbootstrap5-doc 1.2.1.107~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5-doc)
-- [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
-- [abraflexi-cli 0.2.0.21~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
-- [abraflexi-contract-invoices 1.1.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
+- [multiflexi-raiffeisenbank 2.0.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
+- [multiflexi-probe 2.1.1.31~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-probe)
+- [php-mhujer-fio-api 5.0.1.37~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
+- [php-vitexsoftware-rbczpremiumapi 1.5.5.164~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi)
+- [abraflexi-raiffeisenbank 1.5.1.125~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
