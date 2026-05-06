@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 152.0a1+.970~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [mastodon-mcp-server 1.0.1-1.11~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
+- [php-vitexsoftware-ease-twbootstrap5 1.2.1.107~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5)
+- [php-vitexsoftware-ease-twbootstrap5-doc 1.2.1.107~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5-doc)
 - [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
-- [abraflexi-ipex 1.2.2.107~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [abraflexi-pricefixer 2.11.3.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-pricefixer)
+- [abraflexi-cli 0.2.0.21~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [abraflexi-contract-invoices 1.1.2.93~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
