@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-raiffeisenbank 2.0.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank)
-- [multiflexi-probe 2.1.1.31~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-probe)
-- [php-mhujer-fio-api 5.0.1.37~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
-- [php-vitexsoftware-rbczpremiumapi 1.5.5.164~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-rbczpremiumapi)
-- [abraflexi-raiffeisenbank 1.5.1.125~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [ncsa-mosaic 2.7b9-1](https://repo.vitexsoftware.com/package.php?package=ncsa-mosaic)
+- [php-phpdocumentor-reflection 6.6.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpdocumentor-reflection)
+- [php-phpdocumentor-graphviz 2.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpdocumentor-graphviz)
+- [php-phpdocumentor-flyfinder 1.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpdocumentor-flyfinder)
+- [php-phpdocumentor-filesystem 1.10.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpdocumentor-filesystem)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
