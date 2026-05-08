@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-shibuya-sphinx-theme 2026.1.9.13~resolute](https://repo.vitexsoftware.com/package.php?package=python3-shibuya-sphinx-theme)
+- [python3-shibuya-sphinx-theme 2026.1.9.14~resolute](https://repo.vitexsoftware.com/package.php?package=python3-shibuya-sphinx-theme)
 - [abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
 - [multiflexi-abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
 - [php-mhujer-fio-api 5.0.1.42~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
