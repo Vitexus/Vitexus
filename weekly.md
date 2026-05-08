@@ -1,47 +1,51 @@
-Date Range: 2026-04-24 to 2026-05-01
+Date Range: 2026-05-01 to 2026-05-08
 
 Weekly GitHub Commits:
 
+Repository: ipex-b2b
+- Add AppStream stock icon and install metainfo/icon
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- fix: update changelog for version 1.2.1 and correct sed syntax in rules file
+
 Repository: php-abraflexi
-- Update for AbraFlexi 2026.3.10
+- Merge pull request #103 from Spoje-NET/antonKorban-patch-1
+
+Fix path for metainfo XML file in install script
+- Fix path for metainfo XML file in install script
+- Merge branch 'main' of github.com:Spoje-NET/php-abraflexi
+- Add AppStream stock icon and install metainfo/icon
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- the composer's package name cannot be changed so go back to spojenet/flexibee
+- Update changelog for version 3.7.3 and add library versioning support using Composer
+
+Repository: ansible
+- Enhance HAProxy role with certificate management tasks and configuration updates
+- home assistent haproxy conf
+
+Repository: php-hspdev-huaweiapi
+- Add AppStream stock icon and install metainfo/icon
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+Repository: realpad2mailkit
+- Add AppStream stock icon and install metainfo/icon
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- another debian autoloade cleanup
+- debian autoloader cleanup
 
 Repository: discomp2abraflexi
-- Fix sed pattern: drop leading ': ' from InstalledVersions placeholder substitutions
+- Add AppStream stock icon and install metainfo/icon
 
-Broader match ensures substitution works regardless of surrounding context.
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+Repository: Flexplorer
+- Add AppStream stock icon and install metainfo/icon
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
 Repository: Redmine2AbraFlexi
-- feat: add localization files and update autoloader syntax
-- refactor: update CLI command syntax, enhance metadata, and add localization support
-- composer: update ergebnis/composer-normalize requirement
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.48.0...2.51.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.51.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-- feat: add internationalization support and update debian packaging for composer integration
-- chore: overhaul Debian packaging with custom autoloader, remove composer dependency, and update CI release pipeline
-
-Repository: abraflexi-config
-- composer: bump phpstan/phpstan from 2.1.42 to 2.1.51 (#69)
-
----
-updated-dependencies:
-- dependency-name: phpstan/phpstan
-  dependency-version: 2.1.51
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- feat: implement application localization and update project dependencies
 
