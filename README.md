@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-digest-renderer 1.0.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-renderer)
+- [php-vitexsoftware-digest-modules 1.0.1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-modules)
+- [php-vitexsoftware-digest-modules-dev 1.0.1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-modules-dev)
 - [thunderbird-daily 152.0a1+.972~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [seznamds 2025.5.3.979~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [php-mhujer-fio-api 5.0.1.42~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
-- [php-symfony-polyfill-php83 1.33.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php83)
-- [php-symfony-polyfill-php80 1.33.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php80)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
