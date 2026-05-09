@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [seznamds 2025.5.3.981~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
+- [seznamds 2026.5.9~resolute](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [abraflexi-report-tools 0.6.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-report-tools)
 - [php-lightools-xml 3.0.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-lightools-xml)
 - [thermometer-zabbix 0.8.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=thermometer-zabbix)
