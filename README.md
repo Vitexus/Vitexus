@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 152.0a1+.973~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
+- [python3-shibuya-sphinx-theme 2026.1.9.5.18~resolute](https://repo.vitexsoftware.com/package.php?package=python3-shibuya-sphinx-theme)
 - [seznamds 2025.5.3.980~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [python3-shibuya-sphinx-theme 2026.1.9.5.15~resolute](https://repo.vitexsoftware.com/package.php?package=python3-shibuya-sphinx-theme)
 - [abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
 - [multiflexi-abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-tools)
-- [php-mhujer-fio-api 5.0.1.42~resolute](https://repo.vitexsoftware.com/package.php?package=php-mhujer-fio-api)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
