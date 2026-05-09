@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [seznamds 2025.5.3.981~bookworm](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [abraflexi-report-tools 0.6.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-report-tools)
 - [php-lightools-xml 3.0.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-lightools-xml)
 - [thermometer-zabbix 0.8.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=thermometer-zabbix)
 - [thermoservice-homeassistant 0.8.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=thermoservice-homeassistant)
-- [thunderbird-daily 152.0a1+.973~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
