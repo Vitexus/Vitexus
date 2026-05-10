@@ -12,11 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi 2.3.0.1320~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [php-league-uri 7.5.1-7~bpo12+1](https://repo.vitexsoftware.com/package.php?package=php-league-uri)
-- [php-league-uri-components 7.5.1-7~bpo12+1](https://repo.vitexsoftware.com/package.php?package=php-league-uri-components)
-- [php-league-uri-interfaces 7.5.1-7~bpo12+1](https://repo.vitexsoftware.com/package.php?package=php-league-uri-interfaces)
-- [multiflexi-common 2.3.0.1320~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
+- [php-dragonmantank-cron-expression 0.1.0.7~noble](https://repo.vitexsoftware.com/package.php?package=php-dragonmantank-cron-expression)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
