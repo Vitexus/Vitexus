@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 152.0a1+.975~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [python3-tapo 0.8.4-1.39~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
 - [php-phplucidframe-console-table 0.1.0.10~resolute](https://repo.vitexsoftware.com/package.php?package=php-phplucidframe-console-table)
 - [multiflexi-cli 2.5.2.216~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
 - [python3-tapo-dbgsym 0.8.4-1.39~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo-dbgsym)
-- [abraflexi-cashier 0.1.0.76~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
