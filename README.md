@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-opentelemetry-api 1.41.1-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-api)
-- [python3-fastmcp 2.14.4-1.12~forky](https://repo.vitexsoftware.com/package.php?package=python3-fastmcp)
-- [abraflexi-zabbix 1.1.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
-- [flexibee 2026.3.13](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [multiflexi 2.3.0.1320~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
+- [abraflexi-raiffeisenbank 1.5.1.125~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [abraflexi-email-importer 1.1.2.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
+- [abraflexi-mailer 1.4.0.162~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
+- [abraflexi-report-tools 0.6.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-report-tools)
+- [abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
