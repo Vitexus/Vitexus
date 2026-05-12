@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-raiffeisenbank 1.5.1.125~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
-- [abraflexi-email-importer 1.1.2.130~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [abraflexi-mailer 1.4.0.162~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-mailer)
-- [abraflexi-report-tools 0.6.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-report-tools)
-- [abraflexi-tools 1.1.7.118~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
+- [abraflexi-digest 1.34.222~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [multiflexi 2.3.0.1321~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
+- [abraflexi-zabbix 1.1.1.46~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
+- [linkedin-mcp-server 4.13.0.9~trixie](https://repo.vitexsoftware.com/package.php?package=linkedin-mcp-server)
+- [opencode 1.14.48](https://repo.vitexsoftware.com/package.php?package=opencode)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
