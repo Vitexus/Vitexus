@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-digest 1.34.222~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
-- [multiflexi 2.3.0.1321~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [abraflexi-zabbix 1.1.1.46~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
-- [linkedin-mcp-server 4.13.0.9~trixie](https://repo.vitexsoftware.com/package.php?package=linkedin-mcp-server)
-- [opencode 1.14.48](https://repo.vitexsoftware.com/package.php?package=opencode)
+- [phpab 1.29.4-1](https://repo.vitexsoftware.com/package.php?package=phpab)
+- [php-zeta-console-tools 1.7.5-2](https://repo.vitexsoftware.com/package.php?package=php-zeta-console-tools)
+- [php-zeta-base 1.9.5-1](https://repo.vitexsoftware.com/package.php?package=php-zeta-base)
+- [php-directory-scanner 1.3.3-5](https://repo.vitexsoftware.com/package.php?package=php-directory-scanner)
+- [abraflexi-digest 2.0.0.223~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
