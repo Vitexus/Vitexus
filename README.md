@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ispconfig-zabbix-monitoring 0.6.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [ispconfig-zabbix-monitoring 0.6.0.37~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [php-vitexsoftware-ease-html 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
 - [php-vitexsoftware-ease-html-dev 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
 - [php-vitexsoftware-ease-html-doc 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
