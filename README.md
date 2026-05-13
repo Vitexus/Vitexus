@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-html 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
+- [php-vitexsoftware-ease-html-dev 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
+- [php-vitexsoftware-ease-html-doc 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
 - [abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 - [php-vitexsoftware-digest-renderer 1.0.0.25~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-renderer)
-- [php-spojenet-abraflexi 3.7.3.428~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
-- [php-vitexsoftware-digest-modules 1.0.1.20~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-modules)
-- [multiflexi-abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
