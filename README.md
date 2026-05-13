@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [phpab 1.29.4-1](https://repo.vitexsoftware.com/package.php?package=phpab)
-- [php-zeta-console-tools 1.7.5-2](https://repo.vitexsoftware.com/package.php?package=php-zeta-console-tools)
-- [php-zeta-base 1.9.5-1](https://repo.vitexsoftware.com/package.php?package=php-zeta-base)
-- [php-directory-scanner 1.3.3-5](https://repo.vitexsoftware.com/package.php?package=php-directory-scanner)
-- [abraflexi-digest 2.0.0.223~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [php-vitexsoftware-digest-renderer 1.0.0.25~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-renderer)
+- [php-spojenet-abraflexi 3.7.3.428~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [php-vitexsoftware-digest-modules 1.0.1.20~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-modules)
+- [multiflexi-abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
