@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 152.0a1+.978~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [ispconfig-zabbix-monitoring 0.6.0.37~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [php-vitexsoftware-ease-html 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
 - [php-vitexsoftware-ease-html-dev 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
 - [php-vitexsoftware-ease-html-doc 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
-- [abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
