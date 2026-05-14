@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [thunderbird-daily 152.0a1+.979~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [abraflexi-webhook-acceptor 1.3.0.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor)
 - [abraflexi-webhook-acceptor-kafka 1.3.0.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor-kafka)
 - [abraflexi-webhook-acceptor-mongodb 1.3.0.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor-mongodb)
 - [abraflexi-webhook-acceptor-mysql 1.3.0.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor-mysql)
-- [abraflexi-webhook-acceptor-pgsql 1.3.0.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor-pgsql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
