@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [ispconfig-zabbix-monitoring 0.6.0.38~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [thunderbird-daily 152.0a1+.978~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [ispconfig-zabbix-monitoring 0.6.0.37~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [php-vitexsoftware-ease-html 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html)
 - [php-vitexsoftware-ease-html-dev 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-dev)
 - [php-vitexsoftware-ease-html-doc 2.0.2.183~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-doc)
