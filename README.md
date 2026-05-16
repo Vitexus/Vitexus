@@ -15,8 +15,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 - [php-rcubitto-json-pretty 0.1.0.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-rcubitto-json-pretty)
 - [php-sensiolabs-ansiconverter 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=php-sensiolabs-ansiconverter)
 - [php-goat1000-svggraph 0.1.3.12~resolute](https://repo.vitexsoftware.com/package.php?package=php-goat1000-svggraph)
+- [python3-editor 1.8.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-editor)
 - [abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
-- [abraflexi-email-importer 1.1.2.131~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
