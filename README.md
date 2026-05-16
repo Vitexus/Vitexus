@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-twbootstrap5 1.2.1.111~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5)
 - [php-vitexsoftware-ease-html-widgets 1.1.1.64~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
+- [php-vitexsoftware-ease-twbootstrap5-doc 1.2.1.111~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-twbootstrap5-doc)
 - [php-vitexsoftware-ease-html-widgets-doc 1.1.1.64~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets-doc)
 - [thunderbird-daily 152.0a1+.980~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [flexplorer 1.9.137~bookworm](https://repo.vitexsoftware.com/package.php?package=flexplorer)
-- [node-red-contrib-thermoservice 1.0.0-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-thermoservice)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
