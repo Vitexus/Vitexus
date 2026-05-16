@@ -14,9 +14,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 <!-- DEBIAN-PACKAGES-LIST:START -->
 - [multiflexi 2.3.0.1322~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
 - [multiflexi-all 0.2.0.47~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-all)
+- [multiflexi-repocompare 2.2.0.87~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
 - [multiflexi-common 2.3.0.1322~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
 - [abraflexi-email-importer 1.1.2.131~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
-- [multiflexi-abraflexi-email-importer 1.1.2.131~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
