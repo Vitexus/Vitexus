@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi 2.3.0.1322~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [multiflexi-all 0.2.0.47~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-all)
-- [multiflexi-repocompare 2.2.0.87~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
-- [multiflexi-common 2.3.0.1322~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
+- [php-rcubitto-json-pretty 0.1.0.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-rcubitto-json-pretty)
+- [php-sensiolabs-ansiconverter 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=php-sensiolabs-ansiconverter)
+- [php-goat1000-svggraph 0.1.3.12~resolute](https://repo.vitexsoftware.com/package.php?package=php-goat1000-svggraph)
+- [abraflexi-digest 2.0.0.224~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 - [abraflexi-email-importer 1.1.2.131~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
