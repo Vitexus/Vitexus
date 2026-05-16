@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-ease-html-widgets 1.1.1.63~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
+- [php-vitexsoftware-ease-html-widgets 1.1.1.64~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets)
+- [php-vitexsoftware-ease-html-widgets-doc 1.1.1.64~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets-doc)
 - [thunderbird-daily 152.0a1+.980~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [php-vitexsoftware-ease-html-widgets-doc 1.1.1.63~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-html-widgets-doc)
 - [flexplorer 1.9.137~bookworm](https://repo.vitexsoftware.com/package.php?package=flexplorer)
 - [node-red-contrib-thermoservice 1.0.0-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-thermoservice)
 <!-- DEBIAN-PACKAGES-LIST:END -->
