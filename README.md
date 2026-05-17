@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-ease-core 1.51.2.377~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-core)
+- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.2.52~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
+- [php-vitexsoftware-digest-renderer 1.0.0.27~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-renderer)
+- [php-vitexsoftware-ease-bricks 1.2.29.36~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bricks)
 - [node-red-dashboard 3.6.6-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-dashboard)
-- [node-red-contrib-modbus 5.45.2-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-modbus)
-- [php-spojenet-flexibee 3.7.3.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-flexibee)
-- [mastodon-mcp-server 1.0.1-1.12~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
-- [php-meditorial-mailkit-api 1.1.4-1.6~resolute](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
