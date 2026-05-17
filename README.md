@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [raiffeisenbank-statement-tools 1.4.2.94~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
+- [php-spojenet-kb-accountsapi 0.1.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-kb-accountsapi)
+- [php-spojenet-csas-accountsapi 0.7.2.70~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-csas-accountsapi)
 - [csas-authorize 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
-- [php-meditorial-mailkit-api 1.1.4-1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
-- [php-symfony-polyfill-php80 1.33.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php80)
-- [csas-authorize-mysql 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
-- [csas-authorize-sqlite 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [multiflexi-raiffeisenbank-statement-tools 1.4.2.94~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
