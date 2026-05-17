@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 152.0a1+.981~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [abraflexi-cli 0.2.0.22~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
-- [phar-composer 1.1.1.83~bookworm](https://repo.vitexsoftware.com/package.php?package=phar-composer)
-- [node-selenium-webdriver 4.41.0-1.8~forky](https://repo.vitexsoftware.com/package.php?package=node-selenium-webdriver)
-- [mcp-client-for-ollama 0.28.0.7~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
+- [php-phpoffice-phpspreadsheet 1.0.0-1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpoffice-phpspreadsheet)
+- [php-markbaker-matrix 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-matrix)
+- [php-markbaker-complex 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-complex)
+- [php-maennchen-zipstream-php 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-maennchen-zipstream-php)
+- [php-league-tactician 1.2.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-league-tactician)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
