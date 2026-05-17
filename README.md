@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-phpoffice-phpspreadsheet 1.0.0-1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-phpoffice-phpspreadsheet)
-- [php-markbaker-matrix 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-matrix)
-- [php-markbaker-complex 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-markbaker-complex)
-- [php-maennchen-zipstream-php 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-maennchen-zipstream-php)
-- [php-league-tactician 1.2.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-league-tactician)
+- [php-psr-simple-cache 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-simple-cache)
+- [php-symfony-polyfill-php84 1.33.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php84)
+- [python3-jsonref 1.1.0-1.5~forky](https://repo.vitexsoftware.com/package.php?package=python3-jsonref)
+- [python3-inquirer 3.4.1-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=python3-inquirer)
+- [python3-sse-starlette 3.4.1-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=python3-sse-starlette)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
