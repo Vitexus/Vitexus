@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [raiffeisenbank-statement-tools 1.4.2.94~bookworm](https://repo.vitexsoftware.com/package.php?package=raiffeisenbank-statement-tools)
-- [php-spojenet-kb-accountsapi 0.1.0.12~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-kb-accountsapi)
-- [php-spojenet-csas-accountsapi 0.7.2.70~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-csas-accountsapi)
-- [csas-authorize 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
-- [multiflexi-raiffeisenbank-statement-tools 1.4.2.94~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-raiffeisenbank-statement-tools)
+- [abraflexi-cashier 0.1.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [php-spojenet-subreg 1.4.0.70~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-subreg)
+- [php-vitexsoftware-ease-fluentpdo 1.4.5.161~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-fluentpdo)
+- [php-spojenet-abraflexi 3.7.3.429~bookworm](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [php-vitexsoftware-fluentpdo 3.0.4.33~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-fluentpdo)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
