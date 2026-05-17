@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [csas-authorize 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [php-meditorial-mailkit-api 1.1.4-1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
 - [php-symfony-polyfill-php80 1.33.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php80)
-- [xdebug-tui 0.3.1.3~forky](https://repo.vitexsoftware.com/package.php?package=xdebug-tui)
-- [multiflexi-cli 2.5.2.219~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [thunderbird-daily 152.0a1+.982~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [python3-xmod 1.10.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-xmod)
+- [csas-authorize-mysql 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.3.0.92~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
