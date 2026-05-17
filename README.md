@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-psr-simple-cache 1.0.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-simple-cache)
-- [php-symfony-polyfill-php84 1.33.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php84)
-- [python3-jsonref 1.1.0-1.5~forky](https://repo.vitexsoftware.com/package.php?package=python3-jsonref)
-- [python3-inquirer 3.4.1-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=python3-inquirer)
-- [python3-sse-starlette 3.4.1-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=python3-sse-starlette)
+- [php-symfony-polyfill-php80 1.33.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php80)
+- [xdebug-tui 0.3.1.3~forky](https://repo.vitexsoftware.com/package.php?package=xdebug-tui)
+- [multiflexi-cli 2.5.2.219~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [thunderbird-daily 152.0a1+.982~bookworm](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
+- [python3-xmod 1.10.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-xmod)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
