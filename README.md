@@ -12,7 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-tools 1.1.7.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
+- [php-vitexsoftware-ease-bootstrap4 1.12.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4)
+- [php-vitexsoftware-ease-bootstrap4-dev 1.12.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-dev)
+- [php-vitexsoftware-ease-bootstrap4-doc 1.12.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-doc)
+- [abraflexi-cashier 0.1.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-raiffeisenbank 1.5.1.126~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
