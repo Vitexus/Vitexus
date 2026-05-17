@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-tapo 0.8.4-1.40~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
-- [php-vitexsoftware-ease-core 1.51.2.377~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-core)
-- [php-vitexsoftware-ease-bootstrap5-widgets 1.4.2.52~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap5-widgets)
-- [php-vitexsoftware-digest-renderer 1.0.0.27~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-digest-renderer)
-- [php-vitexsoftware-ease-bricks 1.2.29.36~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bricks)
+- [abraflexi-cashier 0.1.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-raiffeisenbank 1.5.1.126~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [abraflexi-cli 0.2.0.22~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [abraflexi-digest 2.0.0.225~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [abraflexi-reminder-gnokii 1.7.3.239~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-reminder-gnokii)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
