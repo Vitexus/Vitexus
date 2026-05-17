@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [cnb-cache 0.1.0.122~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
-- [php-vitexsoftware-ease-bootstrap4 1.12.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4)
-- [cnb-cache-mysql 0.1.0.122~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
-- [cnb-cache-sqlite 0.1.0.122~bookworm](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
-- [php-vitexsoftware-ease-bootstrap4-dev 1.12.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap4-dev)
+- [node-red-dashboard 3.6.6-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-dashboard)
+- [node-red-contrib-modbus 5.45.2-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-modbus)
+- [php-spojenet-flexibee 3.7.3.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-flexibee)
+- [mastodon-mcp-server 1.0.1-1.12~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
+- [php-meditorial-mailkit-api 1.1.4-1.6~resolute](https://repo.vitexsoftware.com/package.php?package=php-meditorial-mailkit-api)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
