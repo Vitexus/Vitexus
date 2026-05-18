@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi 2.3.0.1323~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [multiflexi-common 2.3.0.1323~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
+- [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
+- [multiflexi-common 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
 - [abraflexi-cashier 0.1.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
 - [abraflexi-raiffeisenbank 1.5.1.126~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 - [abraflexi-cli 0.2.0.22~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
