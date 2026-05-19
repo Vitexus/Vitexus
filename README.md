@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [thunderbird-daily 152.0a1+.985~resolute](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [multiflexi-common 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [abraflexi-cashier 0.1.0.77~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
-- [abraflexi-raiffeisenbank 1.5.1.126~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
+- [csas-authorize 0.3.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [php-kint-php-kint 6.1.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-kint-php-kint)
+- [php-vitexsoftware-ease-core 1.51.2.378~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-core)
+- [csas-authorize-mysql 0.3.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.3.0.95~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
