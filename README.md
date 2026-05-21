@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [mcp-client-for-ollama 0.28.0.8~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [node-red 4.1.10-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-red)
-- [semaphore-mcp-server 0.1.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
 - [abraflexi-cashier 0.1.0.77~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-cli 0.2.0.22~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [abraflexi-digest 2.0.0.225~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [abraflexi-email-importer 1.1.2.132~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-email-importer)
+- [abraflexi-raiffeisenbank 1.5.1.126~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-raiffeisenbank)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
