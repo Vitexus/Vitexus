@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-league-oauth2-client 2.9.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=php-league-oauth2-client)
 - [abraflexi-tools 1.1.7.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
 - [abraflexi-zabbix 1.1.1.47~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-zabbix)
 - [cnb-cache 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
 - [cnb-cache-mysql 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
-- [cnb-cache-sqlite 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
