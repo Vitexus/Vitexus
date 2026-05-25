@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-client-for-ollama 0.28.0.11~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
 - [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
 - [kde-desktop-background-libvisual 1.2.0-1](https://repo.vitexsoftware.com/package.php?package=kde-desktop-background-libvisual)
 - [pohoda-zabbix 0.3.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-zabbix)
 - [php-league-oauth2-client 2.9.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=php-league-oauth2-client)
-- [abraflexi-tools 1.1.7.120~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
