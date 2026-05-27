@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [kde-desktop-background-libvisual 1.2.0-1](https://repo.vitexsoftware.com/package.php?package=kde-desktop-background-libvisual)
 - [mcp-client-for-ollama 0.28.0.11~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
+- [multiflexi-mserver 1.1.1.40~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
