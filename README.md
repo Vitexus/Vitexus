@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-database-connection 2.0.1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
-- [multiflexi-database-connection-ui 2.0.1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection-ui)
+- [multiflexi-database-connection 2.0.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
+- [multiflexi-database-connection-ui 2.0.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection-ui)
 - [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
 - [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [kde-desktop-background-libvisual 1.2.0-1](https://repo.vitexsoftware.com/package.php?package=kde-desktop-background-libvisual)
