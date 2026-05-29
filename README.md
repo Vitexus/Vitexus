@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-griffelib 2.0.2-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-griffelib)
-- [python3-mcp 1:1.27.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
-- [python3-redmine 2.5.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-redmine)
-- [redmine-mcp-server 2.0.1.1.15~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
-- [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
+- [multiflexi-csas 0.1.2.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas)
+- [multiflexi-database-connection 2.0.1.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
+- [multiflexi-csas-ui 0.1.2.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-ui)
+- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
