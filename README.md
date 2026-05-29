@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-database-connection 2.0.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
-- [multiflexi-database-connection-ui 2.0.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection-ui)
-- [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
-- [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [kde-desktop-background-libvisual 1.2.0-1](https://repo.vitexsoftware.com/package.php?package=kde-desktop-background-libvisual)
+- [cnb-cache 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache)
+- [cnb-cache-mysql 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache-mysql)
+- [cnb-cache-sqlite 0.1.0.123~forky](https://repo.vitexsoftware.com/package.php?package=cnb-cache-sqlite)
+- [csas-authorize 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
+- [csas-authorize-mysql 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
