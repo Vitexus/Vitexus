@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [redmine-mcp-server 2.0.1.12~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
+- [redmine-mcp-server 2.0.1.1.14~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
+- [python3-mcp 1:1.27.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
 - [csas-authorize 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
 - [csas-authorize-mysql 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
 - [csas-authorize-sqlite 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
