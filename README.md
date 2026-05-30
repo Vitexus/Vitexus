@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-csas 0.1.2.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas)
-- [multiflexi-database-connection 2.0.1.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
-- [multiflexi-csas-ui 0.1.2.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-ui)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
+- [abraflexi-server 2025.7.0.137~jammy](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [apt-repo-vitexsoftware 0.3~jammy~30](https://repo.vitexsoftware.com/package.php?package=apt-repo-vitexsoftware)
+- [composer 2.7.2.45~jammy](https://repo.vitexsoftware.com/package.php?package=composer)
+- [composer-debian 1.4~jammy~7](https://repo.vitexsoftware.com/package.php?package=composer-debian)
+- [idle-python3.9 3.9.13-1~jammy~3](https://repo.vitexsoftware.com/package.php?package=idle-python3.9)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
