@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [audio-share 0.3.4.5~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [audio-share-dbgsym 0.3.4.5~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
+- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
+- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
 - [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
 - [multiflexi-common 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
