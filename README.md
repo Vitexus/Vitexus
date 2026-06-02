@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [multiflexi 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
-- [multiflexi-common 2.3.0.1324~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
+- [php-dompdf-dompdf 3.1.5.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-dompdf-dompdf)
+- [php-league-commonmark 2.8.2.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-league-commonmark)
+- [php-dompdf-php-svg-lib 1.0.2.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-dompdf-php-svg-lib)
+- [php-sabberworm-php-css-parser 9.3.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-sabberworm-php-css-parser)
+- [php-dompdf-php-font-lib 1.0.2.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-dompdf-php-font-lib)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
