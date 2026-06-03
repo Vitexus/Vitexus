@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-riesenia-pohoda 1.5.1.9~resolute](https://repo.vitexsoftware.com/package.php?package=php-riesenia-pohoda)
 - [multiflexi-database-connection 2.0.1.7~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
 - [multiflexi-csas 0.1.2.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
