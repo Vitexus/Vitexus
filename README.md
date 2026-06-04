@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   16 hrs 27 mins        ███████████████████████▓░   94.79 %
-Bash    54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other   24 hrs 44 mins        ████████████████████████▒   96.67 %
+Bash    51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
