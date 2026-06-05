@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-digest 1.0.0.19~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [multiflexi-web5 2.4.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [multiflexi-pohoda-digest 1.0.0.19~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
-- [multiflexi-common 2.3.0.1326~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-common)
-- [multiflexi-csas-ui 0.1.2.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-ui)
+- [pohoda-digest 1.0.0.22~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
+- [multiflexi-pohoda-digest 1.0.0.22~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
+- [php-cakephp-core 5.3.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=php-cakephp-core)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
