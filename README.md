@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-digest 1.0.0.22~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [multiflexi-pohoda-digest 1.0.0.22~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [pohoda-digest 1.0.0.23~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
+- [multiflexi-pohoda-digest 1.0.0.23~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 - [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
 - [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
 - [php-cakephp-core 5.3.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=php-cakephp-core)
