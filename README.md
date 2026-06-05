@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [libicu51-compat 1.0.2u-2](https://repo.vitexsoftware.com/package.php?package=libicu51-compat)
+- [multiflexi 2.3.0.1326~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
