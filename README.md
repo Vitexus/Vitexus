@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-digest 1.0.0.23~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [multiflexi-pohoda-digest 1.0.0.23~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
-- [php-cakephp-core 5.3.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=php-cakephp-core)
+- [apt-repo-vitexsoftware 0.3~jammy~30](https://repo.vitexsoftware.com/package.php?package=apt-repo-vitexsoftware)
+- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
+- [composer 2.7.2.45~jammy](https://repo.vitexsoftware.com/package.php?package=composer)
+- [composer-debian 1.4~jammy~7](https://repo.vitexsoftware.com/package.php?package=composer-debian)
+- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
