@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web5 2.4.0.20~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [multiflexi-web5 2.4.0.22~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
 - [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
