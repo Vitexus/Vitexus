@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-abraflexi 3.7.3.433~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [multiflexi-doc 2.3.0.14~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [php-spojenet-abraflexi-dev 3.7.3.433~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [libicu51-compat 1.0.2u-2](https://repo.vitexsoftware.com/package.php?package=libicu51-compat)
-- [libssl1.0.0-compat 1.0.2u-1](https://repo.vitexsoftware.com/package.php?package=libssl1.0.0-compat)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
