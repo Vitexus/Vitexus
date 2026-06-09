@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-csas 0.1.3.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas)
-- [multiflexi-csas-ui 0.1.3.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-ui)
+- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
+- [csas-authorize-mysql 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize-mysql)
+- [csas-authorize-sqlite 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize-sqlite)
+- [csas-authorize 0.3.0.95~forky](https://repo.vitexsoftware.com/package.php?package=csas-authorize)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
