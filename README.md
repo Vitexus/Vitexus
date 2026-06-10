@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.21~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
+- [abraflexi-cashier 0.1.0.77~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
+- [abraflexi-ipex 1.2.2.107~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
+- [abraflexi-cli 0.2.0.22~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
+- [abraflexi-contract-invoices 1.1.2.93~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
+- [abraflexi-digest 2.0.0.225~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
