@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-cashier 0.1.0.77~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-cashier)
-- [abraflexi-ipex 1.2.2.107~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-ipex)
-- [abraflexi-cli 0.2.0.22~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-cli)
-- [abraflexi-contract-invoices 1.1.2.93~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-contract-invoices)
-- [abraflexi-digest 2.0.0.225~forky](https://repo.vitexsoftware.com/package.php?package=abraflexi-digest)
+- [node-red-contrib-play-audio 2.5.0.2~noble](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-play-audio)
+- [node-red-contrib-buffer-parser 3.2.3.2~noble](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-buffer-parser)
+- [node-serialport-bindings-interface 1.2.2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-interface)
+- [node-serialport-binding-mock 10.2.2.2~bookworm](https://repo.vitexsoftware.com/package.php?package=node-serialport-binding-mock)
+- [node-serialport 13.0.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-serialport)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
