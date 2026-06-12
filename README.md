@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [node-red-contrib-multiflexi 0.2.0.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [node-serialport-bindings-cpp 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp)
+- [node-red-contrib-multiflexi 0.2.0.3~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [multiflexi-doc 2.3.0.23~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [node-serialport-bindings-cpp-dbgsym 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp-dbgsym)
 - [node-red-contrib-play-audio 2.5.0.2~noble](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-play-audio)
-- [node-red-contrib-buffer-parser 3.2.3.2~noble](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-buffer-parser)
-- [node-serialport-bindings-interface 1.2.2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-interface)
-- [node-serialport-binding-mock 10.2.2.2~bookworm](https://repo.vitexsoftware.com/package.php?package=node-serialport-binding-mock)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
