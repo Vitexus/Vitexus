@@ -1,62 +1,117 @@
-Date Range: 2026-05-29 to 2026-06-05
+Date Range: 2026-06-05 to 2026-06-12
 
 Weekly GitHub Commits:
 
+Repository: php-abraflexi
+- build pipeline update
+
+Repository: realpad2mailkit
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
+
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+
+Repository: pohoda-client-checker
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
+
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+
 Repository: pohoda-raiffeisenbank
-- feat: add extId to bank imports + require php-riesenia-pohoda >= 1.5.2
+- docs: add pohoda-sharepoint-link-fixer manpage, bump all to 1.7.2
 
-Set bankHeader/extId on every imported bank record (Statementor + Transactor)
-so Pohoda can cross-reference records with the originating transaction ID.
-Handle graceful fallback when export rights are missing in
-checkForTransactionPresence (log warning, continue to import attempt).
-Detect Pohoda error 121 (ExtID duplicate) as a silent skip.
-
-Require php-riesenia-pohoda (>= 1.5.2) which adds extId support to
-Bank/Header (Vitexus/php-riesenia-pohoda, riesenia/pohoda#63 / PR#64).
+Create missing manpage for pohoda-sharepoint-link-fixer documenting
+IMPORT_SCOPE, POHODA_BANK_IDS, DATE_FROM/DATE_TO and multi-bank
+behaviour. Register it in pohoda-raiffeisenbank.manpages.
+Update version string to 1.7.2 in all manpages.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
-- feat: add extId to bank imports for native Pohoda deduplication
+- chore: bump to 1.7.2, update docs/tests/multiflexi for link fixer changes
 
-Set bankHeader/extId (ids = transaction reference, exSystemName = app name)
-on every import in both Statementor and Transactor so Pohoda stores the
-external identifier in its own link table. On re-import of the same
-transaction Pohoda returns error code 121; isExtIdDuplicateError() detects
-this and treats it as a silent skip (success=true, duplicate=true) instead
-of a failure, complementing the existing intNote-based checkForTransactionPresence().
-
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
-- fix: catch PDOException in attachSharepointUrl to prevent fatal crash
-
-SpojeNet\PohodaSQL\DOC picks up the MultiFlexi MySQL connection instead
-of the configured MSSQL one, throwing 'Table multiflexi.DOC doesn't
-exist'. The bank import already succeeded at that point, so a fatal
-crash (exit 255) is wrong — catch the exception, log it, and return
-false so the caller exits with code 4 instead.
+- Bump version to 1.7.2 in debian/changelog
+- Add pohoda-sharepoint-link-fixer to README command list and add full
+  documentation section covering IMPORT_SCOPE, POHODA_BANK_IDS and
+  multi-bank behaviour
+- Update multiflexi/pohoda_sharepoint_link_fixer.multiflexi.app.json:
+  add IMPORT_SCOPE and POHODA_BANK_IDS entries, make DATE_FROM/DATE_TO
+  optional (overrides rather than primary)
+- Implement testsetScope() in StatementorTest to verify last_month and
+  this_month scope resolution via DatePeriod
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
-- fix: act on certificate check result and deduplicate auth error detection
+- feat: add IMPORT_SCOPE support to sharepoint link fixer
 
-pohoda-raiffeisenbank-transactions: exit(2) when checkCertificate()
-fails instead of silently proceeding with an invalid certificate.
-
-pohodaSQL-raiffeisenbank-statements-sharepoint: replace two identical
-inline auth-error detection loops with PohodaBankClient::detectAuthError().
+Resolves date range via IMPORT_SCOPE (same semantics as peer scripts)
+using Statementor::setScope(). DATE_FROM/DATE_TO still override when
+explicitly set, preserving backward compatibility.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
-- fix: correct exit code descriptions in all multiflexi app configs
+- fix: scope sharepoint link fixer to configured bank account
 
-Replace generic/wrong descriptions with accurate ones derived from the
-actual PHP source scripts. Fixes code 2 (cert failure, PDF error, report
-write failure), code 3/4 (mServer/SharePoint SQL), code 145 (HTTP 401
-auth error), and adjusts retry flags accordingly.
+Filter SharePoint PDFs by ACCOUNT_NUMBER in filename and BV records
+by POHODA_BANK_IDS (via sUcet.IDS JOIN) so that multi-bank Pohoda
+setups don't cross-attach links between different bank accounts.
+When POHODA_BANK_IDS is unset, all banks are processed as before.
+
+Closes #20478
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
-- feat: animate Raiffeisen Giebelkreuz icon with slow rotation
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
 
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+
+Repository: discomp2abraflexi
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
+
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+
+Repository: Flexplorer
+- appstream icon update
+- Merge pull request #50 from VitexSoftware/dependabot/composer/vitexsoftware/ease-bootstrap5-widgets-1.5.0
+
+Bump vitexsoftware/ease-bootstrap5-widgets from 1.4.1 to 1.5.0
+- Bump vitexsoftware/ease-bootstrap5-widgets from 1.4.1 to 1.5.0
+
+Bumps [vitexsoftware/ease-bootstrap5-widgets](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets) from 1.4.1 to 1.5.0.
+- [Release notes](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/releases)
+- [Commits](https://github.com/VitexSoftware/php-ease-twbootstrap5-widgets/compare/1.4.1...1.5.0)
+
+---
+updated-dependencies:
+- dependency-name: vitexsoftware/ease-bootstrap5-widgets
+  dependency-version: 1.5.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
 
 Repository: Redmine2AbraFlexi
-- Add uuid to app.json to link icon on multiflexi.eu
+- Merge pull request #44 from VitexSoftware/dependabot/github_actions/sigstore/cosign-installer-4.1.0
 
-Co-Authored-By: Oz <oz-agent@warp.dev>
+Bump sigstore/cosign-installer from 3.10.0 to 4.1.0
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
+
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+
+Repository: abraflexi-config
+- feat: declare MultiFlexi events (schema 3.4.0) in app definitions
+
+Add events.emits/consumes blocks and bump schemaVersion to 3.4.0 so
+Node-RED can connect producing and consuming MultiFlexi processes.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
 
