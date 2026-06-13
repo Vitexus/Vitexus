@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [node-red-contrib-multiflexi 0.3.0.4~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [node-red-contrib-multiflexi 0.3.0.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-doc 2.3.0.24~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [node-serialport-bindings-cpp 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp)
 - [node-serialport-bindings-cpp-dbgsym 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp-dbgsym)
