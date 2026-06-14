@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web5 2.4.1.44~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [node-red-contrib-multiflexi 0.3.0.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-doc 2.3.0.24~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [node-serialport-bindings-cpp 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp)
+- [multiflexi-web5 2.4.1.44~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [node-cache 5.1.2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-cache)
 - [node-serialport-bindings-cpp-dbgsym 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp-dbgsym)
+- [node-gyp-build 4.8.4.1~bookworm](https://repo.vitexsoftware.com/package.php?package=node-gyp-build)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
