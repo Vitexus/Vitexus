@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.32~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [node-red-contrib-multiflexi 0.3.2.7~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
-- [multiflexi-doc 2.3.0.24~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [multiflexi-web5 2.4.1.44~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [node-cache 5.1.2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-cache)
 - [node-serialport-bindings-cpp-dbgsym 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp-dbgsym)
