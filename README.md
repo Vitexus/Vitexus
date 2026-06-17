@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.32~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [node-red-contrib-multiflexi 0.3.2.7~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
-- [multiflexi-web5 2.4.1.44~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [node-cache 5.1.2.4~bookworm](https://repo.vitexsoftware.com/package.php?package=node-cache)
-- [node-serialport-bindings-cpp-dbgsym 13.0.1.5~trixie](https://repo.vitexsoftware.com/package.php?package=node-serialport-bindings-cpp-dbgsym)
+- [multiflexi-doc 2.3.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-web5 2.5.0.52~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
+- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
+- [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
