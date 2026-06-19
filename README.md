@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [node-red-contrib-multiflexi 0.3.8.15~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [node-red-contrib-thermoservice 1.0.0-2.4~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-thermoservice)
+- [node-red-contrib-multiflexi 0.3.9.16~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-web5 2.5.0.60~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [multiflexi-housekeeper 1.0.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-housekeeper)
 - [multiflexi-doc 2.3.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
