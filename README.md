@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [node-red-contrib-multiflexi 0.3.9.17~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [node-red 4.1.10-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=node-red)
 - [node-red-contrib-abraflexi 0.2.3.1~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-abraflexi)
 - [node-red-contrib-thermoservice 1.0.0-2.4~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-thermoservice)
-- [node-red-contrib-multiflexi 0.3.9.16~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-web5 2.5.0.60~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
