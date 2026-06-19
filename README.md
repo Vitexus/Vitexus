@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [node-red-contrib-multiflexi 0.3.6.13~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [node-red-contrib-multiflexi 0.3.8.15~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-web5 2.5.0.60~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [multiflexi-housekeeper 1.0.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-housekeeper)
 - [multiflexi-doc 2.3.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
