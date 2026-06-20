@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [node-red-contrib-multiflexi 0.3.9.18~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [node-red-contrib-multiflexi 0.3.9.19~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [node-red-admin 4.1.6-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-admin)
 - [python3-polib 1.2.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-polib)
 - [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
