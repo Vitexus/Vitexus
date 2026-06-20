@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
+- [python3-mcp-server-webdriver 0.3.0-1.3~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp-server-webdriver)
+- [python3-pydantic-core 2.46.0-1~vitex1](https://repo.vitexsoftware.com/package.php?package=python3-pydantic-core)
+- [python3-typing-extensions 4.14.1-1~vitex1](https://repo.vitexsoftware.com/package.php?package=python3-typing-extensions)
 - [node-red-contrib-multiflexi 0.3.9.17~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
-- [node-red 4.1.10-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=node-red)
-- [node-red-contrib-abraflexi 0.2.3.1~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-abraflexi)
-- [node-red-contrib-thermoservice 1.0.0-2.4~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-thermoservice)
-- [multiflexi-web5 2.5.0.60~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
