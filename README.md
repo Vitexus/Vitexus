@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [zanderjaz-soundfonts 1.0.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=zanderjaz-soundfonts)
-- [node-red-contrib-multiflexi 0.3.9.19~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
-- [node-red-admin 4.1.6-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-admin)
-- [python3-polib 1.2.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-polib)
-- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
+- [audio-share-dbgsym 0.3.4.6~trixie](https://repo.vitexsoftware.com/package.php?package=audio-share-dbgsym)
+- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
+- [debian-lsp 0.1.10](https://repo.vitexsoftware.com/package.php?package=debian-lsp)
+- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
+- [flexibee 2026.3.18](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
