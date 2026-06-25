@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-cc-token-saver-mcp 1.0.0-1.7~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
 - [php-psr-http-server-handler 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-http-server-handler)
-- [python3-cc-token-saver-mcp 1.0.0-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
 - [isp-tools 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
 - [node-red-contrib-multiflexi 0.3.9.20~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [multiflexi-isp-tools 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
