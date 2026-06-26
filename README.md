@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-cc-token-saver-mcp 1.0.0-1.7~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
+- [php-tuupola-callable-handler 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-tuupola-callable-handler)
+- [php-psr-http-server-middleware 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-http-server-middleware)
+- [python3-cc-token-saver-mcp 1.0.0-1.11~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
 - [php-psr-http-server-handler 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-psr-http-server-handler)
 - [isp-tools 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [node-red-contrib-multiflexi 0.3.9.20~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
-- [multiflexi-isp-tools 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
