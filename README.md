@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-ybelenko-openapi-data-mocker-server-middleware 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-ybelenko-openapi-data-mocker-server-middleware)
-- [php-ybelenko-openapi-data-mocker 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-ybelenko-openapi-data-mocker)
-- [php-ybelenko-openapi-data-mocker-interfaces 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-ybelenko-openapi-data-mocker-interfaces)
-- [python3-cc-token-saver-mcp 1.0.0-1.13~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
-- [php-tuupola-callable-handler 0.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-tuupola-callable-handler)
+- [php-di-slim-bridge 0.1.0.8~bookworm](https://repo.vitexsoftware.com/package.php?package=php-di-slim-bridge)
+- [php-slim 3.12.5-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-slim)
+- [php-pimple 3.5.0-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-pimple)
+- [php-di 7.0.10-1](https://repo.vitexsoftware.com/package.php?package=php-di)
+- [php-laravel-serializable-closure 1.3.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-laravel-serializable-closure)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
