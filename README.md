@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [warden-mcp 0.2.28.5~resolute](https://repo.vitexsoftware.com/package.php?package=warden-mcp)
+- [warden-mcp 0.2.28.7~resolute](https://repo.vitexsoftware.com/package.php?package=warden-mcp)
 - [semaphore-mcp-server 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
 - [multiflexi-web5 2.5.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [bw-cli 2025.4.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=bw-cli)
