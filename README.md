@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [warden-mcp 0.2.28.5~resolute](https://repo.vitexsoftware.com/package.php?package=warden-mcp)
 - [semaphore-mcp-server 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
 - [multiflexi-web5 2.5.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [bw-cli 2025.4.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=bw-cli)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
-- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
