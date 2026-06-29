@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web5 2.5.0.65~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [semaphore-mcp-server 0.1.0.10~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
+- [multiflexi-web5 2.5.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [bw-cli 2025.4.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=bw-cli)
-- [vaultwarden-dbgsym 1.36.0-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=vaultwarden-dbgsym)
-- [semaphore-mcp-server 0.1.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
-- [php-slim-psr7 1.7.0-3](https://repo.vitexsoftware.com/package.php?package=php-slim-psr7)
+- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
+- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
