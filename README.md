@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-web5 2.5.0.70~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
 - [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
 - [ispconfig-zabbix-monitoring 0.7.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=ispconfig-zabbix-monitoring)
-- [mcp-ollama-python 1.0.7.3~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-ollama-python)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
