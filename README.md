@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-webdriver 0.6.0-2.16~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
+- [mcp-server-webdriver 0.6.0-3.18~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [redmine-mcp-server 2.4.0.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
 - [multiflexi-web5 2.5.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
