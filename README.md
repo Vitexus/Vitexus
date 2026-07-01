@@ -13,7 +13,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
 - [mcp-server-webdriver 0.6.0-2.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
-- [multiflexi-web5 2.5.0.70~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [multiflexi-web5 2.5.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 - [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
 - [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
