@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-api-doc-cs 1.0.1-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.0.1-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-api-doc-cs 1.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 - [python3-abraflexi-doc-en 1.1.2-1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-abraflexi-doc-en)
 - [mcp-server-webdriver 0.6.0-3.18~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [redmine-mcp-server 2.4.0.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
