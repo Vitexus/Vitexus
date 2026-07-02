@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-abraflexi-doc-en 1.1.1-1.12~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-abraflexi-doc-en)
+- [python3-abraflexi-doc-en 1.1.2-1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-abraflexi-doc-en)
 - [mcp-server-webdriver 0.6.0-3.18~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [redmine-mcp-server 2.4.0.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
 - [multiflexi-web5 2.5.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
