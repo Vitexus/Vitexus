@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-abraflexi-doc-en 1.1.1-1.12~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-abraflexi-doc-en)
 - [mcp-server-webdriver 0.6.0-3.18~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [redmine-mcp-server 2.4.0.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
 - [multiflexi-web5 2.5.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
-- [dev-symlink-manager 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=dev-symlink-manager)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
