@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 - [isp-tools 1.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
 - [multiflexi-isp-tools 1.1.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
-- [abraflexi-api-doc-cs 1.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 - [python3-abraflexi-doc-en 1.1.2-1.15~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-abraflexi-doc-en)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
