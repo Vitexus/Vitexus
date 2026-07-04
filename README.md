@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-yearend 0.2.1.6~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-yearend)
+- [abraflexi-yearend 0.2.3.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-yearend)
 - [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
 - [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 - [bw-cli 2025.4.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=bw-cli)
