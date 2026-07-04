@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mastodon-mcp-server 1.0.1-1.13~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
-- [thunderbird-mcp 0.7.3.2~resolute](https://repo.vitexsoftware.com/package.php?package=thunderbird-mcp)
-- [isp-tools 1.1.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [multiflexi-isp-tools 1.1.1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
+- [abraflexi-yearend 0.2.1.6~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-yearend)
 - [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [bw-cli 2025.4.0.1~bookworm](https://repo.vitexsoftware.com/package.php?package=bw-cli)
+- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
