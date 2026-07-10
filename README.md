@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.39~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [php-open-telemetry-exporter-otlp 1.4.0-1.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-exporter-otlp)
 - [php-open-telemetry-sdk 1.14.1~git20260706.00a5cda-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-sdk)
 - [php-open-telemetry-api 1.9.0-1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-api)
 - [php-open-telemetry-gen-otlp-protobuf 1.9.1~git20260617.66f04d0-1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-gen-otlp-protobuf)
-- [php-open-telemetry-context 1.5.0-1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-context)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
