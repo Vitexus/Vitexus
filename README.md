@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-symfony-dependency-injection 6.4.9.2.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-symfony-dependency-injection)
-- [otelcol-contrib 0.156.0](https://repo.vitexsoftware.com/package.php?package=otelcol-contrib)
-- [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [gecko-driver 0.37.0.26~resolute](https://repo.vitexsoftware.com/package.php?package=gecko-driver)
+- [php-tbachert-spi 1.0.6~git20260122.7456512-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-tbachert-spi)
+- [php-symfony-polyfill-php82 1.38.1-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-php82)
+- [php-symfony-polyfill-mbstring 1.38.2-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-symfony-polyfill-mbstring)
+- [php-open-telemetry-sem-conv 1.38.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-sem-conv)
+- [php-nyholm-psr7-server 1.1.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-nyholm-psr7-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
