@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-symfony-dependency-injection 6.4.9.2.4~resolute](https://repo.vitexsoftware.com/package.php?package=php-symfony-dependency-injection)
 - [multiflexi-doc 2.3.0.40~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [otelcol-contrib 0.156.0](https://repo.vitexsoftware.com/package.php?package=otelcol-contrib)
 - [php-http-discovery 1.20.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-http-discovery)
 - [php-nyholm-psr7-server 1.1.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=php-nyholm-psr7-server)
-- [php-open-telemetry-api 1.9.0-1.4~bookworm](https://repo.vitexsoftware.com/package.php?package=php-open-telemetry-api)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
