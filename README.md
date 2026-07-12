@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-kint-php-kint 6.1.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=php-kint-php-kint)
+- [abraflexi-yearend 0.2.3.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-yearend)
+- [flexibee 2026.4.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [mastodon-mcp-server 1.0.1-1.13~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
 - [multiflexi-doc 2.3.0.41~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-microsoft365 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
-- [php-symfony-dependency-injection 6.4.9.2.4~resolute](https://repo.vitexsoftware.com/package.php?package=php-symfony-dependency-injection)
-- [multiflexi-microsoft365-ui 0.1.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
-- [otelcol-contrib 0.156.0](https://repo.vitexsoftware.com/package.php?package=otelcol-contrib)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
