@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [node-tcomb-validation 3.3.0-1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=node-tcomb-validation)
+- [node-tcomb 3.2.17-1.3~bookworm](https://repo.vitexsoftware.com/package.php?package=node-tcomb)
+- [multiflexi-doc 2.3.0.44~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-web5 2.5.0.75~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [pohoda-zabbix 0.3.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-zabbix)
-- [pohoda-digest 1.0.0.27~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [php-spojenet-abraflexi 3.7.3.437~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
-- [php-riesenia-pohoda 1.5.2.12~resolute](https://repo.vitexsoftware.com/package.php?package=php-riesenia-pohoda)
-- [multiflexi-doc 2.3.0.43~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
