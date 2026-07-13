@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [netbox-mcp-server 1.2.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=netbox-mcp-server)
+- [netbox-mcp-server 1.2.1-1.3~trixie](https://repo.vitexsoftware.com/package.php?package=netbox-mcp-server)
 - [multiflexi-microsoft365 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
 - [pohoda-digest 1.0.0.29~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
 - [multiflexi-mserver 1.4.0.64~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
