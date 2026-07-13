@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [netbox-mcp-server 1.2.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=netbox-mcp-server)
 - [multiflexi-microsoft365 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
 - [pohoda-digest 1.0.0.29~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
 - [multiflexi-mserver 1.4.0.64~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
 - [multiflexi-microsoft365-ui 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
-- [node-mochawesome-report-generator 6.3.2-1.3~bookworm](https://repo.vitexsoftware.com/package.php?package=node-mochawesome-report-generator)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
