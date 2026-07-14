@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-multiflexi 1.1.0.1~trixie](https://repo.vitexsoftware.com/package.php?package=python3-multiflexi)
 - [netbox-mcp-server 1.2.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=netbox-mcp-server)
 - [mcp-server-webdriver 0.6.0-3.20~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [multiflexi-doc 2.3.0.45~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [multiflexi-microsoft365 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
-- [multiflexi-microsoft365-ui 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
