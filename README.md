@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web5 2.5.0.76~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [pohoda-digest 1.0.0.30~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
+- [multiflexi-pohoda-digest 1.0.0.30~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [mcp-server-webdriver 0.6.0-3.20~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [multiflexi-doc 2.3.0.46~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [python3-multiflexi 1.1.1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-multiflexi)
-- [python3-multiflexi-mcp-server 0.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-multiflexi-mcp-server)
-- [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [multiflexi-microsoft365 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
