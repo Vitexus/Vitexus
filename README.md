@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-server-datovka 0.1.0.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-datovka)
+- [python3-datovka 0.1.1.6~resolute](https://repo.vitexsoftware.com/package.php?package=python3-datovka)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
 - [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
 - [libdatovka8-dbgsym 0.7.3.9~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
-- [libdatovka-dev 0.7.3.9~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
-- [libdatovka8 0.7.3.9~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka8)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
