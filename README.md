@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.47~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-web5 2.5.0.77~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [pohoda-digest 1.0.0.32~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
+- [multiflexi-doc 2.3.0.48~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-pohoda-digest 1.0.0.32~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
 - [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
-- [libdatovka8-dbgsym 0.7.3.9~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
