@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-abraflexi 3.7.3.438~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
-- [php-spojenet-abraflexi-dev 3.7.3.438~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
+- [multiflexi-doc 2.3.0.47~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-web5 2.5.0.77~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
 - [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
 - [libdatovka8-dbgsym 0.7.3.9~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
