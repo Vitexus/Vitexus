@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [zabbix-mcp-server 1.1.0-1.5~bookworm](https://repo.vitexsoftware.com/package.php?package=zabbix-mcp-server)
+- [zabbix-mcp-server 1.1.0-1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=zabbix-mcp-server)
 - [mcp-server-webdriver 0.6.0-4.24~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [python3-opentelemetry-api 1.41.1-2.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-api)
 - [abraflexi-server 2022.5.5.197~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
