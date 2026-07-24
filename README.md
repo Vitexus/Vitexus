@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.55~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-doc 2.3.0.56~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [php-slim 4.15.2~trixie.3~bookworm](https://repo.vitexsoftware.com/package.php?package=php-slim)
 - [multiflexi-web5 2.5.0.90~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [abraflexi-server 2022.5.5.197~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
-- [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
