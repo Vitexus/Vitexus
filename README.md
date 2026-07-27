@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.58~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-doc 2.3.0.59~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [abraflexi-server 2022.5.5.197~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
 - [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
