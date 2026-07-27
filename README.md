@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 0.2.3.18~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [python3-cc-token-saver-mcp 1.0.0-1.14~trixie](https://repo.vitexsoftware.com/package.php?package=python3-cc-token-saver-mcp)
+- [multiflexi-doc 2.3.0.58~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [abraflexi-server 2022.5.5.197~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [mcp-server-webdriver 0.6.0-4.24~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
-- [multiflexi-doc 2.3.0.56~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
+- [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
+- [libdatovka8-dbgsym 0.7.3.9~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
