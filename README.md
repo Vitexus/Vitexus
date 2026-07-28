@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.60~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [mcprack 0.2.15.30~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-web5 2.5.0.91~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [python3-anyio 4.9.0-1~vitex1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-anyio)
-- [python3-h11 0.16.0-1~vitex1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-h11)
+- [multiflexi-mserver 1.4.0.66~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
+- [multiflexi-microsoft365 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
+- [multiflexi-database-connection 2.1.0.14~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
+- [multiflexi-mcp-server 0.1.0-4.11~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
+- [multiflexi-microsoft365-ui 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
