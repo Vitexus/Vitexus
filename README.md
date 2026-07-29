@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-mcp-server 0.2.0-1.14~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
+- [winbox 4.2-1.26~bookworm](https://repo.vitexsoftware.com/package.php?package=winbox)
 - [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [abraflexi-server 2022.5.5.198~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [python3-click 8.4.2-1](https://repo.vitexsoftware.com/package.php?package=python3-click)
-- [python3-ollama 0.6.2-1](https://repo.vitexsoftware.com/package.php?package=python3-ollama)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
