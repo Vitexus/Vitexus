@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 - [multiflexi-web5 2.5.0.92~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [multiflexi-mcp-server 0.2.0-1.14~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
 - [winbox 4.2-1.26~bookworm](https://repo.vitexsoftware.com/package.php?package=winbox)
 - [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [abraflexi-server 2022.5.5.198~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
