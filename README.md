@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.0.0.42~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [ms-365-mcp-server 0.136.0-1.3~bookworm](https://repo.vitexsoftware.com/package.php?package=ms-365-mcp-server)
 - [redmine-mcp-server 2.4.0.2.21~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
-- [mcprack 0.4.0.40~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [python3-flask-wtf 1.3.0.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-flask-wtf)
 - [multiflexi-web5 2.5.0.93~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [node-red-contrib-multiflexi 0.3.9.21~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
