@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-spojenet-abraflexi 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
-- [php-spojenet-abraflexi-dev 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
 - [mcprack 1.0.0.42~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [ms-365-mcp-server 0.136.0-1.3~bookworm](https://repo.vitexsoftware.com/package.php?package=ms-365-mcp-server)
-- [redmine-mcp-server 2.4.0.2.21~trixie](https://repo.vitexsoftware.com/package.php?package=redmine-mcp-server)
+- [multiflexi-pohoda-digest 1.0.0.33~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [multiflexi-web5 2.5.0.94~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [php-spojenet-abraflexi-dev 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
+- [php-spojenet-abraflexi 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
