@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.0.0.42~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcprack 1.0.0.43~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [multiflexi-pohoda-digest 1.0.0.33~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 - [multiflexi-web5 2.5.0.94~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [php-spojenet-abraflexi-dev 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
