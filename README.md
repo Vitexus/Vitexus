@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-subreg-client 1.0.0-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=python3-subreg-client)
 - [mcprack 1.1.0.46~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [multiflexi-web5 2.5.0.98~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [multiflexi-pohoda-digest 1.0.0.33~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 - [php-spojenet-abraflexi-dev 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
-- [php-spojenet-abraflexi 3.7.3.440~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
