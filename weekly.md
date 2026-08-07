@@ -1,41 +1,56 @@
-Date Range: 2026-07-24 to 2026-07-31
+Date Range: 2026-07-31 to 2026-08-07
 
 Weekly GitHub Commits:
 
 Repository: php-abraflexi
-- fix: avoid "null as array offset" deprecation on PHP 8.5 in RW (#111)
+- feat: add bank statement import call for BankovniUcet
 
-Co-authored-by: Claude Fable 5 <noreply@anthropic.com>
-
-Repository: pohoda-raiffeisenbank
-- fix(pohoda-raiffeisenbank): handle RateLimitExceededException and add fallback exception handling
-
-Bump vitexsoftware/rbczpremiumapi to 1.5.8 and add a broader catch(\Exception) fallback around PDF/XML statement downloads in pohodaSQL-raiffeisenbank-statements-sharepoint.php to degrade gracefully instead of crashing the job.
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- refactor(RB-API): update exit codes and add SharePoint permanent link feature
+Implement nacistVypis()/nacistVypisZeSouboru() to call
+/c/{firma}/bankovni-ucet/{id}/nacteni-vypisu, mirroring the existing
+Banka::stahnoutVypisyOnline() and Priloha::addAttachment() patterns.
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 
-Repository: v.s.cz
-- feat(src): add VitexSoftware mcprack to homepage Applications carousel
+Repository: ansible
+- fix(haproxy): disable duplicate cert renewal paths that skip haproxy reload
+
+Remove redundant certbot timers and cron jobs to ensure all renewals trigger a haproxy reload.
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+- feat(haproxy): add mcprack backend for new app on vyvojar.spoje.net
 
 Repository: Flexplorer
-- Bump phpunit/phpunit from 13.2.4 to 13.2.5 (#62)
+- Bump friendsofphp/php-cs-fixer from 3.95.15 to 3.95.18 (#64)
 
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 13.2.4 to 13.2.5.
-- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/13.2.5/ChangeLog-13.2.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/13.2.4...13.2.5)
+Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.95.15 to 3.95.18.
+- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
+- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.95.15...v3.95.18)
 
 ---
 updated-dependencies:
-- dependency-name: phpunit/phpunit
-  dependency-version: 13.2.5
+- dependency-name: friendsofphp/php-cs-fixer
+  dependency-version: 3.95.18
   dependency-type: direct:development
   update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Repository: Redmine2AbraFlexi
+- Bump docker/login-action from 4.4.0 to 4.6.0 (#63)
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.6.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...dbcb813823bdd20940b903addbd779551569679f)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-version: 4.6.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
