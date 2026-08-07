@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.2.2.51~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcprack 1.2.2.52~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-server 2022.5.5.199~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
 - [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
