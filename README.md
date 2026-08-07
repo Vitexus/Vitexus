@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
-- [python3-subreg-client 1.0.0-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=python3-subreg-client)
-- [mcprack 1.1.0.46~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-web5 2.5.0.98~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
-- [multiflexi-pohoda-digest 1.0.0.33~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [mcprack 1.2.0.49~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-server 2022.5.5.199~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [datovka 4.29.3.4~resolute](https://repo.vitexsoftware.com/package.php?package=datovka)
+- [datovka-dbgsym 4.29.3.4~bookworm](https://repo.vitexsoftware.com/package.php?package=datovka-dbgsym)
+- [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
