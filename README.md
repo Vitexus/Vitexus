@@ -19,6 +19,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 - [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
+
+![Vitex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitexus)
+
 ![IMG_20210519_192653](https://user-images.githubusercontent.com/2621130/120022731-1bd48900-bfed-11eb-90f9-4f88f560b8b7.jpg)
 
 <!--
