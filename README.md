@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-web5 2.5.0.99~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [multiflexi-web5 2.5.0.100~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [abraflexi-server 2022.5.5.199~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 - [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
