@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-realpad 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-realpad)
-- [multiflexi-doc 2.3.0.62~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [abraflexi-server 2022.5.5.200~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
+- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 - [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
-- [mcp-server-webdriver 0.7.0-1.26~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
