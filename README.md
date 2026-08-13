@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-database-connection 2.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
+- [multiflexi-mserver 1.4.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
+- [multiflexi-database-connection-ui 2.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection-ui)
+- [multiflexi-mserver-ui 1.4.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver-ui)
 - [multiflexi-doc 2.3.0.63~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [abraflexi-server 2022.5.5.200~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
