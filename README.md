@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-database-connection 2.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection)
-- [multiflexi-mserver 1.4.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver)
-- [multiflexi-database-connection-ui 2.1.0.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-database-connection-ui)
-- [multiflexi-mserver-ui 1.4.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-mserver-ui)
-- [multiflexi-doc 2.3.0.63~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-web5 2.5.0.104~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
+- [abraflexi-server 2022.5.5.200~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
+- [mcp-server-webdriver 0.7.0-1.26~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
+- [mcprack 1.3.0-1.62~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
