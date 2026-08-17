@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.64~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [mcprack 1.3.0-1.63~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
 - [multiflexi-pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 - [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [multiflexi-web5 2.5.0.105~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
