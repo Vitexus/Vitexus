@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.66~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
-- [multiflexi-doc 2.3.0.65~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [mcprack 1.3.0-1.63~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
 - [multiflexi-pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
