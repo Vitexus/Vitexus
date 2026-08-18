@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [sms-input 0.1.3.74~resolute](https://repo.vitexsoftware.com/package.php?package=sms-input)
-- [multiflexi-doc 2.3.0.66~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-sms-input 0.1.3.74~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
-- [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
-- [mcprack 1.3.0-1.63~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
+- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
+- [mcp-server-subreg 0.1.1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-subreg)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
