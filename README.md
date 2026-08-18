@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [sms-input 0.1.3.74~resolute](https://repo.vitexsoftware.com/package.php?package=sms-input)
 - [multiflexi-doc 2.3.0.66~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-sms-input 0.1.3.74~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-sms-input)
 - [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
 - [mcprack 1.3.0-1.63~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [multiflexi-pohoda-digest 1.0.0.34~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
