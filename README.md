@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-joserfc 1.5.0-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-joserfc)
 - [multiflexi-doc 2.3.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [multiflexi-web5 2.5.0.107~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
