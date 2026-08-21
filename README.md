@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [warden-mcp 0.2.28.9~resolute](https://repo.vitexsoftware.com/package.php?package=warden-mcp)
-- [thunderbird-mcp 0.7.3.3~resolute](https://repo.vitexsoftware.com/package.php?package=thunderbird-mcp)
-- [php-league-commonmark 2.8.2.4~resolute](https://repo.vitexsoftware.com/package.php?package=php-league-commonmark)
+- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [mcp-server-filesystem 0.1.0.3~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
-- [python3-griffelib 2.0.2-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=python3-griffelib)
+- [mcprack 1.3.0-1.64~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [multiflexi-doc 2.3.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
