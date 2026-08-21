@@ -12,8 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-server-filesystem 0.1.0.3~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
+- [python3-anyio 4.9.0-1~vitex1.3~trixie](https://repo.vitexsoftware.com/package.php?package=python3-anyio)
 - [mcprack 1.3.0-1.64~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [mcp-server-filesystem 0.1.0.2~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
+- [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
