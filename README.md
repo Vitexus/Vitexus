@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-pdo-sqlsrv-dbgsym 5.13.3-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-pdo-sqlsrv-dbgsym)
+- [php-pdo-sqlsrv 5.13.3-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-pdo-sqlsrv)
+- [php-sqlsrv 5.13.3-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-sqlsrv)
+- [php-sqlsrv-dbgsym 5.13.3-1.1~bookworm](https://repo.vitexsoftware.com/package.php?package=php-sqlsrv-dbgsym)
 - [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [mcp-server-filesystem 0.1.0.3~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
-- [mcprack 1.3.0-1.64~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-doc 2.3.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
