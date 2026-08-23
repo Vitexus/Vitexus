@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.68~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-web5 2.5.0.109~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-web5)
 - [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
 - [mcp-server-filesystem 0.1.0.3~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
 - [mcprack 1.3.0-1.64~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-doc 2.3.0.67~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-mcp-server 0.3.1-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
