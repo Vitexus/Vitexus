@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-anyio 4.9.0-1~vitex1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-anyio)
 - [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
 - [flexibee 2026.4.10](https://repo.vitexsoftware.com/package.php?package=flexibee)
 - [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
