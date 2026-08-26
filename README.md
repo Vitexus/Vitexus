@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [cbonsai 1.0.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=cbonsai)
 - [mcprack 1.3.0-1.67~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
 - [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
-- [mcp-email-server 1.1.0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-email-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
