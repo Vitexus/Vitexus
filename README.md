@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.5.0-1.68~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [cbonsai 1.0.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=cbonsai)
-- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
-- [mcp-client-for-ollama 0.28.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-client-for-ollama)
+- [pohoda-digest 1.0.0.35~trixie.35~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
+- [mcp-server-webdriver 0.7.0-1.27~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
+- [multiflexi-mcp-server 0.3.2-1.20~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
+- [mcprack 1.5.3-1.69~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [semaphore-mcp-server 0.1.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
