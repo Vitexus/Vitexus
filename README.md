@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-digest 1.0.0.35~trixie.35~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-digest)
-- [mcp-server-webdriver 0.7.0-1.27~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
-- [multiflexi-mcp-server 0.3.2-1.20~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-mcp-server)
-- [mcprack 1.5.3-1.69~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [semaphore-mcp-server 0.1.0.11~bookworm](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
+- [mastodon-mcp-server 1.0.3-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
+- [mcprack-mcp-server-mastodon 1.0.3-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-mastodon)
+- [multiflexi-doc 2.3.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [mcprack 1.5.7-1.71~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
