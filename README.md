@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-server-zabbix 2.0.2-1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=mcp-server-zabbix)
+- [mcprack-mcp-server-zabbix 2.0.2-1.9~bookworm](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-zabbix)
 - [mastodon-mcp-server 1.0.3-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
 - [mcprack-mcp-server-mastodon 1.0.3-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-mastodon)
 - [multiflexi-doc 2.3.0.71~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [mcprack 1.5.7-1.71~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
