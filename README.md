@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [node-red 4.1.10-2.14~trixie](https://repo.vitexsoftware.com/package.php?package=node-red)
 - [cbonsai 1.0.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=cbonsai)
 - [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
 - [mastodon-mcp-server 1.0.4-1.17~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
