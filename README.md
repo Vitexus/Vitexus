@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [warden-mcp 0.2.29.12~resolute](https://repo.vitexsoftware.com/package.php?package=warden-mcp)
-- [mcprack-mcp-server-warden 0.2.29.12~resolute](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-warden)
-- [mcp-server-webdriver 0.7.0-2.28~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
-- [mastodon-mcp-server 1.0.4-1.17~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
-- [mcprack-mcp-server-webdriver 0.7.0-2.28~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-webdriver)
+- [node-red-contrib-multiflexi 0.4.0.23~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
+- [abraflexi-api-doc-cs 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.1.0-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-server 2022.5.5.201~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [audio-share 0.3.4.6~resolute](https://repo.vitexsoftware.com/package.php?package=audio-share)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
