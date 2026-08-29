@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcp-server-webdriver 0.7.0-2.28~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
+- [mastodon-mcp-server 1.0.4-1.17~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
+- [mcprack-mcp-server-webdriver 0.7.0-2.28~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-webdriver)
+- [mcprack-mcp-server-mastodon 1.0.4-1.17~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-mastodon)
 - [mcprack 1.5.7-1.77~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [cbonsai 1.0.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=cbonsai)
-- [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
-- [mastodon-mcp-server 1.0.3-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
-- [mcp-server-filesystem 0.1.1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
