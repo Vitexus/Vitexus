@@ -12,6 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-tapo 0.8.4-1.56~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
 - [thunderbird-daily 152.0a1+.1096~trixie](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
 - [seznamds 2026.9.5~trixie](https://repo.vitexsoftware.com/package.php?package=seznamds)
 - [semaphore-mcp-server 0.1.0.12~trixie](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
