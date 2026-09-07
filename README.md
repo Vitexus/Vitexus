@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [redmine2abraflexi 2.0.1.98~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
+- [abraflexi-server-backup 2022.5.5.203~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server-backup)
+- [abraflexi-server 2022.5.5.203~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [python3-tapo 0.8.4-1.56~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-tapo)
 - [thunderbird-daily 152.0a1+.1096~trixie](https://repo.vitexsoftware.com/package.php?package=thunderbird-daily)
-- [seznamds 2026.9.5~trixie](https://repo.vitexsoftware.com/package.php?package=seznamds)
-- [semaphore-mcp-server 0.1.0.12~trixie](https://repo.vitexsoftware.com/package.php?package=semaphore-mcp-server)
-- [python3-multiflexi 1.1.1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-multiflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
