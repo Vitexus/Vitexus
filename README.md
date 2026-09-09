@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [playboy 1.0-1](https://repo.vitexsoftware.com/package.php?package=playboy)
 - [debs2sql 1.1.1.126~resolute](https://repo.vitexsoftware.com/package.php?package=debs2sql)
 - [mcp-server-blender 1.9.1-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-blender)
 - [multiflexi-doc 2.3.0.74~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [multiflexi-zabbix 2.4.3.27~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-zabbix)
-- [redmine2abraflexi 2.0.1.98~bookworm](https://repo.vitexsoftware.com/package.php?package=redmine2abraflexi)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
