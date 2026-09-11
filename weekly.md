@@ -1,54 +1,55 @@
-Date Range: 2026-08-28 to 2026-09-04
+Date Range: 2026-09-04 to 2026-09-11
 
 Weekly GitHub Commits:
 
-Repository: pohoda-raiffeisenbank
-- docs(pohoda): add SVG logo references and descriptions
+Repository: PohodaSQL
+- badge position update
+- feat(SpojeNet/PohodaSQL): fix duplicate číselné řady by agenda
 
-Add a logo image to each ### app section in README.md (statements
-sharepoint, link fixer, year archiver, transaction report), matching
-the pattern already used for pohoda-sharepoint-year-archiver. Adds
-pohoda-raiffeisenbank-link-fixer.svg and
-pohoda-raiffeisenbank-transaction-report.svg (copied from the app
-icons under multiflexi/), and includes a redesigned
-pohoda-raiffeisenbank-year-archiver.svg + its multiflexi/ counterpart,
-which the README referenced but never actually existed on disk.
+- Refactor `CiselnaRada::isKnown()` to include `RelCrAg` for agenda-scoped lookup
+- Modify `CiselnaRada::create()` to persist `RelCrAg` on auto-created rows
+- Add unit tests to validate agenda-scoped number series behavior
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- feat(multiflexi): add pohoda-sharepoint-year-archiver app, TARGET_YEAR option
+Claude-Session: https://claude.ai/code/session_01AjaUFk1JnxEDKtFf1ah6Gx
+- docs(README): add Debian packaging badge
 
-Registers the new MultiFlexi app (uuid b58d5bbe-...) that sorts bank
-statement PDF/XML files out of the working SharePoint folder into
-per-year subfolders, keeping only the current year in the working
-folder while older years stay available for audits (dry-run by
-default via ARCHIVE_APPLY).
-
-Adds an optional TARGET_YEAR setting to restrict a run to a single
-year instead of archiving every out-of-CURRENT_YEAR file at once
-(exit code 2 on an invalid value). Also reworks file tracking to
-carry each file's own SharePoint reference (server-relative URL or
-Graph item id) instead of re-deriving it from the filename, and
-deduplicates per-year folder creation.
+Repository: apache2-auth-redmine
+- chore(debian): enable and fix chown issue for forky distribution
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- refactor(Pohoda/RaiffeisenBank/Statementor): mark duplicates and log appropriately
+Claude-Session: https://claude.ai/code/session_01YVPQmZBdyuxFj1rTiJe9p6
+
+Repository: system
+- Release v1.6.3
+- fix: correct cwd typo in zabbix-system-api-health, add ZABBIX_* to required config
+
+- bin/zabbix-system-api-health had a duplicated "cd cd" typo
+- Init.php's required-config list now includes ZABBIX_SERVER, ZABBIX_HOST,
+  ZABBIX_SOURCE, matching what's already configured on the deployed instance
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01UnKyfQehQ1Z9ZRMEe4yyWB
+- fix(HealthCehck): skip ISPConfig check when credentials are unset
 
-Repository: v.s.cz
-- version(vitexsoftware-website): bump to version 0.202.8 for release
-- chore: update .gitignore to exclude NetBeans IDE config and PHP error log
-- feat(ui): add MultiFlexi and MCPRack promo banners and product page
+checkIspConfig() called the ISPConfig SOAP client and logged an error
+every run even when ISPCONFIG_SERVER/LOGIN/PASSWORD were blank, which
+flooded Zabbix with recurring "EASE Error Message" problems on
+system.spoje.net after the credentials were intentionally disabled.
 
-- Created `PromoBanner` class for wide promotional banners.
-- Updated CSS for promo banner styling.
-- Added two new promo banners on the homepage for MultiFlexi and MCPRack.
-- Created a dedicated product page for MCPRack with detailed content.
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01UnKyfQehQ1Z9ZRMEe4yyWB
 
 Repository: Redmine2AbraFlexi
-- feat(multiflexi): add support for foreign currency invoices
+- Readme update
+- feat: allow REDMINE_WORKER_MAIL to contain multiple user emails
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KW2Udp7vyHe5ariwAXNFNx
-- Merge branch 'main' of github.com:VitexSoftware/Redmine2AbraFlexi
+
+Repository: igdebi
+- chore(debian): enable debian:forky and backport chown fix
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01YVPQmZBdyuxFj1rTiJe9p6
 
