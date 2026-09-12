@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-all 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-all)
 - [bw-cli 2026.8.0.6~noble](https://repo.vitexsoftware.com/package.php?package=bw-cli)
 - [abraflexi-revolut 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut)
 - [php-vitexsoftware-multiflexi-core 2.11.0.369~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [multiflexi-cli 2.5.10.278~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
-- [playboy 1.0-1](https://repo.vitexsoftware.com/package.php?package=playboy)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
