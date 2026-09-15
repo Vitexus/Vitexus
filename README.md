@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-all 0.2.0.55~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-all)
-- [bw-cli 2026.8.0.6~noble](https://repo.vitexsoftware.com/package.php?package=bw-cli)
-- [abraflexi-revolut 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut)
-- [php-vitexsoftware-multiflexi-core 2.11.0.369~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-cli 2.5.10.278~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-cli)
+- [flexibee 2026.5.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [mcp-server-redmine 2.4.2.23~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-redmine)
+- [multiflexi-doc 2.3.0.77~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [abraflexi-server 2022.5.5.204~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
