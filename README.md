@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [isp-tools 1.1.4.10~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
+- [multiflexi-isp-tools 1.1.4.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
 - [node-red-contrib-multiflexi 0.4.0.30~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 - [abraflexi-server 2022.5.5.204~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [cbonsai 1.0.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=cbonsai)
-- [cc-token-saver-mcp 1.0.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=cc-token-saver-mcp)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
