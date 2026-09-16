@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [flexibee 2026.5.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [mcp-server-redmine 2.4.2.23~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-redmine)
-- [multiflexi-doc 2.3.0.77~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [abraflexi-server 2022.5.5.204~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
+- [abraflexi-server 2022.5.5.204~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [flexibee 2026.5.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
+- [mcp-server-blender 1.9.1-3.11~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-blender)
+- [mcp-server-datovka 0.2.3.13~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-datovka)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
