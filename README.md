@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2022.5.5.205~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [isp-tools 1.1.4.10~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
 - [multiflexi-isp-tools 1.1.4.10~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
 - [node-red-contrib-multiflexi 0.4.0.30~trixie](https://repo.vitexsoftware.com/package.php?package=node-red-contrib-multiflexi)
 - [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
-- [abraflexi-server 2022.5.5.204~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
