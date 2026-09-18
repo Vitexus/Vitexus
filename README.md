@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-multiflexi-core 2.11.0.375~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [multiflexi-doc 2.3.0.78~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [php-vitexsoftware-multiflexi-core-dev 2.11.0.375~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 - [abraflexi-server 2022.5.5.205~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [flexibee 2026.5.3](https://repo.vitexsoftware.com/package.php?package=flexibee)
-- [isp-tools 1.1.4.10~bookworm](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [mastodon-mcp-server 1.0.4-1.19~trixie](https://repo.vitexsoftware.com/package.php?package=mastodon-mcp-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
