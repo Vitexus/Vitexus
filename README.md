@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.11.0.375~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [multiflexi-doc 2.3.0.78~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.375~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
-- [abraflexi-server 2022.5.5.205~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [mcp-server-adb 0.3.8-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-adb)
+- [mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-server-warden)
+- [mcprack-mcp-server-adb 0.3.8-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-adb)
+- [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
