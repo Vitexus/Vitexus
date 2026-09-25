@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-mcp 1:2.0.0~b2-1~vitex2.23~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
 - [mcp-server-adb 0.3.8-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-adb)
 - [mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-server-warden)
 - [mcprack-mcp-server-adb 0.3.8-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-adb)
 - [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
