@@ -1,146 +1,65 @@
-Date Range: 2026-09-11 to 2026-09-18
+Date Range: 2026-09-18 to 2026-09-25
 
 Weekly GitHub Commits:
 
-Repository: php-subreg
-- composer: update ergebnis/composer-normalize requirement (#45)
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.52.0...2.53.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.53.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
 Repository: PohodaSQL
-- Merge remote-tracking branch 'origin/main'
-- docs(MajetkoveOperace): document that RefAg, not RefPredm, links to IM
-
-Confirmed against a live Pohoda database via sys.foreign_keys that
-IMpohyb.RefAg is the only FK to IM.ID. RefPredm's name misleadingly
-suggests it references the asset ("Předmět"), but it does not - using
-it to link an operation to its card silently creates an orphaned
-IMpohyb row that never appears on the card in the Pohoda GUI.
+- docs(IM): clarify `Vyuzito` field in Pohoda's Majetek class
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- composer: update ergebnis/composer-normalize requirement (#32)
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.49.0...2.53.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.53.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: system
-- refactor(api): remove unused Jacwright\RestServer-based REST API
+- chore(debian): consolidate SCM checkout and fix node scope for Publish to Aptly
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- refactor(debian): remove unused composer.json and update packaging
+- chore(debian): bump version to 0.2.3 for README documentation update
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
-- fix(abraflexi): handle webhook errors gracefully
+- docs(README): update available classes and fix badge
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+- docs(majetkove-operace): correct RefPredm as optional FK
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+- feat(SpojeNet/PohodaSQL): add PohodaSQL Agenda model classes for depreciation and documentation
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+- feat(SpojeNet/PohodaSQL): add methods for tracking changed records
 
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 
-Repository: realpad2mailkit
-- composer: update ergebnis/composer-normalize requirement (#8)
+Repository: .github
+- Update org profile: Pohoda platform tools and bank importers.
 
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.43.0...2.53.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.53.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-
-Repository: pohoda-client-checker
-- composer: update ergebnis/composer-normalize requirement (#32)
-
-Updates the requirements on [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) to permit the latest version.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.50.0...2.53.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.53.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Fix the broken Fio matrix row, group Pohoda core vs importers, and list changes-api, tools, ABO and asset-tools.
+- Add pohoda-tools and pohoda-changes-api to org profile.
 
 Repository: Flexplorer
-- Bump ergebnis/php-cs-fixer-config from 6.63.0 to 6.63.2 (#70)
+- Bump phpunit/phpunit from 13.3.3 to 13.3.4 (#75)
 
-Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.63.0 to 6.63.2.
-- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
-- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.63.0...6.63.2)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/php-cs-fixer-config
-  dependency-version: 6.63.2
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- Bump friendsofphp/php-cs-fixer from 3.95.18 to 3.95.25 (#72)
-
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.95.18 to 3.95.25.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.95.18...v3.95.25)
-
----
-updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.95.25
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- Bump phpunit/phpunit from 13.3.1 to 13.3.3 (#73)
-
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 13.3.1 to 13.3.3.
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 13.3.3 to 13.3.4.
 - [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/13.3.3/ChangeLog-13.3.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/13.3.1...13.3.3)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/13.3.4/ChangeLog-13.3.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/13.3.3...13.3.4)
 
 ---
 updated-dependencies:
 - dependency-name: phpunit/phpunit
-  dependency-version: 13.3.3
+  dependency-version: 13.3.4
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Bump ergebnis/php-cs-fixer-config from 6.63.2 to 6.63.3 (#76)
+
+Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.63.2 to 6.63.3.
+- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
+- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.63.2...6.63.3)
+
+---
+updated-dependencies:
+- dependency-name: ergebnis/php-cs-fixer-config
+  dependency-version: 6.63.3
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -149,51 +68,66 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Repository: abraflexi-config
-- composer: bump friendsofphp/php-cs-fixer from 3.95.11 to 3.95.25 (#106)
+- composer: bump phpunit/phpunit from 13.3.3 to 13.3.4 (#109)
 
-Bumps [friendsofphp/php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) from 3.95.11 to 3.95.25.
-- [Release notes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases)
-- [Changelog](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/compare/v3.95.11...v3.95.25)
+Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 13.3.3 to 13.3.4.
+- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
+- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/13.3.4/ChangeLog-13.3.md)
+- [Commits](https://github.com/sebastianbergmann/phpunit/compare/13.3.3...13.3.4)
 
 ---
 updated-dependencies:
-- dependency-name: friendsofphp/php-cs-fixer
-  dependency-version: 3.95.25
+- dependency-name: phpunit/phpunit
+  dependency-version: 13.3.4
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump phpunit/phpunit from 13.1.13 to 13.3.3 (#107)
+- composer: bump ergebnis/php-cs-fixer-config from 6.63.2 to 6.63.3 (#110)
 
-Bumps [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit) from 13.1.13 to 13.3.3.
-- [Release notes](https://github.com/sebastianbergmann/phpunit/releases)
-- [Changelog](https://github.com/sebastianbergmann/phpunit/blob/13.3.3/ChangeLog-13.3.md)
-- [Commits](https://github.com/sebastianbergmann/phpunit/compare/13.1.13...13.3.3)
+Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.63.2 to 6.63.3.
+- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
+- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.63.2...6.63.3)
 
 ---
 updated-dependencies:
-- dependency-name: phpunit/phpunit
-  dependency-version: 13.3.3
+- dependency-name: ergebnis/php-cs-fixer-config
+  dependency-version: 6.63.3
   dependency-type: direct:development
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-- composer: bump ergebnis/composer-normalize from 2.50.0 to 2.53.0 (#108)
+- composer: bump phpstan/phpstan from 2.2.5 to 2.2.14 (#111)
 
-Bumps [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) from 2.50.0 to 2.53.0.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.50.0...2.53.0)
+Bumps [phpstan/phpstan](https://github.com/phpstan/phpstan-phar-composer-source) from 2.2.5 to 2.2.14.
+- [Commits](https://github.com/phpstan/phpstan-phar-composer-source/commits)
 
 ---
 updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-version: 2.53.0
+- dependency-name: phpstan/phpstan
+  dependency-version: 2.2.14
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- composer: bump ergebnis/php-cs-fixer-config from 6.62.3 to 6.63.2 (#105)
+
+Bumps [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) from 6.62.3 to 6.63.2.
+- [Release notes](https://github.com/ergebnis/php-cs-fixer-config/releases)
+- [Changelog](https://github.com/ergebnis/php-cs-fixer-config/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/php-cs-fixer-config/compare/6.62.3...6.63.2)
+
+---
+updated-dependencies:
+- dependency-name: ergebnis/php-cs-fixer-config
+  dependency-version: 6.63.2
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
