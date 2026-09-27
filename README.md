@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-email 1.1.2-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-email)
-- [mcprack-mcp-server-email 1.1.2-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-email)
+- [mcprack 1.5.9-1.91~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcp-server-email 1.1.2-1.7~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-email)
+- [mcprack-mcp-server-email 1.1.2-1.7~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-email)
 - [python3-mcp 1:2.0.0~b2-1~vitex2.23~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
 - [mcp-server-adb 0.3.8-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-adb)
-- [mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-server-warden)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
