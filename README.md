@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.5.9-1.100~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [python3-mcprack-client 1.0.0-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=python3-mcprack-client)
 - [multiflexi-repocompare 2.2.4.114~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
 - [php-vitexsoftware-multiflexi-core 2.11.0.378~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [php-vitexsoftware-multiflexi-core-dev 2.11.0.378~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [mcprack 1.5.9-1.91~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [mcp-server-email 1.1.2-1.7~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-email)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
