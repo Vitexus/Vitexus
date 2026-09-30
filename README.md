@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.11.0.379~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.379~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [multiflexi-doc 2.3.0.84~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [mcprack 1.5.9-1.104~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcp-server-email 1.1.2-2.8~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-email)
 - [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
 - [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
