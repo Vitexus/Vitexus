@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.11.0.381~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.381~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [mcprack 1.5.9-1.105~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [vaultwarden-dbgsym 1.37.3-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=vaultwarden-dbgsym)
+- [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 - [abraflexi-server 2022.5.5.207~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [bw-cli 2026.8.0.6~trixie](https://repo.vitexsoftware.com/package.php?package=bw-cli)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
