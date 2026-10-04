@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.89~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [python3-launchy 0.2.0-1.11~resolute](https://repo.vitexsoftware.com/package.php?package=python3-launchy)
+- [multiflexi-tui-dbgsym 3.1.0.45~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-tui-dbgsym)
 - [mcprack 1.5.9-1.107~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [isp-tools 1.1.5.14~resolute](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [multiflexi-doc 2.3.0.87~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [multiflexi-isp-tools 1.1.5.14~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
-- [abraflexi-server 2022.5.5.207~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
