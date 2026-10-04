@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [godot4 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4)
 - [ishtaria-worldgen 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-worldgen)
+- [godot4-export-templates 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4-export-templates)
+- [ishtaria-doc 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-doc)
 - [ishtaria-worldgen-dbgsym 0.1.0.2~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-worldgen-dbgsym)
-- [multiflexi-doc 2.3.0.89~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [python3-launchy 0.2.0-1.11~resolute](https://repo.vitexsoftware.com/package.php?package=python3-launchy)
-- [multiflexi-tui-dbgsym 3.1.0.45~trixie](https://repo.vitexsoftware.com/package.php?package=multiflexi-tui-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
