@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ishtaria-server 0.1.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
-- [ishtaria-protocol 0.1.0.8~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-protocol)
-- [ishtaria-server-dbgsym 0.1.0.7~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-server-dbgsym)
+- [ishtaria-web 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
 - [godot4 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4)
 - [godot4-export-templates 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4-export-templates)
+- [ishtaria-admin 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
+- [ishtaria-admin-dbgsym 0.1.0.4~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
