@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ishtaria-web 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
-- [godot4 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4)
-- [godot4-export-templates 4.5-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=godot4-export-templates)
-- [ishtaria-admin 0.1.0.4~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
-- [ishtaria-admin-dbgsym 0.1.0.4~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
+- [ishtaria-client 0.1.0.10~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
+- [ishtaria-admin 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
+- [mcp-server-invokeai 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-invokeai)
+- [ishtaria-admin-dbgsym 0.1.0.6~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
+- [mcprack-mcp-server-invokeai 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-invokeai)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
