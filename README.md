@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ishtaria-client 0.1.0.10~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
-- [ishtaria-admin 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
-- [mcp-server-invokeai 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-invokeai)
-- [ishtaria-admin-dbgsym 0.1.0.6~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
-- [mcprack-mcp-server-invokeai 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-invokeai)
+- [ishtaria-client 0.2.0.11~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
+- [ishtaria-web 0.1.1.5~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
+- [ishtaria-admin 0.1.1.7~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
+- [ishtaria-server 0.1.0.10~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
+- [ishtaria-admin-dbgsym 0.1.1.7~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
