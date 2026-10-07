@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [ishtaria-client 0.2.0.11~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
-- [ishtaria-web 0.1.1.5~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
-- [ishtaria-admin 0.1.1.7~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin)
-- [ishtaria-server 0.1.0.10~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
-- [ishtaria-admin-dbgsym 0.1.1.7~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-admin-dbgsym)
+- [python3-mcp 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
+- [python3-mcp-types 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp-types)
+- [mcprack 1.5.9-1.108~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [ishtaria-worldgen 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-worldgen)
+- [ishtaria-web 0.1.2.7~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
