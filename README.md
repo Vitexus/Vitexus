@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mini-commander 1.0.0.3~resolute](https://repo.vitexsoftware.com/package.php?package=mini-commander)
+- [mini-commander-dbgsym 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=mini-commander-dbgsym)
 - [python3-mcp 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
 - [python3-mcp-types 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp-types)
 - [mcprack 1.5.9-1.108~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [ishtaria-worldgen 0.1.0.6~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-worldgen)
-- [ishtaria-web 0.1.2.7~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
