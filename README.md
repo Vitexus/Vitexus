@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mini-commander 1.0.0.3~resolute](https://repo.vitexsoftware.com/package.php?package=mini-commander)
-- [mini-commander-dbgsym 1.0.0.3~bookworm](https://repo.vitexsoftware.com/package.php?package=mini-commander-dbgsym)
-- [python3-mcp 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp)
-- [python3-mcp-types 1:2.0.0-1.30~bookworm](https://repo.vitexsoftware.com/package.php?package=python3-mcp-types)
-- [mcprack 1.5.9-1.108~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mini-commander 1.0.0.5~resolute](https://repo.vitexsoftware.com/package.php?package=mini-commander)
+- [mcprack 1.5.9-1.109~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcp-server-email 1.1.2-2.9~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-email)
+- [mini-commander-dbgsym 1.0.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=mini-commander-dbgsym)
+- [mcprack-mcp-server-email 1.1.2-2.9~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-email)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
