@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2022.5.5.208~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [php-vitexsoftware-ease-bootstrap 1.1.2.22~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
 - [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 - [multiflexi-abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-abraflexi-paid-invoice-dispatch)
 - [mini-commander 1.0.0.5~resolute](https://repo.vitexsoftware.com/package.php?package=mini-commander)
-- [mcprack 1.5.9-1.109~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
