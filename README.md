@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [ishtaria-client 0.2.0.13~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
 - [abraflexi-server 2022.5.5.209~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [isp-tools 1.1.5.15~resolute](https://repo.vitexsoftware.com/package.php?package=isp-tools)
 - [multiflexi-isp-tools 1.1.5.15~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-isp-tools)
 - [php-vitexsoftware-ease-bootstrap 1.1.2.22~noble](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-ease-bootstrap)
-- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
