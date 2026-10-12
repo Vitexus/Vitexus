@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-ardagnsrn-ollama-php 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-ardagnsrn-ollama-php)
-- [ishtaria-server 0.2.1.13~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
-- [ishtaria-client 0.2.0.13~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
-- [ishtaria-server-dbgsym 0.2.1.13~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-server-dbgsym)
-- [abraflexi-server 2022.5.5.209~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [pohoda-abo-importer 1.0.1.2~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-abo-importer)
+- [php-spojenet-abo-parser 0.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abo-parser)
+- [Kazumi 2.3.8](https://repo.vitexsoftware.com/package.php?package=Kazumi)
+- [multiflexi-pohoda-abo-importer 1.0.1.2~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-abo-importer)
+- [csas-authorize-zabbix 0.3.0.121~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
