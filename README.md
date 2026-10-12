@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [pohoda-abo-importer 1.0.1.2~resolute](https://repo.vitexsoftware.com/package.php?package=pohoda-abo-importer)
-- [php-spojenet-abo-parser 0.1.0-1.3~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abo-parser)
-- [Kazumi 2.3.8](https://repo.vitexsoftware.com/package.php?package=Kazumi)
-- [multiflexi-pohoda-abo-importer 1.0.1.2~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-abo-importer)
-- [csas-authorize-zabbix 0.3.0.121~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
+- [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
+- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
+- [abraflexi-server 2022.5.5.209~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
