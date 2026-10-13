@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.5.9-1.110~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [csas-pohoda 0.2.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
+- [multiflexi-csas-pohoda 0.2.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-pohoda)
 - [ishtaria-server 0.2.1.14~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
 - [ishtaria-protocol 0.1.0.12~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-protocol)
-- [ishtaria-server-dbgsym 0.2.1.14~trixie](https://repo.vitexsoftware.com/package.php?package=ishtaria-server-dbgsym)
-- [php-vitexsoftware-multiflexi-core 2.11.0.383~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.383~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
