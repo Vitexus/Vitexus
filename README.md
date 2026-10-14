@@ -14,9 +14,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 <!-- DEBIAN-PACKAGES-LIST:START -->
 - [abraflexi-server 2022.5.5.210~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [abraflexi-voip-credit 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-voip-credit)
-- [csas-authorize-zabbix 0.3.0.121~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
 - [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
-- [ishtaria-client 0.2.0.13~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
+- [ishtaria-protocol 0.1.0.12~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-protocol)
+- [ishtaria-server 0.2.1.14~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
