@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2022.5.5.210~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [abraflexi-voip-credit 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-voip-credit)
+- [csas-authorize-zabbix 0.3.0.121~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
 - [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
-- [multiflexi-csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-pohoda)
-- [python3-pydantic-core 2.46.0.11~trixie](https://repo.vitexsoftware.com/package.php?package=python3-pydantic-core)
-- [libdatovka8-dbgsym 0.7.4.17~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
-- [libdatovka-dev 0.7.4.17~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
+- [ishtaria-client 0.2.0.13~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-client)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
