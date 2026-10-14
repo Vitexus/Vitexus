@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.5.9-1.110~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [csas-pohoda 0.2.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
-- [multiflexi-csas-pohoda 0.2.0.6~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-pohoda)
-- [ishtaria-server 0.2.1.14~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
-- [ishtaria-protocol 0.1.0.12~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-protocol)
+- [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
+- [multiflexi-csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-csas-pohoda)
+- [python3-pydantic-core 2.46.0.11~trixie](https://repo.vitexsoftware.com/package.php?package=python3-pydantic-core)
+- [libdatovka8-dbgsym 0.7.4.17~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
+- [libdatovka-dev 0.7.4.17~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
