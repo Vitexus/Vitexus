@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-multiflexi-core 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-multiflexi-core-dev 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [abraflexi-server 2022.5.5.210~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [abraflexi-voip-credit 0.1.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-voip-credit)
 - [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
-- [ishtaria-protocol 0.1.0.12~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-protocol)
-- [ishtaria-server 0.2.1.14~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
