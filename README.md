@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2022.5.5.211~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [csas-authorize-zabbix 0.5.0.122~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
 - [python3-pydantic-core 2.50.1.14~trixie](https://repo.vitexsoftware.com/package.php?package=python3-pydantic-core)
 - [php-vitexsoftware-multiflexi-core 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
 - [php-vitexsoftware-multiflexi-core-dev 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [abraflexi-server 2022.5.5.210~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
