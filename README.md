@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [csas-authorize-zabbix 0.6.0.128~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
-- [abraflexi-server 2022.5.5.211~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
-- [mcp-server-datovka 0.2.5.22~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-datovka)
-- [mcprack-mcp-server-datovka 0.2.5.22~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-datovka)
+- [vaultwarden-dbgsym 1.37.3-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=vaultwarden-dbgsym)
+- [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
+- [abraflexi-revolut-statement-downloader 1.2.1.123~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-revolut-statement-downloader)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
