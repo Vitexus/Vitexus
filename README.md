@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [csas-authorize-zabbix 0.6.0.128~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
 - [abraflexi-server 2022.5.5.211~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [csas-authorize-zabbix 0.5.0.122~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-authorize-zabbix)
-- [python3-pydantic-core 2.50.1.14~trixie](https://repo.vitexsoftware.com/package.php?package=python3-pydantic-core)
-- [php-vitexsoftware-multiflexi-core 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.384~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [csas-pohoda 0.3.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=csas-pohoda)
+- [mcp-server-datovka 0.2.5.22~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-datovka)
+- [mcprack-mcp-server-datovka 0.2.5.22~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-datovka)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
