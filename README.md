@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-clientzone 2.1.14~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [piper-voice-en-us-libritts-r-medium 1.0.0-1](https://repo.vitexsoftware.com/package.php?package=piper-voice-en-us-libritts-r-medium)
+- [piper-voice-cs-cz-jirka-medium 1.0.0-1](https://repo.vitexsoftware.com/package.php?package=piper-voice-cs-cz-jirka-medium)
 - [mcprack 1.5.9-1.115~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [vaultwarden-dbgsym 1.37.3-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=vaultwarden-dbgsym)
-- [abraflexi-api-doc-cs 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.0-1.5~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
