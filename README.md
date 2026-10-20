@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.90~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [abraflexi-clientzone 2.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [mcprack 1.5.9-1.118~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [piper-voice-en-us-libritts-r-medium 1.0.0-1](https://repo.vitexsoftware.com/package.php?package=piper-voice-en-us-libritts-r-medium)
 - [piper-voice-cs-cz-jirka-medium 1.0.0-1](https://repo.vitexsoftware.com/package.php?package=piper-voice-cs-cz-jirka-medium)
-- [vaultwarden-dbgsym 1.37.3-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=vaultwarden-dbgsym)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
