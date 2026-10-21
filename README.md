@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-abraflexi-datatables 1.3.0.16~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-abraflexi-datatables)
 - [mcprack 1.5.9-1.120~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-clientzone 2.1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [mcprack-mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-warden)
 - [multiflexi-microsoft365 0.1.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
-- [multiflexi-microsoft365-ui 0.1.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
