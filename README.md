@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-server 2022.5.5.212~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [multiflexi-doc 2.3.0.90~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
-- [abraflexi-clientzone 2.1.18~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
-- [mcprack 1.5.9-1.118~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [piper-voice-en-us-libritts-r-medium 1.0.0-1](https://repo.vitexsoftware.com/package.php?package=piper-voice-en-us-libritts-r-medium)
+- [mcprack 1.5.9-1.119~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-clientzone 2.1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [mcprack-mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-warden)
+- [multiflexi-microsoft365 0.1.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365)
+- [multiflexi-microsoft365-ui 0.1.0.7~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-microsoft365-ui)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
