@@ -12,9 +12,9 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.5.9-1.121~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [multiflexi-doc 2.3.0.91~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [php-vitexsoftware-abraflexi-datatables 1.3.0.16~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-abraflexi-datatables)
-- [mcprack 1.5.9-1.120~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-clientzone 2.1.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [mcprack-mcp-server-warden 0.2.30-1.1~resolute](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-warden)
 <!-- DEBIAN-PACKAGES-LIST:END -->
