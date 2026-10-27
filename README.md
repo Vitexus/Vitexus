@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php7.4 1:7.4.33-31+0~20261021.121+spojenet-Debian10](https://repo.vitexsoftware.com/package.php?package=php7.4)
+- [php5.6 5.6.40-105+0~20261022.135+spojenet-debian9](https://repo.vitexsoftware.com/package.php?package=php5.6)
 - [abraflexi-server 2022.5.5.213~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 - [abraflexi-clientzone 2.5.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [abraflexi-clientzone-spojenet 2.5.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
-- [abraflexi-clientzone-vitexsoftware 2.5.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
-- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
