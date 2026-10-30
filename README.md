@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-spojenet-abraflexi 3.7.3.441~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi)
+- [php-spojenet-abraflexi-dev 3.7.3.441~resolute](https://repo.vitexsoftware.com/package.php?package=php-spojenet-abraflexi-dev)
+- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
 - [abraflexi-clientzone 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
-- [abraflexi-clientzone-spojenet 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
-- [abraflexi-clientzone-vitexsoftware 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
-- [multiflexi-pohoda-digest 1.1.0.46~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
-- [php-kint-php-kint 6.1.0-3.7~resolute](https://repo.vitexsoftware.com/package.php?package=php-kint-php-kint)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
