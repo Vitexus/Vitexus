@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.5.9-1.129~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [abraflexi-server 2022.5.5.214~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [isp-tools 1.1.5.17~resolute](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [multiflexi-migrations 2.5.8.220~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
-- [multiflexi-doc 2.3.0.91~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [abraflexi-clientzone 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.5.0.29~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
+- [multiflexi-pohoda-digest 1.1.0.46~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-pohoda-digest)
+- [php-kint-php-kint 6.1.0-3.7~resolute](https://repo.vitexsoftware.com/package.php?package=php-kint-php-kint)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
