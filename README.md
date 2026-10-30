@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [elder-terms 1.10.0](https://repo.vitexsoftware.com/package.php?package=elder-terms)
-- [php-mkevenaar-netbox 3.0.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=php-mkevenaar-netbox)
-- [php7.4 1:7.4.33-31+0~20261021.121+spojenet-Debian10](https://repo.vitexsoftware.com/package.php?package=php7.4)
-- [php5.6 5.6.40-105+0~20261022.135+spojenet-debian9](https://repo.vitexsoftware.com/package.php?package=php5.6)
-- [abraflexi-server 2022.5.5.213~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [mcprack 1.5.9-1.129~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-server 2022.5.5.214~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [isp-tools 1.1.5.17~resolute](https://repo.vitexsoftware.com/package.php?package=isp-tools)
+- [multiflexi-migrations 2.5.8.220~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
+- [multiflexi-doc 2.3.0.91~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
