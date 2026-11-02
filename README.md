@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [abraflexi-server 2022.5.5.214~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [isp-tools 1.1.5.17~resolute](https://repo.vitexsoftware.com/package.php?package=isp-tools)
-- [multiflexi-migrations 2.5.8.220~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-migrations)
+- [mcp-server-netbox 1.2.2-1.8~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-netbox)
+- [mcp-server-multiflexi 0.3.5-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-multiflexi)
+- [mcp-server-cc-token-saver 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-cc-token-saver)
+- [mcp-server-warden 0.2.53-1.4~resolute](https://repo.vitexsoftware.com/package.php?package=mcp-server-warden)
+- [mcprack-mcp-server-cc-token-saver 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-cc-token-saver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
