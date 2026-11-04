@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [python3-opentelemetry-instrumentation-httpx 0.64b0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-instrumentation-httpx)
+- [python3-opentelemetry-instrumentation-logging 0.64b0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-instrumentation-logging)
 - [mcp-server-webdriver 0.7.1-1.32~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 - [mcprack-mcp-server-webdriver 0.7.1-1.32~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-webdriver)
 - [mcp-server-netbox 1.2.2-1.8~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-netbox)
-- [mcp-server-multiflexi 0.3.5-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-multiflexi)
-- [mcp-server-cc-token-saver 1.0.1-1.5~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-cc-token-saver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
