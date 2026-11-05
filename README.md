@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-repocompare 2.2.4.119~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
 - [mcprack 1.5.9-1.134~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [python3-markdownify 1.2.3-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-markdownify)
 - [python3-opentelemetry-instrumentation-httpx 0.64b0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-instrumentation-httpx)
 - [python3-opentelemetry-instrumentation-logging 0.64b0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-instrumentation-logging)
-- [mcp-server-webdriver 0.7.1-1.32~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
