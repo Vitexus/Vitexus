@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-tui-dbgsym 3.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-tui-dbgsym)
 - [ishtaria-web 0.2.8.8~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
 - [multiflexi-repocompare 2.2.4.119~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
 - [mcprack 1.5.9-1.134~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [python3-markdownify 1.2.3-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-markdownify)
-- [python3-opentelemetry-instrumentation-httpx 0.64b0-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=python3-opentelemetry-instrumentation-httpx)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
