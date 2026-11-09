@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.5.9-1.135~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-tui-dbgsym 3.1.0.46~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-tui-dbgsym)
-- [ishtaria-web 0.2.8.8~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
-- [multiflexi-repocompare 2.2.4.119~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-repocompare)
-- [python3-markdownify 1.2.3-1.2~resolute](https://repo.vitexsoftware.com/package.php?package=python3-markdownify)
+- [mcp-server-webdriver 0.7.1-1.35~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
+- [mcp-server-mastodon 1.0.6-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-mastodon)
+- [mcp-server-filesystem 0.1.2.11~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
+- [multiflexi-semaphore 0.1.0.9~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-semaphore)
+- [mcp-server-zabbix 2.0.3-1.6~bookworm](https://repo.vitexsoftware.com/package.php?package=mcp-server-zabbix)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
