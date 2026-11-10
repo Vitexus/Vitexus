@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-eventor 0.2.2.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-eventor)
-- [abraflexi-webhook-acceptor 1.4.0.151~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor)
-- [abraflexi-api-doc-cs 1.2.2-1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.2-1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [abraflexi-clientzone 2.5.0.31~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [mcprack 1.6.0-1.139~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [multiflexi-eventor 0.2.2.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-eventor)
+- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
