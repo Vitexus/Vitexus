@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-datovka 0.2.5.26~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-datovka)
-- [mcprack-mcp-server-datovka 0.2.5.26~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-datovka)
-- [mcp-server-webdriver 0.7.1-1.35~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-webdriver)
-- [mcp-server-mastodon 1.0.6-1.6~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-mastodon)
-- [mcp-server-filesystem 0.1.2.11~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-filesystem)
+- [multiflexi-eventor 0.2.2.13~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-eventor)
+- [abraflexi-webhook-acceptor 1.4.0.151~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-webhook-acceptor)
+- [abraflexi-api-doc-cs 1.2.2-1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.2-1.8~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-clientzone 2.5.0.31~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
