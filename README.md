@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.11.0.393~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.393~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [mcprack 1.6.0-1.140~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-eventor 0.2.2.15~bookworm](https://repo.vitexsoftware.com/package.php?package=multiflexi-eventor)
-- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [mcprack 1.7.0-1.143~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcp-server-googleoffice 2.4.1-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-googleoffice)
+- [mcprack-mcp-server-googleoffice 2.4.1-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-googleoffice)
+- [abraflexi-clientzone 2.5.0.31~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.5.0.15~trixie](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
