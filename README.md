@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack 1.7.0-1.143~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [mcprack 1.7.0-1.145~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [mcp-server-googleoffice 2.4.1-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-googleoffice)
 - [mcprack-mcp-server-googleoffice 2.4.1-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-googleoffice)
 - [abraflexi-clientzone 2.5.0.31~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
