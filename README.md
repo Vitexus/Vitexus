@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcprack-doc 1.7.0.4~bookworm](https://repo.vitexsoftware.com/package.php?package=mcprack-doc)
-- [mcprack 1.8.0-1.147~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [abraflexi-clientzone 2.5.0.31~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-server 2022.5.5.217~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [mcprack 1.8.0-1.151~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [python3-redmine 2.5.0.3~trixie.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-redmine)
+- [libdatovka8-dbgsym 0.8.0.18~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
+- [libdatovka-dev 0.8.0.18~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
