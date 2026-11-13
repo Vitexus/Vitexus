@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-svnhosts 0.2.3-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-svnhosts)
-- [mcprack-mcp-server-svnhosts 0.2.3-1.4~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-svnhosts)
-- [mcprack 1.8.0-1.152~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [abraflexi-server 2022.5.5.217~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [python3-redmine 2.5.0.3~trixie.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-redmine)
+- [python3-snipeit-api 0.5.2-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=python3-snipeit-api)
+- [mcprack 1.8.0-1.153~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
+- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
+- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
+- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
