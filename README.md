@@ -12,8 +12,8 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.8.0-1.152~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-server 2022.5.5.217~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [mcprack 1.8.0-1.151~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [python3-redmine 2.5.0.3~trixie.3~resolute](https://repo.vitexsoftware.com/package.php?package=python3-redmine)
 - [libdatovka8-dbgsym 0.8.0.18~bookworm](https://repo.vitexsoftware.com/package.php?package=libdatovka8-dbgsym)
 - [libdatovka-dev 0.8.0.18~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
