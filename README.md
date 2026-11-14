@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [abraflexi-clientzone 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
-- [php-vitexsoftware-multiflexi-core 2.11.0.399~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [abraflexi-clientzone-spojenet 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
-- [abraflexi-clientzone-vitexsoftware 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.0.399~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
+- [abraflexi-clientzone 2.7.0.35~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-contractor 0.2.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contractor)
+- [php-byjg-jinja-php 0.1.0.2~resolute](https://repo.vitexsoftware.com/package.php?package=php-byjg-jinja-php)
+- [abraflexi-clientzone-spojenet 2.7.0.35~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.7.0.35~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
