@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-snipeit 2.0.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-snipeit)
-- [mcprack-mcp-server-snipeit 2.0.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-snipeit)
-- [python3-caio 0.12.10-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-caio)
-- [python3-caio-dbgsym 0.12.10-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-caio-dbgsym)
-- [abraflexi-server 2022.5.5.217~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [abraflexi-clientzone 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [php-vitexsoftware-multiflexi-core 2.11.0.399~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [abraflexi-clientzone-spojenet 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.6.0.16~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
+- [php-vitexsoftware-multiflexi-core-dev 2.11.0.399~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
