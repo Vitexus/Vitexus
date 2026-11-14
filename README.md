@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [python3-snipeit-api 0.5.2-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=python3-snipeit-api)
-- [mcprack 1.8.0-1.153~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
-- [abraflexi-api-doc-en 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-en)
-- [abraflexi-paid-invoice-dispatch 0.1.0.1~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-paid-invoice-dispatch)
+- [mcp-server-snipeit 2.0.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-snipeit)
+- [mcprack-mcp-server-snipeit 2.0.1-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-snipeit)
+- [python3-caio 0.12.10-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-caio)
+- [python3-caio-dbgsym 0.12.10-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=python3-caio-dbgsym)
+- [abraflexi-server 2022.5.5.217~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
