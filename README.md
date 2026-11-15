@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [relate 1.0.2-1.1~noble](https://repo.vitexsoftware.com/package.php?package=relate)
-- [mcp-server-relate 1.0.2-1.1~noble](https://repo.vitexsoftware.com/package.php?package=mcp-server-relate)
-- [mcprack-mcp-server-relate 1.0.2-1.1~noble](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-relate)
-- [relate-dbgsym 1.0.2-1.1~trixie](https://repo.vitexsoftware.com/package.php?package=relate-dbgsym)
+- [relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=relate)
+- [mcp-server-relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=mcp-server-relate)
+- [mcprack-mcp-server-relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-relate)
+- [relate-dbgsym 1.0.2-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=relate-dbgsym)
 - [abraflexi-clientzone 2.10.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
