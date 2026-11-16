@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [abraflexi-server 2022.5.5.218~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [abraflexi-clientzone 2.10.2.46~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.10.2.46~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.10.2.46~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
 - [abraflexi-adminzone 0.3.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-adminzone)
-- [abraflexi-clientzone 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
-- [abraflexi-clientzone-spojenet 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
-- [abraflexi-clientzone-vitexsoftware 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
-- [abraflexi-contractor 0.2.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contractor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
