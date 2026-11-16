@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=relate)
-- [mcp-server-relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=mcp-server-relate)
-- [mcprack-mcp-server-relate 1.0.2-1.2~noble](https://repo.vitexsoftware.com/package.php?package=mcprack-mcp-server-relate)
-- [relate-dbgsym 1.0.2-1.2~trixie](https://repo.vitexsoftware.com/package.php?package=relate-dbgsym)
-- [abraflexi-clientzone 2.10.0.44~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-adminzone 0.3.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-adminzone)
+- [abraflexi-clientzone 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.10.1.45~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
+- [abraflexi-contractor 0.2.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-contractor)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
