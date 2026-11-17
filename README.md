@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [mcp-server-ollama 1.1.0-1.15~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-ollama)
-- [mcprack 1.8.0-1.161~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [mcp-server-cnb-cache 0.1.0.1~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-cnb-cache)
-- [mcp-server-pohoda 0.1.0-1.3~trixie](https://repo.vitexsoftware.com/package.php?package=mcp-server-pohoda)
-- [abraflexi-server 2022.5.5.218~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
+- [abraflexi-clientzone 2.10.2.48~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.10.2.48~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.10.2.48~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
+- [abraflexi-adminzone 0.3.0.2~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-adminzone)
+- [abraflexi-api-doc-cs 1.2.2-1.8~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-api-doc-cs)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
