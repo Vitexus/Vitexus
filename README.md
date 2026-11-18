@@ -12,7 +12,7 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [multiflexi-doc 2.3.0.101~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [multiflexi-doc 2.3.0.102~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 - [abraflexi-clientzone 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [abraflexi-clientzone-spojenet 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
 - [abraflexi-clientzone-vitexsoftware 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
