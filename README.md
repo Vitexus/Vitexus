@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [multiflexi-doc 2.3.0.101~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [abraflexi-clientzone 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-spojenet 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-vitexsoftware 2.10.2.49~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
 - [abraflexi-server 2022.5.5.218~resolute](https://repo.vitexsoftware.com/package.php?package=abraflexi-server)
-- [coinbase-mcp-server 1.0.0-1.3~forky](https://repo.vitexsoftware.com/package.php?package=coinbase-mcp-server)
-- [ishtaria-web 0.2.8.8~resolute](https://repo.vitexsoftware.com/package.php?package=ishtaria-web)
-- [libdatovka-dev 0.8.0.18~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka-dev)
-- [libdatovka8 0.8.0.18~resolute](https://repo.vitexsoftware.com/package.php?package=libdatovka8)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
