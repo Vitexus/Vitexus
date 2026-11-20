@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [mcprack 1.8.0-1.165~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
 - [abraflexi-clientzone 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
 - [abraflexi-clientzone-ipex 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-ipex)
 - [abraflexi-clientzone-spojenet 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
 - [abraflexi-clientzone-subreg 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-subreg)
-- [abraflexi-clientzone-vitexsoftware 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
