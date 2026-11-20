@@ -12,11 +12,11 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
-- [php-vitexsoftware-multiflexi-core 2.11.1.406~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.1.406~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
-- [mcprack-doc 1.7.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=mcprack-doc)
-- [mcprack 1.8.0-1.164~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [multiflexi-doc 2.3.0.103~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
+- [abraflexi-clientzone 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone)
+- [abraflexi-clientzone-ipex 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-ipex)
+- [abraflexi-clientzone-spojenet 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-spojenet)
+- [abraflexi-clientzone-subreg 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-subreg)
+- [abraflexi-clientzone-vitexsoftware 2.11.0.50~bookworm](https://repo.vitexsoftware.com/package.php?package=abraflexi-clientzone-vitexsoftware)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
 
