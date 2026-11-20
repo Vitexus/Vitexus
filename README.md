@@ -12,10 +12,10 @@ Or support me on https://www.patreon.com/VitexSoftware
 
 ### Latest Debian Packages
 <!-- DEBIAN-PACKAGES-LIST:START -->
+- [php-vitexsoftware-multiflexi-core 2.11.1.406~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
+- [php-vitexsoftware-multiflexi-core-dev 2.11.1.406~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [mcprack-doc 1.7.0.5~bookworm](https://repo.vitexsoftware.com/package.php?package=mcprack-doc)
 - [mcprack 1.8.0-1.164~trixie](https://repo.vitexsoftware.com/package.php?package=mcprack)
-- [php-vitexsoftware-multiflexi-core 2.11.1.404~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core)
-- [php-vitexsoftware-multiflexi-core-dev 2.11.1.404~resolute](https://repo.vitexsoftware.com/package.php?package=php-vitexsoftware-multiflexi-core-dev)
 - [multiflexi-doc 2.3.0.103~resolute](https://repo.vitexsoftware.com/package.php?package=multiflexi-doc)
 <!-- DEBIAN-PACKAGES-LIST:END -->
 
